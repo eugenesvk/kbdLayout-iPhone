@@ -941,12 +941,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>1u</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>EC80C549-7F48-4DB9-AD36-E2C9965C56BC</string>
 														<key>output</key>
-														<string>2</string>
+														<string>1</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -1265,10 +1265,10 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>2i</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>B0916593-ADB2-4F23-99BD-FB9F234D2A7D</string>
 														<key>output</key>
 														<string>2</string>
 													</dict>
@@ -1417,9 +1417,11 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>3</string>
+															<string>3ₒ</string>
 														</dict>
 														<key>keyID</key>
+														<string>50675216-170B-4F9A-8EBE-F3C98A0EB6FE</string>
+														<key>output</key>
 														<string>3</string>
 													</dict>
 													<key>suffixes</key>
@@ -1591,12 +1593,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>3o</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>F7169E44-852C-4AA3-A1CF-2E0E541C96D2</string>
 														<key>output</key>
-														<string>2</string>
+														<string>3</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -2627,12 +2629,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>4ₕ</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>F81478A2-40F2-449C-A395-4C85704D92E6</string>
 														<key>output</key>
-														<string>2</string>
+														<string>4</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -2787,12 +2789,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>4h</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>20046852-A42D-464D-B677-E4B12B156DA6</string>
 														<key>output</key>
-														<string>2</string>
+														<string>4</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -2951,12 +2953,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>5ⱼ</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>192C6971-2C09-415B-8DFB-4FFC6222A806</string>
 														<key>output</key>
-														<string>2</string>
+														<string>5</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -3111,12 +3113,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>5j</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>26B371D3-C08A-4A9C-82A6-B54BF61B003F</string>
 														<key>output</key>
-														<string>2</string>
+														<string>5</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -3275,12 +3277,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>6ₖ</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>47DC9884-D98B-4607-959C-D3D295E1EC81</string>
 														<key>output</key>
-														<string>2</string>
+														<string>6</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -3435,12 +3437,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>6k</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>9DAD0EF8-8165-4961-A71A-6F0549D3FE20</string>
 														<key>output</key>
-														<string>2</string>
+														<string>6</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -4066,12 +4068,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>7ᵦ</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>B464AFDF-E679-40CB-868E-E543439A2140</string>
 														<key>output</key>
-														<string>2</string>
+														<string>7</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -4244,12 +4246,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>7b</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>7E8BE0DF-8DE8-474E-A3E3-08AD8A2E419E</string>
 														<key>output</key>
-														<string>2</string>
+														<string>7</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -4408,12 +4410,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>8ₙ</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>4FA82485-2DE6-47FF-98FD-41B8C206FC90</string>
 														<key>output</key>
-														<string>2</string>
+														<string>8</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -4568,12 +4570,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>8n</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>0C48C11A-0569-40A0-A155-E3620466F65D</string>
 														<key>output</key>
-														<string>2</string>
+														<string>8</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -4750,12 +4752,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>9ₘ</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>56797496-A478-4CC7-9C5D-DA5B184E5C6F</string>
 														<key>output</key>
-														<string>2</string>
+														<string>9</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
@@ -4928,12 +4930,12 @@
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
-															<string>2ᵢ</string>
+															<string>9m</string>
 														</dict>
 														<key>keyID</key>
-														<string>9DA78765-E188-4D4D-A4BF-748628359124</string>
+														<string>8549A8BD-316C-4DFB-8AE7-79730574625F</string>
 														<key>output</key>
-														<string>2</string>
+														<string>9</string>
 													</dict>
 													<key>suffixes</key>
 													<array>
