@@ -10,6 +10,36 @@
 	<string>English</string>
 	<key>inputRules</key>
 	<array>
+		<dict>
+			<key>input1</key>
+			<string>,</string>
+			<key>input2</key>
+			<string>.</string>
+			<key>output</key>
+			<string>;</string>
+			<key>type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>input1</key>
+			<string>.</string>
+			<key>input2</key>
+			<string>.</string>
+			<key>output</key>
+			<string>:</string>
+			<key>type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>input1</key>
+			<string>.</string>
+			<key>input2</key>
+			<string>,</string>
+			<key>output</key>
+			<string>:</string>
+			<key>type</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 	<key>letters</key>
 	<array>
