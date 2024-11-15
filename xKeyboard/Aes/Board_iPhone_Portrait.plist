@@ -495,7 +495,7 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>Y₋</string>
+													<string>y₋</string>
 												</dict>
 												<key>keyID</key>
 												<string>8EF4D4E5-00D7-4CF9-B2FD-863421E8CC1B</string>
@@ -557,10 +557,10 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>Y</string>
+													<string>Y₋</string>
 												</dict>
 												<key>keyID</key>
-												<string>Y</string>
+												<string>E05C334F-E0E7-4E3A-B6CA-951FA5AC265C</string>
 												<key>output</key>
 												<string>Y</string>
 											</dict>
@@ -7813,7 +7813,7 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>Y₋</string>
+													<string>y₋</string>
 												</dict>
 												<key>keyID</key>
 												<string>8EF4D4E5-00D7-4CF9-B2FD-863421E8CC1B</string>
