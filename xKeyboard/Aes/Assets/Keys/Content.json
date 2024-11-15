@@ -792,7 +792,7 @@
                     "keyID": "192C6971-2C09-415B-8DFB-4FFC6222A806",
                     "keyCap":
                     {
-                        "text": "5j"
+                        "text": "5ⱼ"
                     },
                     "output": "5"
                 },
@@ -836,7 +836,7 @@
                     "keyID": "B464AFDF-E679-40CB-868E-E543439A2140",
                     "keyCap":
                     {
-                        "text": "7b"
+                        "text": "7ᵦ"
                     },
                     "output": "7"
                 },
@@ -878,33 +878,35 @@
                     }
                 },
                 {
-                    "keyID": "BC4A9B38-4DA8-4040-88CC-32F326695B78",
+                    "keyID": "FC627B69-CA44-4093-8FD2-05DA2C8400DF",
                     "keyCap":
                     {
-                        "text": "8_"
-                    },
-                    "output": "8"
+                        "text": ""
+                    }
                 },
                 {
                     "keyID": "EC80C549-7F48-4DB9-AD36-E2C9965C56BC",
                     "keyCap":
                     {
-                        "text": ""
-                    }
+                        "text": "1u"
+                    },
+                    "output": "1"
                 },
                 {
                     "keyID": "B0916593-ADB2-4F23-99BD-FB9F234D2A7D",
                     "keyCap":
                     {
-                        "text": ""
-                    }
+                        "text": "2i"
+                    },
+                    "output": "2"
                 },
                 {
                     "keyID": "F7169E44-852C-4AA3-A1CF-2E0E541C96D2",
                     "keyCap":
                     {
-                        "text": ""
-                    }
+                        "text": "3o"
+                    },
+                    "output": "3"
                 },
                 {
                     "keyID": "B577A565-A488-420C-99BA-C87F133AE341",
@@ -929,6 +931,90 @@
                         "text": "6)"
                     },
                     "output": "6"
+                },
+                {
+                    "keyID": "DF66261C-52CB-44B4-A294-FF32AB940982",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "20046852-A42D-464D-B677-E4B12B156DA6",
+                    "keyCap":
+                    {
+                        "text": "4h"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "26B371D3-C08A-4A9C-82A6-B54BF61B003F",
+                    "keyCap":
+                    {
+                        "text": "5j"
+                    },
+                    "output": "5"
+                },
+                {
+                    "keyID": "9DAD0EF8-8165-4961-A71A-6F0549D3FE20",
+                    "keyCap":
+                    {
+                        "text": "6k"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "5BB7F31E-4843-4295-906A-B9266B959582",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "12978F2C-C220-4DCD-8343-051031AD10AB",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "BC4A9B38-4DA8-4040-88CC-32F326695B78",
+                    "keyCap":
+                    {
+                        "text": "8_"
+                    },
+                    "output": "8"
+                },
+                {
+                    "keyID": "C420EFF5-147F-4B29-B451-F86D7A3ED974",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "7E8BE0DF-8DE8-474E-A3E3-08AD8A2E419E",
+                    "keyCap":
+                    {
+                        "text": "7b"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "0C48C11A-0569-40A0-A155-E3620466F65D",
+                    "keyCap":
+                    {
+                        "text": "8n"
+                    },
+                    "output": "8"
+                },
+                {
+                    "keyID": "8549A8BD-316C-4DFB-8AE7-79730574625F",
+                    "keyCap":
+                    {
+                        "text": "9m"
+                    },
+                    "output": "9"
                 }
             ]
         },
