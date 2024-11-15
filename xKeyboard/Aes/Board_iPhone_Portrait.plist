@@ -1414,6 +1414,63 @@
 												<dict>
 													<key>key</key>
 													<dict>
+														<key>candidateKeys</key>
+														<array>
+															<dict>
+																<key>keyCap</key>
+																<dict>
+																	<key>text</key>
+																	<string>o</string>
+																</dict>
+																<key>keyID</key>
+																<string>o</string>
+															</dict>
+															<dict>
+																<key>keyCap</key>
+																<dict>
+																	<key>text</key>
+																	<string>)</string>
+																</dict>
+																<key>keyID</key>
+																<string>)</string>
+															</dict>
+															<dict>
+																<key>keyCap</key>
+																<dict>
+																	<key>text</key>
+																	<string>]</string>
+																</dict>
+																<key>keyID</key>
+																<string>]</string>
+															</dict>
+															<dict>
+																<key>keyCap</key>
+																<dict>
+																	<key>text</key>
+																	<string>}</string>
+																</dict>
+																<key>keyID</key>
+																<string>}</string>
+															</dict>
+															<dict>
+																<key>keyCap</key>
+																<dict>
+																	<key>text</key>
+																	<string>i</string>
+																</dict>
+																<key>keyID</key>
+																<string>i</string>
+															</dict>
+															<dict>
+																<key>keyCap</key>
+																<dict>
+																	<key>text</key>
+																	<string>I</string>
+																</dict>
+																<key>keyID</key>
+																<string>I</string>
+															</dict>
+														</array>
 														<key>keyCap</key>
 														<dict>
 															<key>text</key>
@@ -1427,6 +1484,35 @@
 													<key>suffixes</key>
 													<array>
 														<string>1</string>
+														<string>2</string>
+														<string>3</string>
+														<string>4</string>
+														<string>5</string>
+														<string>6</string>
+														<string>7</string>
+														<string>8</string>
+														<string>9</string>
+														<string>0</string>
+														<string>1,</string>
+														<string>2,</string>
+														<string>3,</string>
+														<string>4,</string>
+														<string>5,</string>
+														<string>6,</string>
+														<string>7,</string>
+														<string>8,</string>
+														<string>9,</string>
+														<string>0,</string>
+														<string>1.</string>
+														<string>2.</string>
+														<string>3.</string>
+														<string>4.</string>
+														<string>5.</string>
+														<string>6.</string>
+														<string>7.</string>
+														<string>8.</string>
+														<string>9.</string>
+														<string>0.</string>
 													</array>
 													<key>type</key>
 													<integer>0</integer>
