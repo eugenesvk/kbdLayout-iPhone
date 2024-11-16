@@ -2018,6 +2018,305 @@
                 }
             ]
         },
+        {
+            "title": "Space",
+            "keys":
+            [
+                {
+                    "keyID": "547DE763-DD9F-44FC-84C6-B270EE21D7FC",
+                    "keyCap":
+                    {
+                        "text": "␠"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "6C9A96C2-9396-45E6-88F7-F7A8DCA75B06",
+                    "keyCap":
+                    {
+                        "text": "␠¦"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "7C36FDC7-4BD5-4939-81E0-567CB66512D6",
+                    "keyCap":
+                    {
+                        "text": "␠n⋅4"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "DC07B3BA-2F91-44AE-94F4-C8CFF0F4688E",
+                    "keyCap":
+                    {
+                        "text": "␠m⋅4"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "1E473DD6-8AEE-4BB5-8E3E-76000DB42B63",
+                    "keyCap":
+                    {
+                        "text": "␠n"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "D7EAA830-4795-4C90-81C1-A99EDFBFF724",
+                    "keyCap":
+                    {
+                        "text": "␠m"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "30CACF1A-F7F3-49D4-B846-52F598CAD604",
+                    "keyCap":
+                    {
+                        "text": "␠3/m"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "42043D55-B688-4C09-95A9-C615710BFA8E",
+                    "keyCap":
+                    {
+                        "text": "␠4/m"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "6FC8C5DA-27C8-493F-8C24-3D2BED94BEE5",
+                    "keyCap":
+                    {
+                        "text": "␠6/m"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "8262E82A-9D30-4C19-AE22-974CA8B5C39A",
+                    "keyCap":
+                    {
+                        "text": "␠f"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "A3E24FDC-879C-4746-B45E-143A86F1EBC1",
+                    "keyCap":
+                    {
+                        "text": "␠."
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "9E98D4D4-764C-4273-BC7F-A2796BAB0F1E",
+                    "keyCap":
+                    {
+                        "text": "␠t"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "2129AF97-3DF0-4B95-B910-5750B766DFF6",
+                    "keyCap":
+                    {
+                        "text": "␠h"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "D531867F-A43A-4D9D-9E14-B8D9EE83BED4",
+                    "keyCap":
+                    {
+                        "text": "␠0"
+                    },
+                    "output": "​"
+                },
+                {
+                    "keyID": "724993A1-4513-41DC-8872-1C6BD0182F2B",
+                    "keyCap":
+                    {
+                        "text": "␠0n⨝"
+                    },
+                    "output": "‌"
+                },
+                {
+                    "keyID": "90E9AA63-9399-4E97-9314-C58B2A8C22E4",
+                    "keyCap":
+                    {
+                        "text": "␠0⨝"
+                    },
+                    "output": "‍"
+                },
+                {
+                    "keyID": "189A87F4-7B6F-4E34-A432-0886A04D5D8A",
+                    "keyCap":
+                    {
+                        "text": "␠→"
+                    },
+                    "output": "‎"
+                },
+                {
+                    "keyID": "50737527-CED8-4951-B8AD-0AE9984C8914",
+                    "keyCap":
+                    {
+                        "text": "␠←"
+                    },
+                    "output": "‏"
+                },
+                {
+                    "keyID": "1E1CCD94-FBC0-45AF-A7CA-BF4C2D944A4C",
+                    "keyCap":
+                    {
+                        "text": "␠━"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "BF0F0292-E5F9-4045-AF80-78508400ABFD",
+                    "keyCap":
+                    {
+                        "text": "␠¶"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "0620CB57-01B5-49B1-8675-466C11DA9860",
+                    "keyCap":
+                    {
+                        "text": "␠→emb"
+                    },
+                    "output": "‪"
+                },
+                {
+                    "keyID": "67A27CE6-BF7F-400E-BE04-FAE0C8436A3B",
+                    "keyCap":
+                    {
+                        "text": "␠←emb"
+                    },
+                    "output": "‫"
+                },
+                {
+                    "keyID": "E60AA8E0-9C75-4438-9CFD-E469BCBE1C10",
+                    "keyCap":
+                    {
+                        "text": "␠popf"
+                    },
+                    "output": "‬"
+                },
+                {
+                    "keyID": "257E93DB-E192-4146-84D8-C4C687A88A27",
+                    "keyCap":
+                    {
+                        "text": "␠→ovr"
+                    },
+                    "output": "‭"
+                },
+                {
+                    "keyID": "8EC87141-E6E3-4B9E-A619-DF28643975F5",
+                    "keyCap":
+                    {
+                        "text": "␠←ovr"
+                    },
+                    "output": "‮"
+                },
+                {
+                    "keyID": "0229C091-3C91-4E75-917A-A721FC640506",
+                    "keyCap":
+                    {
+                        "text": "␠¦nar"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "D4B13B84-DB30-4533-BEFE-7062EE7AB2F2",
+                    "keyCap":
+                    {
+                        "text": "␠∑"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "4FFC8C00-768A-4A29-AC99-B1A1EA0FD4DC",
+                    "keyCap":
+                    {
+                        "text": "␠⨝ω"
+                    },
+                    "output": "⁠"
+                },
+                {
+                    "keyID": "6B72D4A4-3DED-462D-B783-986445BD904B",
+                    "keyCap":
+                    {
+                        "text": "␠fn"
+                    },
+                    "output": "⁡"
+                },
+                {
+                    "keyID": "2C26A512-8407-4221-A8C6-16CECE706E1A",
+                    "keyCap":
+                    {
+                        "text": "␠⋅invis"
+                    },
+                    "output": "⁢"
+                },
+                {
+                    "keyID": "81031B0E-6AE6-46BA-9903-728EACAACF14",
+                    "keyCap":
+                    {
+                        "text": "␠|invis"
+                    },
+                    "output": "⁣"
+                },
+                {
+                    "keyID": "A0B389A5-B5B5-4EB7-BA06-2B8C9FE27745",
+                    "keyCap":
+                    {
+                        "text": "␠+invis"
+                    },
+                    "output": "⁤"
+                },
+                {
+                    "keyID": "8A67636A-8254-42D5-99F9-B2BC3930ABC6",
+                    "keyCap":
+                    {
+                        "text": "␠n/a"
+                    },
+                    "output": "⁥"
+                },
+                {
+                    "keyID": "924F3E77-4E23-4CA0-9FF6-207F6E4A6132",
+                    "keyCap":
+                    {
+                        "text": "␠→isol"
+                    },
+                    "output": "⁦"
+                },
+                {
+                    "keyID": "AE2FE8D7-1BD5-4794-9F58-D638178F9093",
+                    "keyCap":
+                    {
+                        "text": "␠←isol"
+                    },
+                    "output": "⁧"
+                },
+                {
+                    "keyID": "7A0BA571-94DE-4BCA-A1B4-1FFE19718180",
+                    "keyCap":
+                    {
+                        "text": "␠1isol"
+                    },
+                    "output": "⁨"
+                },
+                {
+                    "keyID": "DFB0A274-2E6B-436E-B75A-AAD7AFD54F13",
+                    "keyCap":
+                    {
+                        "text": "␠popIsol"
+                    },
+                    "output": "⁩"
                 }
             ]
         },
