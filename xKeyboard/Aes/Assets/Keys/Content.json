@@ -310,7 +310,7 @@
                     "keyID": "656A40A4-32ED-46A9-A4E1-660032392540",
                     "keyCap":
                     {
-                        "text": "V₀"
+                        "text": "V›"
                     },
                     "output": "V"
                 },
@@ -377,6 +377,46 @@
                         "text": "Y₋"
                     },
                     "output": "Y"
+                },
+                {
+                    "keyID": "52E92EAB-6AE1-4B69-BADF-05E1B2178E98",
+                    "keyCap":
+                    {
+                        "text": "E["
+                    },
+                    "output": "E"
+                },
+                {
+                    "keyID": "D05140E3-8E5E-45EA-A83B-FF52C2ED0004",
+                    "keyCap":
+                    {
+                        "text": "R]"
+                    },
+                    "output": "R"
+                },
+                {
+                    "keyID": "C6F42FA1-9E7B-40B4-BEB1-A8412A857F11",
+                    "keyCap":
+                    {
+                        "text": "P₊"
+                    },
+                    "output": "P"
+                },
+                {
+                    "keyID": "18F4B34B-2E2D-459C-AA3B-9678420A76A6",
+                    "keyCap":
+                    {
+                        "text": "L*"
+                    },
+                    "output": "L"
+                },
+                {
+                    "keyID": "4C6716AF-218A-4F25-9B2C-47B4BEA6E9E9",
+                    "keyCap":
+                    {
+                        "text": "‹C"
+                    },
+                    "output": "C"
                 }
             ]
         },
@@ -618,7 +658,7 @@
                     "keyID": "EB478FE3-66FB-4638-B1E1-1313980A0924",
                     "keyCap":
                     {
-                        "text": "v₁"
+                        "text": "v›"
                     },
                     "output": "v"
                 },
@@ -693,6 +733,46 @@
                         "text": "y₋"
                     },
                     "output": "y"
+                },
+                {
+                    "keyID": "4A7AF99A-F8F0-4CD0-8524-34A7382A8E1F",
+                    "keyCap":
+                    {
+                        "text": "r]"
+                    },
+                    "output": "r"
+                },
+                {
+                    "keyID": "18123E08-E6D0-4A24-9597-59F148DDFFCA",
+                    "keyCap":
+                    {
+                        "text": "p₊"
+                    },
+                    "output": "p"
+                },
+                {
+                    "keyID": "17280CAA-B768-482E-B205-50B1A1EDFBD7",
+                    "keyCap":
+                    {
+                        "text": "e["
+                    },
+                    "output": "e"
+                },
+                {
+                    "keyID": "6464B77C-28AB-41C3-B23E-CE656272BE68",
+                    "keyCap":
+                    {
+                        "text": "l*"
+                    },
+                    "output": "l"
+                },
+                {
+                    "keyID": "44C900AA-75A9-4AE6-BE63-CBAF6236710D",
+                    "keyCap":
+                    {
+                        "text": "‹c"
+                    },
+                    "output": "c"
                 }
             ]
         },
@@ -829,8 +909,9 @@
                     "keyID": "B125AEF4-9E79-4AA9-975E-8F51EADABDF4",
                     "keyCap":
                     {
-                        "text": ""
-                    }
+                        "text": "0\""
+                    },
+                    "output": "0"
                 },
                 {
                     "keyID": "B464AFDF-E679-40CB-868E-E543439A2140",
@@ -881,8 +962,9 @@
                     "keyID": "FC627B69-CA44-4093-8FD2-05DA2C8400DF",
                     "keyCap":
                     {
-                        "text": ""
-                    }
+                        "text": "0-"
+                    },
+                    "output": "0"
                 },
                 {
                     "keyID": "EC80C549-7F48-4DB9-AD36-E2C9965C56BC",
@@ -936,8 +1018,9 @@
                     "keyID": "DF66261C-52CB-44B4-A294-FF32AB940982",
                     "keyCap":
                     {
-                        "text": ""
-                    }
+                        "text": "0—"
+                    },
+                    "output": "0"
                 },
                 {
                     "keyID": "20046852-A42D-464D-B677-E4B12B156DA6",
@@ -971,13 +1054,6 @@
                     }
                 },
                 {
-                    "keyID": "12978F2C-C220-4DCD-8343-051031AD10AB",
-                    "keyCap":
-                    {
-                        "text": ""
-                    }
-                },
-                {
                     "keyID": "BC4A9B38-4DA8-4040-88CC-32F326695B78",
                     "keyCap":
                     {
@@ -986,11 +1062,19 @@
                     "output": "8"
                 },
                 {
-                    "keyID": "C420EFF5-147F-4B29-B451-F86D7A3ED974",
+                    "keyID": "12978F2C-C220-4DCD-8343-051031AD10AB",
                     "keyCap":
                     {
                         "text": ""
                     }
+                },
+                {
+                    "keyID": "C420EFF5-147F-4B29-B451-F86D7A3ED974",
+                    "keyCap":
+                    {
+                        "text": "0'"
+                    },
+                    "output": "0"
                 },
                 {
                     "keyID": "7E8BE0DF-8DE8-474E-A3E3-08AD8A2E419E",
@@ -1230,6 +1314,161 @@
                     "keyCap":
                     {
                         "text": "⁼"
+                    }
+                },
+                {
+                    "keyID": "12CE756C-2C48-4D0C-8E3B-910B6D9C9A1C",
+                    "keyCap":
+                    {
+                        "text": "₀\""
+                    },
+                    "output": "₀"
+                },
+                {
+                    "keyID": "E49A195E-308D-4495-AC91-B46FC9909811",
+                    "keyCap":
+                    {
+                        "text": "⁲"
+                    }
+                },
+                {
+                    "keyID": "A10F9213-961C-4229-A3B5-8DEC1DED9213",
+                    "keyCap":
+                    {
+                        "text": "⁳"
+                    }
+                },
+                {
+                    "keyID": "2FFF740C-6A5F-43E2-AF04-FDADDC20E207",
+                    "keyCap":
+                    {
+                        "text": "ⁱ"
+                    }
+                },
+                {
+                    "keyID": "C0B0FB63-775C-434A-A64B-A3B180403ED2",
+                    "keyCap":
+                    {
+                        "text": "ₒ"
+                    }
+                },
+                {
+                    "keyID": "D28916B4-C671-4DB7-B606-B0C4CBBBA14F",
+                    "keyCap":
+                    {
+                        "text": "ⁿ"
+                    }
+                },
+                {
+                    "keyID": "AB1C72C7-70F9-454A-B07E-6C89A0549B53",
+                    "keyCap":
+                    {
+                        "text": "₏"
+                    }
+                },
+                {
+                    "keyID": "1BCD49D4-B3F7-4831-A8DE-5958AC44E862",
+                    "keyCap":
+                    {
+                        "text": "ₐ"
+                    }
+                },
+                {
+                    "keyID": "C1DA21F4-9CCD-4CFD-AC20-A84766377654",
+                    "keyCap":
+                    {
+                        "text": "ₑ"
+                    }
+                },
+                {
+                    "keyID": "D50F2FF5-0609-4D2A-9FA2-69E44FB8CA53",
+                    "keyCap":
+                    {
+                        "text": "ₕ"
+                    }
+                },
+                {
+                    "keyID": "3725710E-2F00-47CE-A9B1-D7C4DBE7ACA7",
+                    "keyCap":
+                    {
+                        "text": "ₓ"
+                    }
+                },
+                {
+                    "keyID": "71654937-0501-484A-8DF8-9FECFA4B9939",
+                    "keyCap":
+                    {
+                        "text": "ₖ"
+                    }
+                },
+                {
+                    "keyID": "8E6A545E-0BF6-49BC-87C0-EA7FD2859433",
+                    "keyCap":
+                    {
+                        "text": "ₔ"
+                    }
+                },
+                {
+                    "keyID": "199308E4-44CE-4014-A35D-2021063F3A91",
+                    "keyCap":
+                    {
+                        "text": "ₗ"
+                    }
+                },
+                {
+                    "keyID": "70F40E27-DA2B-4F9E-AE21-8F9CC9DC4135",
+                    "keyCap":
+                    {
+                        "text": "ₚ"
+                    }
+                },
+                {
+                    "keyID": "E5CDA836-4BF5-4809-8A75-4E199AE12FB7",
+                    "keyCap":
+                    {
+                        "text": "ₛ"
+                    }
+                },
+                {
+                    "keyID": "BB3292ED-B81C-4099-9258-EA3731F20CD0",
+                    "keyCap":
+                    {
+                        "text": "ₜ"
+                    }
+                },
+                {
+                    "keyID": "C8135C94-567F-4953-9627-0571033CA6E9",
+                    "keyCap":
+                    {
+                        "text": "ₙ"
+                    }
+                },
+                {
+                    "keyID": "2934CCB4-F544-4F65-982A-35C2B3C24295",
+                    "keyCap":
+                    {
+                        "text": "ₘ"
+                    }
+                },
+                {
+                    "keyID": "4E4D7CD9-1F69-439D-BC46-E0380B655D26",
+                    "keyCap":
+                    {
+                        "text": "₝"
+                    }
+                },
+                {
+                    "keyID": "361F6C30-1A40-4187-AC7F-2CA76FF1F89A",
+                    "keyCap":
+                    {
+                        "text": "₞"
+                    }
+                },
+                {
+                    "keyID": "45201528-CBBA-48A1-99B2-A7B599893071",
+                    "keyCap":
+                    {
+                        "text": "₟"
                     }
                 }
             ]
@@ -1533,6 +1772,54 @@
                     {
                         "text": "−"
                     }
+                },
+                {
+                    "keyID": "16D1097A-076F-4B6C-96DF-E93360E48E83",
+                    "keyCap":
+                    {
+                        "text": "/\""
+                    },
+                    "output": "/"
+                },
+                {
+                    "keyID": "709A6423-8245-4DF0-AFE8-074BAE401A2A",
+                    "keyCap":
+                    {
+                        "text": "/'"
+                    },
+                    "output": "/"
+                },
+                {
+                    "keyID": "FD01D6F7-8F13-4655-B278-18B6D4A158BD",
+                    "keyCap":
+                    {
+                        "text": "-₀"
+                    },
+                    "output": "-"
+                },
+                {
+                    "keyID": "CC6426FD-B3CC-4EF7-8E70-3A9AAB5EA12C",
+                    "keyCap":
+                    {
+                        "text": "—₀"
+                    },
+                    "output": "—"
+                },
+                {
+                    "keyID": "387B2740-41BF-4284-B2C9-1D801DB78F1F",
+                    "keyCap":
+                    {
+                        "text": "*ₗ"
+                    },
+                    "output": "*"
+                },
+                {
+                    "keyID": "52E5933D-670F-4645-A97F-6032C451C766",
+                    "keyCap":
+                    {
+                        "text": "*l"
+                    },
+                    "output": "*"
                 }
             ]
         },
@@ -1696,13 +1983,56 @@
                     {
                         "text": ""
                     }
+                },
+                {
+                    "keyID": "C170550D-C8A1-4EB2-89CA-275A1F14FC60",
+                    "keyCap":
+                    {
+                        "text": "\"₀"
+                    },
+                    "output": "\""
+                },
+                {
+                    "keyID": "1CAB353E-E816-4341-9EB2-2D007ECC8A11",
+                    "keyCap":
+                    {
+                        "text": "'₀"
+                    },
+                    "output": "'"
+                },
+                {
+                    "keyID": "1D86F8D2-1327-4461-B6FE-844D933FBC00",
+                    "keyCap":
+                    {
+                        "text": "\"/"
+                    },
+                    "output": "\""
+                },
+                {
+                    "keyID": "C42C6EBB-B2BC-443E-9DB6-166EAD6B202F",
+                    "keyCap":
+                    {
+                        "text": "'/"
+                    },
+                    "output": "'"
+                }
+            ]
+        },
                 }
             ]
         },
         {
             "title": "Combo Label",
             "keys":
-            []
+            [
+                {
+                    "keyID": "8E44CC51-3802-42DF-A2C6-A5230D94E5A0",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                }
+            ]
         },
         {
             "title": "∑Math",
@@ -1859,6 +2189,13 @@
                     }
                 },
                 {
+                    "keyID": "FCDDB1AB-3523-40EF-8BEA-BFA3B329A8F8",
+                    "keyCap":
+                    {
+                        "text": "≠"
+                    }
+                },
+                {
                     "keyID": "DB3596CE-AB58-4E60-AD6D-424D0DCEC81B",
                     "keyCap":
                     {
@@ -1881,19 +2218,19 @@
                     }
                 },
                 {
+                    "keyID": "36FE6B09-C80C-46F4-A71E-A58A4BD4ADF8",
+                    "keyCap":
+                    {
+                        "text": "¬"
+                    }
+                },
+                {
                     "keyID": "B7CE03E1-2206-4948-9911-7CA021B224BF",
                     "keyCap":
                     {
                         "text": "⁄f"
                     },
                     "output": "⁄"
-                },
-                {
-                    "keyID": "36FE6B09-C80C-46F4-A71E-A58A4BD4ADF8",
-                    "keyCap":
-                    {
-                        "text": "¬"
-                    }
                 },
                 {
                     "keyID": "4413CB33-20AA-4796-9C89-C8A4C7978CB1",
@@ -2013,6 +2350,22 @@
                     {
                         "text": "⊛"
                     }
+                },
+                {
+                    "keyID": "6D0C8384-AD38-4175-8F92-6211DE59EC22",
+                    "keyCap":
+                    {
+                        "text": "−y"
+                    },
+                    "output": "−"
+                },
+                {
+                    "keyID": "48F53BED-DEC5-436E-B00F-5B3185D00C3D",
+                    "keyCap":
+                    {
+                        "text": "−Y"
+                    },
+                    "output": "−"
                 }
             ]
         }
