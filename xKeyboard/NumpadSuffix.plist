@@ -1,0 +1,36 @@
+<plist version="1.0"><dict>
+<!-- formatted array of suffixes for keeping 123-Numpad keys enabled and not revert to their UIO-functionality -->
+													<key>suffixes</key>
+													<array>
+														<!-- Separators -->
+														<string>1</string>   <string>2</string>   <string>3</string>   <string>4</string>   <string>5</string>   <string>6</string>   <string>7</string>   <string>8</string>   <string>9</string>   <string>0</string>
+														<string>1,</string>  <string>2,</string>  <string>3,</string>  <string>4,</string>  <string>5,</string>  <string>6,</string>  <string>7,</string>  <string>8,</string>  <string>9,</string>  <string>0,</string>
+														<string>1.</string>  <string>2.</string>  <string>3.</string>  <string>4.</string>  <string>5.</string>  <string>6.</string>  <string>7.</string>  <string>8.</string>  <string>9.</string>  <string>0.</string>
+														<string>1_</string>  <string>2_</string>  <string>3_</string>  <string>4_</string>  <string>5_</string>  <string>6_</string>  <string>7_</string>  <string>8_</string>  <string>9_</string>  <string>0_</string>
+														<!-- Operators -->
+														<string>1−</string>  <string>2−</string>  <string>3−</string>  <string>4−</string>  <string>5−</string>  <string>6−</string>  <string>7−</string>  <string>8−</string>  <string>9−</string>  <string>0−</string>
+														<string>1+</string>  <string>2+</string>  <string>3+</string>  <string>4+</string>  <string>5+</string>  <string>6+</string>  <string>7+</string>  <string>8+</string>  <string>9+</string>  <string>0+</string>
+														<string>1*</string>  <string>2*</string>  <string>3*</string>  <string>4*</string>  <string>5*</string>  <string>6*</string>  <string>7*</string>  <string>8*</string>  <string>9*</string>  <string>0*</string>
+														<string>1/</string>  <string>2/</string>  <string>3/</string>  <string>4/</string>  <string>5/</string>  <string>6/</string>  <string>7/</string>  <string>8/</string>  <string>9/</string>  <string>0/</string>
+														<string>1∕</string>  <string>2∕</string>  <string>3∕</string>  <string>4∕</string>  <string>5∕</string>  <string>6∕</string>  <string>7∕</string>  <string>8∕</string>  <string>9∕</string>  <string>0∕</string>
+														<string>1⁄</string>  <string>2⁄</string>  <string>3⁄</string>  <string>4⁄</string>  <string>5⁄</string>  <string>6⁄</string>  <string>7⁄</string>  <string>8⁄</string>  <string>9⁄</string>  <string>0⁄</string>
+														<!-- Operators with a space separator -->
+														<string>1 </string>  <string>2 </string>  <string>3 </string>  <string>4 </string>  <string>5 </string>  <string>6 </string>  <string>7 </string>  <string>8 </string>  <string>9 </string>  <string>0 </string>
+														<string>1 </string>  <string>2 </string>  <string>3 </string>  <string>4 </string>  <string>5 </string>  <string>6 </string>  <string>7 </string>  <string>8 </string>  <string>9 </string>  <string>0 </string>
+														<string>1 </string>  <string>2 </string>  <string>3 </string>  <string>4 </string>  <string>5 </string>  <string>6 </string>  <string>7 </string>  <string>8 </string>  <string>9 </string>  <string>0 </string>
+														<string>1 </string>  <string>2 </string>  <string>3 </string>  <string>4 </string>  <string>5 </string>  <string>6 </string>  <string>7 </string>  <string>8 </string>  <string>9 </string>  <string>0 </string>
+														<string>1 </string>  <string>2 </string>  <string>3 </string>  <string>4 </string>  <string>5 </string>  <string>6 </string>  <string>7 </string>  <string>8 </string>  <string>9 </string>  <string>0 </string>
+														<string>1 </string>  <string>2 </string>  <string>3 </string>  <string>4 </string>  <string>5 </string>  <string>6 </string>  <string>7 </string>  <string>8 </string>  <string>9 </string>  <string>0 </string>
+														<string>1 −</string> <string>2 −</string> <string>3 −</string> <string>4 −</string> <string>5 −</string> <string>6 −</string> <string>7 −</string> <string>8 −</string> <string>9 −</string> <string>0 −</string>
+														<string>1 +</string> <string>2 +</string> <string>3 +</string> <string>4 +</string> <string>5 +</string> <string>6 +</string> <string>7 +</string> <string>8 +</string> <string>9 +</string> <string>0 +</string>
+														<string>1 *</string> <string>2 *</string> <string>3 *</string> <string>4 *</string> <string>5 *</string> <string>6 *</string> <string>7 *</string> <string>8 *</string> <string>9 *</string> <string>0 *</string>
+														<string>1 /</string> <string>2 /</string> <string>3 /</string> <string>4 /</string> <string>5 /</string> <string>6 /</string> <string>7 /</string> <string>8 /</string> <string>9 /</string> <string>0 /</string>
+														<string>1 ∕</string> <string>2 ∕</string> <string>3 ∕</string> <string>4 ∕</string> <string>5 ∕</string> <string>6 ∕</string> <string>7 ∕</string> <string>8 ∕</string> <string>9 ∕</string> <string>0 ∕</string>
+														<string>1 ⁄</string> <string>2 ⁄</string> <string>3 ⁄</string> <string>4 ⁄</string> <string>5 ⁄</string> <string>6 ⁄</string> <string>7 ⁄</string> <string>8 ⁄</string> <string>9 ⁄</string> <string>0 ⁄</string>
+														<string>1 − </string><string>2 − </string><string>3 − </string><string>4 − </string><string>5 − </string><string>6 − </string><string>7 − </string><string>8 − </string><string>9 − </string><string>0 − </string>
+														<string>1 + </string><string>2 + </string><string>3 + </string><string>4 + </string><string>5 + </string><string>6 + </string><string>7 + </string><string>8 + </string><string>9 + </string><string>0 + </string>
+														<string>1 * </string><string>2 * </string><string>3 * </string><string>4 * </string><string>5 * </string><string>6 * </string><string>7 * </string><string>8 * </string><string>9 * </string><string>0 * </string>
+														<string>1 / </string><string>2 / </string><string>3 / </string><string>4 / </string><string>5 / </string><string>6 / </string><string>7 / </string><string>8 / </string><string>9 / </string><string>0 / </string>
+														<string>1 ∕ </string><string>2 ∕ </string><string>3 ∕ </string><string>4 ∕ </string><string>5 ∕ </string><string>6 ∕ </string><string>7 ∕ </string><string>8 ∕ </string><string>9 ∕ </string><string>0 ∕ </string>
+														<string>1 ⁄ </string><string>2 ⁄ </string><string>3 ⁄ </string><string>4 ⁄ </string><string>5 ⁄ </string><string>6 ⁄ </string><string>7 ⁄ </string><string>8 ⁄ </string><string>9 ⁄ </string><string>0 ⁄ </string>
+													</array>
