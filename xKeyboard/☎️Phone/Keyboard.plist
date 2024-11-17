@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>candidateKeysTipVisible</key>
+	<false/>
+	<key>characterPreview</key>
+	<false/>
+	<key>createDateTime</key>
+	<string>2024-11-15 15:26:25</string>
+	<key>keyboardID</key>
+	<string>8ED9C475-09B2-47A5-AB7F-5DFF3572CF20</string>
+	<key>name</key>
+	<string>☎️Phone</string>
+	<key>type</key>
+	<string>Default</string>
+	<key>updateDateTime</key>
+	<string>2024-11-17 00:58:01</string>
+	<key>version</key>
+	<integer>3</integer>
+</dict>
+</plist>
