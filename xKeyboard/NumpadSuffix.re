@@ -1,0 +1,1 @@
+(<key>suffixes</key>[\n\s]+<array>)[^a]+(</array>)
