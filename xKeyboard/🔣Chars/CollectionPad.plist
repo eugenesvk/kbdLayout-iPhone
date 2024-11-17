@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetID</key>
+	<string>Collection</string>
+	<key>collectionType</key>
+	<string>Character</string>
+	<key>controlID</key>
+	<string>CollectionPad</string>
+	<key>controlType</key>
+	<string>collectionPad</string>
+	<key>gap</key>
+	<integer>2</integer>
+	<key>layoutType</key>
+	<integer>0</integer>
+	<key>navItemShape</key>
+	<integer>0</integer>
+	<key>navPosition</key>
+	<integer>1</integer>
+	<key>recentlyUsedEnabled</key>
+	<true/>
+	<key>restoreLastPositionEnabled</key>
+	<true/>
+	<key>scrollDirection</key>
+	<integer>0</integer>
+	<key>transparent</key>
+	<false/>
+	<key>viewType</key>
+	<integer>1</integer>
+</dict>
+</plist>
