@@ -2904,6 +2904,258 @@
                     "output": " "
                 }
             ]
+        },
+        {
+            "title": "☎️Phone",
+            "keys":
+            [
+                {
+                    "keyID": "C679C3E8-5987-4EE7-97BB-B38C96C5BB27",
+                    "keyCap":
+                    {
+                        "text": "4⏸"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "76CD6A18-9F5E-46C5-ACE7-058F412712C5",
+                    "keyCap":
+                    {
+                        "text": "6𝌗"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "73684B7A-EEC7-47A3-BFFD-156DB23A6D47",
+                    "keyCap":
+                    {
+                        "text": "7∗"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "664ECAC4-2DCD-4405-875D-F5345C1CE625",
+                    "keyCap":
+                    {
+                        "text": "9#"
+                    },
+                    "output": "9"
+                },
+                {
+                    "keyID": "5FADDD5F-3D5C-4106-A543-62F568DE771D",
+                    "keyCap":
+                    {
+                        "text": "0+"
+                    },
+                    "output": "0"
+                },
+                {
+                    "keyID": "CF989C67-DB94-404C-AAE3-247327120CF3",
+                    "keyCap":
+                    {
+                        "text": "2abc"
+                    },
+                    "output": "2"
+                },
+                {
+                    "keyID": "720E93AB-C539-4422-B20D-5D3A520A0043",
+                    "keyCap":
+                    {
+                        "text": "3def"
+                    },
+                    "output": "3"
+                },
+                {
+                    "keyID": "95B64A7B-9B20-475D-B8B6-81A8979295AE",
+                    "keyCap":
+                    {
+                        "text": "4ghi"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "174DB820-2426-4EA5-9CFB-22AA6517918F",
+                    "keyCap":
+                    {
+                        "text": "5jkl"
+                    },
+                    "output": "5"
+                },
+                {
+                    "keyID": "7E1F8BB0-3C61-492F-AC6C-1D7473B22054",
+                    "keyCap":
+                    {
+                        "text": "8tuv"
+                    },
+                    "output": "8"
+                },
+                {
+                    "keyID": "03B28EBE-AB46-497B-8A88-2C9D1D7CF1AE",
+                    "keyCap":
+                    {
+                        "text": "7∗pqrs"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "EF99012F-8A97-4D11-BBAE-698DB1F028AF",
+                    "keyCap":
+                    {
+                        "text": "9#wxyz"
+                    },
+                    "output": "9"
+                },
+                {
+                    "keyID": "1C41279D-009F-4507-94C4-FC518D36D285",
+                    "keyCap":
+                    {
+                        "text": "+7"
+                    }
+                },
+                {
+                    "keyID": "9DA9FCAA-C752-4FE5-9B34-48F2B689F801",
+                    "keyCap":
+                    {
+                        "text": "+1"
+                    }
+                },
+                {
+                    "keyID": "0417B98D-D5F9-4E26-B3E0-3B65DF0493E8",
+                    "keyCap":
+                    {
+                        "text": "␠"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "4DC35DEC-C005-4BD3-AEB9-3BCED9343BE8",
+                    "keyCap":
+                    {
+                        "text": "␠#"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "73A1352E-42DB-416D-B5D8-59F3E2DB19F7",
+                    "keyCap":
+                    {
+                        "text": ""
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "093B8004-0E7E-482B-A23E-64994EBADB30",
+                    "keyCap":
+                    {
+                        "text": "␠."
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "BB00DB10-B26C-45BB-A300-23F6FD95C3C3",
+                    "keyCap":
+                    {
+                        "text": "‒#"
+                    },
+                    "output": "‒"
+                },
+                {
+                    "keyID": "29D01780-26FC-4D0B-956E-A43C8991CBBD",
+                    "keyCap":
+                    {
+                        "text": "+7␠"
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "EE6C63C3-09BF-4F14-8F64-6968CD8DD342",
+                    "keyCap":
+                    {
+                        "text": "+7␠#"
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "2BC88F8E-86DA-4BBB-A389-2A5FAB8B9529",
+                    "keyCap":
+                    {
+                        "text": "+7␠."
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "E31384B1-684F-4340-9949-263668FCEDC4",
+                    "keyCap":
+                    {
+                        "text": "␠.("
+                    },
+                    "output": " ("
+                },
+                {
+                    "keyID": "A01763E3-C958-4A12-B9FD-452B57D143FA",
+                    "keyCap":
+                    {
+                        "text": "␠("
+                    },
+                    "output": " ("
+                },
+                {
+                    "keyID": "6E79FF01-F80C-4332-B3EA-D7AE72C682D8",
+                    "keyCap":
+                    {
+                        "text": ")␠."
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "8F4FBF49-0EBF-44A5-BE8B-A23205309465",
+                    "keyCap":
+                    {
+                        "text": ")␠#"
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "F2DFCF88-6701-44D4-B6E0-AC2774D59E82",
+                    "keyCap":
+                    {
+                        "text": ")␠"
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "50780EFA-1A48-40DC-9C96-625FFB944B0F",
+                    "keyCap":
+                    {
+                        "text": "✋wait"
+                    },
+                    "output": ";"
+                },
+                {
+                    "keyID": "1C9CF43E-12FD-4C84-B92B-492086A01401",
+                    "keyCap":
+                    {
+                        "text": "⏸pause"
+                    },
+                    "output": ","
+                },
+                {
+                    "keyID": "E0EA65DF-8779-4ACF-B8E5-4C829A8B071C",
+                    "keyCap":
+                    {
+                        "text": "6⌛️"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "0209E3C7-CFDE-41EF-AE6D-26D6985FCD98",
+                    "keyCap":
+                    {
+                        "text": "⌛️wait"
+                    },
+                    "output": ";"
+                }
+            ]
         }
     ]
 }
