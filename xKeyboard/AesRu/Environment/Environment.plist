@@ -375,6 +375,58 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>Ф</string>
+		<string>И</string>
+		<string>С</string>
+		<string>В</string>
+		<string>У</string>
+		<string>А</string>
+		<string>П</string>
+		<string>Р</string>
+		<string>Ш</string>
+		<string>О</string>
+		<string>Д</string>
+		<string>Д</string>
+		<string>Ь</string>
+		<string>Т</string>
+		<string>Щ</string>
+		<string>З</string>
+		<string>Й</string>
+		<string>К</string>
+		<string>Ы</string>
+		<string>Е</string>
+		<string>Г</string>
+		<string>М</string>
+		<string>Ц</string>
+		<string>Ч</string>
+		<string>Н</string>
+		<string>Я</string>
+		<string>ф</string>
+		<string>и</string>
+		<string>с</string>
+		<string>в</string>
+		<string>у</string>
+		<string>а</string>
+		<string>п</string>
+		<string>р</string>
+		<string>ш</string>
+		<string>о</string>
+		<string>л</string>
+		<string>д</string>
+		<string>ь</string>
+		<string>т</string>
+		<string>щ</string>
+		<string>з</string>
+		<string>й</string>
+		<string>к</string>
+		<string>ы</string>
+		<string>е</string>
+		<string>г</string>
+		<string>м</string>
+		<string>ц</string>
+		<string>ч</string>
+		<string>н</string>
+		<string>я</string>
 	</array>
 	<key>period</key>
 	<string>.</string>
