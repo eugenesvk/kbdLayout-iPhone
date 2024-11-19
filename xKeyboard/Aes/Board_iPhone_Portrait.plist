@@ -16793,7 +16793,7 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>☎️Phone</string>
+													<string>☎️</string>
 												</dict>
 												<key>keyID</key>
 												<string>3FBE7F70-67DC-4200-A83E-5C10CBAAB35F</string>
@@ -19777,7 +19777,7 @@
 					</dict>
 				</array>
 				<key>title</key>
-				<string>☎️Phone</string>
+				<string>☎️</string>
 			</dict>
 			<dict>
 				<key>layerID</key>
@@ -21175,7 +21175,7 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>☎️Phone</string>
+													<string>☎️</string>
 												</dict>
 												<key>keyID</key>
 												<string>3FBE7F70-67DC-4200-A83E-5C10CBAAB35F</string>
@@ -23292,7 +23292,7 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>☎️Phone</string>
+													<string>☎️</string>
 												</dict>
 												<key>keyID</key>
 												<string>3FBE7F70-67DC-4200-A83E-5C10CBAAB35F</string>
