@@ -49,12 +49,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Q</string>
+														<string>Й</string>
 													</dict>
 													<key>keyID</key>
-													<string>Q</string>
+													<string>Й</string>
 													<key>output</key>
-													<string>Q</string>
+													<string>Й</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -64,12 +64,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>q</string>
+													<string>й</string>
 												</dict>
 												<key>keyID</key>
-												<string>q</string>
+												<string>й</string>
 												<key>output</key>
-												<string>q</string>
+												<string>й</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -77,12 +77,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>q</string>
+														<string>й</string>
 													</dict>
 													<key>keyID</key>
-													<string>q</string>
+													<string>й</string>
 													<key>output</key>
-													<string>q</string>
+													<string>й</string>
 												</dict>
 											</array>
 											<key>shiftKey</key>
@@ -90,12 +90,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>Q</string>
+													<string>Й</string>
 												</dict>
 												<key>keyID</key>
-												<string>Q</string>
+												<string>Й</string>
 												<key>output</key>
-												<string>Q</string>
+												<string>Й</string>
 											</dict>
 										</dict>
 										<dict>
@@ -105,12 +105,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>W</string>
+														<string>Ц</string>
 													</dict>
 													<key>keyID</key>
-													<string>W</string>
+													<string>Ц</string>
 													<key>output</key>
-													<string>W</string>
+													<string>Ц</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -120,12 +120,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>w</string>
+													<string>ц</string>
 												</dict>
 												<key>keyID</key>
-												<string>w</string>
+												<string>ц</string>
 												<key>output</key>
-												<string>w</string>
+												<string>ц</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -133,12 +133,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>w</string>
+														<string>ц</string>
 													</dict>
 													<key>keyID</key>
-													<string>w</string>
+													<string>ц</string>
 													<key>output</key>
-													<string>w</string>
+													<string>ц</string>
 												</dict>
 											</array>
 											<key>shiftKey</key>
@@ -146,12 +146,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>W</string>
+													<string>Ц</string>
 												</dict>
 												<key>keyID</key>
-												<string>W</string>
+												<string>Ц</string>
 												<key>output</key>
-												<string>W</string>
+												<string>Ц</string>
 											</dict>
 										</dict>
 										<dict>
@@ -161,12 +161,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>E</string>
+														<string>У</string>
 													</dict>
 													<key>keyID</key>
-													<string>E</string>
+													<string>У</string>
 													<key>output</key>
-													<string>E</string>
+													<string>У</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -203,7 +203,7 @@
 												<key>keyID</key>
 												<string>17280CAA-B768-482E-B205-50B1A1EDFBD7</string>
 												<key>output</key>
-												<string>e</string>
+												<string>у</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -211,12 +211,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>e</string>
+														<string>у</string>
 													</dict>
 													<key>keyID</key>
-													<string>e</string>
+													<string>у</string>
 													<key>output</key>
-													<string>e</string>
+													<string>у</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -251,7 +251,7 @@
 												<key>keyID</key>
 												<string>52E92EAB-6AE1-4B69-BADF-05E1B2178E98</string>
 												<key>output</key>
-												<string>E</string>
+												<string>У</string>
 											</dict>
 										</dict>
 										<dict>
@@ -261,12 +261,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>E</string>
+														<string>У</string>
 													</dict>
 													<key>keyID</key>
-													<string>E</string>
+													<string>У</string>
 													<key>output</key>
-													<string>E</string>
+													<string>У</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -303,7 +303,7 @@
 												<key>keyID</key>
 												<string>4A7AF99A-F8F0-4CD0-8524-34A7382A8E1F</string>
 												<key>output</key>
-												<string>r</string>
+												<string>к</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -311,12 +311,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>e</string>
+														<string>у</string>
 													</dict>
 													<key>keyID</key>
-													<string>e</string>
+													<string>у</string>
 													<key>output</key>
-													<string>e</string>
+													<string>у</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -351,7 +351,7 @@
 												<key>keyID</key>
 												<string>D05140E3-8E5E-45EA-A83B-FF52C2ED0004</string>
 												<key>output</key>
-												<string>R</string>
+												<string>К</string>
 											</dict>
 										</dict>
 										<dict>
@@ -361,12 +361,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>T</string>
+														<string>Е</string>
 													</dict>
 													<key>keyID</key>
-													<string>T</string>
+													<string>Е</string>
 													<key>output</key>
-													<string>T</string>
+													<string>Е</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -376,12 +376,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>t</string>
+													<string>е</string>
 												</dict>
 												<key>keyID</key>
-												<string>t</string>
+												<string>е</string>
 												<key>output</key>
-												<string>t</string>
+												<string>е</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -389,12 +389,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>t</string>
+														<string>е</string>
 													</dict>
 													<key>keyID</key>
-													<string>t</string>
+													<string>е</string>
 													<key>output</key>
-													<string>t</string>
+													<string>е</string>
 												</dict>
 											</array>
 											<key>shiftKey</key>
@@ -402,12 +402,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>T</string>
+													<string>Е</string>
 												</dict>
 												<key>keyID</key>
-												<string>T</string>
+												<string>Е</string>
 												<key>output</key>
-												<string>T</string>
+												<string>Е</string>
 											</dict>
 										</dict>
 										<dict>
@@ -417,12 +417,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Y</string>
+														<string>Н</string>
 													</dict>
 													<key>keyID</key>
-													<string>Y</string>
+													<string>Н</string>
 													<key>output</key>
-													<string>Y</string>
+													<string>Н</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -482,23 +482,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>Y</string>
+																	<string>Н</string>
 																</dict>
 																<key>keyID</key>
-																<string>Y</string>
+																<string>Н</string>
 																<key>output</key>
-																<string>Y</string>
+																<string>Н</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>y</string>
+																	<string>н</string>
 																</dict>
 																<key>keyID</key>
-																<string>y</string>
+																<string>н</string>
 																<key>output</key>
-																<string>y</string>
+																<string>н</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -841,7 +841,7 @@
 												<key>keyID</key>
 												<string>8EF4D4E5-00D7-4CF9-B2FD-863421E8CC1B</string>
 												<key>output</key>
-												<string>y</string>
+												<string>н</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -849,12 +849,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>y</string>
+														<string>н</string>
 													</dict>
 													<key>keyID</key>
-													<string>y</string>
+													<string>н</string>
 													<key>output</key>
-													<string>y</string>
+													<string>н</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -912,23 +912,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>y</string>
+																	<string>н</string>
 																</dict>
 																<key>keyID</key>
-																<string>y</string>
+																<string>н</string>
 																<key>output</key>
-																<string>y</string>
+																<string>н</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>Y</string>
+																	<string>Н</string>
 																</dict>
 																<key>keyID</key>
-																<string>Y</string>
+																<string>Н</string>
 																<key>output</key>
-																<string>Y</string>
+																<string>Н</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -1271,7 +1271,7 @@
 												<key>keyID</key>
 												<string>E05C334F-E0E7-4E3A-B6CA-951FA5AC265C</string>
 												<key>output</key>
-												<string>Y</string>
+												<string>Н</string>
 											</dict>
 										</dict>
 										<dict>
@@ -1281,12 +1281,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>U</string>
+														<string>Г</string>
 													</dict>
 													<key>keyID</key>
-													<string>U</string>
+													<string>Г</string>
 													<key>output</key>
-													<string>U</string>
+													<string>Г</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -1335,23 +1335,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>U</string>
+																	<string>Г</string>
 																</dict>
 																<key>keyID</key>
-																<string>U</string>
+																<string>Г</string>
 																<key>output</key>
-																<string>U</string>
+																<string>Г</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>u</string>
+																	<string>г</string>
 																</dict>
 																<key>keyID</key>
-																<string>u</string>
+																<string>г</string>
 																<key>output</key>
-																<string>u</string>
+																<string>г</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -1683,7 +1683,7 @@
 												<key>keyID</key>
 												<string>B64265E1-8280-4777-864F-F4B900A8F35B</string>
 												<key>output</key>
-												<string>u</string>
+												<string>г</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -1691,12 +1691,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>u</string>
+														<string>г</string>
 													</dict>
 													<key>keyID</key>
-													<string>u</string>
+													<string>г</string>
 													<key>output</key>
-													<string>u</string>
+													<string>г</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -1743,23 +1743,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>u</string>
+																	<string>г</string>
 																</dict>
 																<key>keyID</key>
-																<string>u</string>
+																<string>г</string>
 																<key>output</key>
-																<string>u</string>
+																<string>г</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>U</string>
+																	<string>Г</string>
 																</dict>
 																<key>keyID</key>
-																<string>U</string>
+																<string>Г</string>
 																<key>output</key>
-																<string>U</string>
+																<string>Г</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -2091,7 +2091,7 @@
 												<key>keyID</key>
 												<string>382AF69E-2B33-4D54-8498-A315DCDE2287</string>
 												<key>output</key>
-												<string>U</string>
+												<string>Г</string>
 											</dict>
 										</dict>
 										<dict>
@@ -2101,12 +2101,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>I</string>
+														<string>Ш</string>
 													</dict>
 													<key>keyID</key>
-													<string>I</string>
+													<string>Ш</string>
 													<key>output</key>
-													<string>I</string>
+													<string>Ш</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -2155,23 +2155,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>I</string>
+																	<string>Ш</string>
 																</dict>
 																<key>keyID</key>
-																<string>I</string>
+																<string>Ш</string>
 																<key>output</key>
-																<string>I</string>
+																<string>Ш</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>i</string>
+																	<string>ш</string>
 																</dict>
 																<key>keyID</key>
-																<string>i</string>
+																<string>ш</string>
 																<key>output</key>
-																<string>i</string>
+																<string>ш</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -2503,7 +2503,7 @@
 												<key>keyID</key>
 												<string>511389FD-C726-472D-9EFB-0A1C13188B1E</string>
 												<key>output</key>
-												<string>i</string>
+												<string>ш</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -2511,12 +2511,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>i</string>
+														<string>ш</string>
 													</dict>
 													<key>keyID</key>
-													<string>i</string>
+													<string>ш</string>
 													<key>output</key>
-													<string>i</string>
+													<string>ш</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -2563,23 +2563,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>i</string>
+																	<string>ш</string>
 																</dict>
 																<key>keyID</key>
-																<string>i</string>
+																<string>ш</string>
 																<key>output</key>
-																<string>i</string>
+																<string>ш</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>I</string>
+																	<string>Ш</string>
 																</dict>
 																<key>keyID</key>
-																<string>I</string>
+																<string>Ш</string>
 																<key>output</key>
-																<string>I</string>
+																<string>Ш</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -2911,7 +2911,7 @@
 												<key>keyID</key>
 												<string>8B65DA35-51EF-4CE7-99CD-72432DE0F6CC</string>
 												<key>output</key>
-												<string>I</string>
+												<string>Ш</string>
 											</dict>
 										</dict>
 										<dict>
@@ -2921,12 +2921,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>O</string>
+														<string>Щ</string>
 													</dict>
 													<key>keyID</key>
-													<string>O</string>
+													<string>Щ</string>
 													<key>output</key>
-													<string>O</string>
+													<string>Щ</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -2975,23 +2975,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>O</string>
+																	<string>Щ</string>
 																</dict>
 																<key>keyID</key>
-																<string>O</string>
+																<string>Щ</string>
 																<key>output</key>
-																<string>O</string>
+																<string>Щ</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>o</string>
+																	<string>щ</string>
 																</dict>
 																<key>keyID</key>
-																<string>o</string>
+																<string>щ</string>
 																<key>output</key>
-																<string>o</string>
+																<string>щ</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -3323,7 +3323,7 @@
 												<key>keyID</key>
 												<string>EB908A79-3FD9-49C8-B0F3-CC2F935A86C5</string>
 												<key>output</key>
-												<string>o</string>
+												<string>щ</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -3331,12 +3331,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>o</string>
+														<string>щ</string>
 													</dict>
 													<key>keyID</key>
-													<string>o</string>
+													<string>щ</string>
 													<key>output</key>
-													<string>o</string>
+													<string>щ</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -3383,23 +3383,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>o</string>
+																	<string>щ</string>
 																</dict>
 																<key>keyID</key>
-																<string>o</string>
+																<string>щ</string>
 																<key>output</key>
-																<string>o</string>
+																<string>щ</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>O</string>
+																	<string>Щ</string>
 																</dict>
 																<key>keyID</key>
-																<string>O</string>
+																<string>Щ</string>
 																<key>output</key>
-																<string>O</string>
+																<string>Щ</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -3731,7 +3731,7 @@
 												<key>keyID</key>
 												<string>F94F808E-2DFE-47CD-B94D-CC182068ABC0</string>
 												<key>output</key>
-												<string>O</string>
+												<string>Щ</string>
 											</dict>
 										</dict>
 										<dict>
@@ -3741,12 +3741,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>P</string>
+														<string>З</string>
 													</dict>
 													<key>keyID</key>
-													<string>P</string>
+													<string>З</string>
 													<key>output</key>
-													<string>P</string>
+													<string>З</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -3817,23 +3817,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>P</string>
+																	<string>З</string>
 																</dict>
 																<key>keyID</key>
-																<string>P</string>
+																<string>З</string>
 																<key>output</key>
-																<string>P</string>
+																<string>З</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>p</string>
+																	<string>з</string>
 																</dict>
 																<key>keyID</key>
-																<string>p</string>
+																<string>з</string>
 																<key>output</key>
-																<string>p</string>
+																<string>з</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -4187,7 +4187,7 @@
 												<key>keyID</key>
 												<string>18123E08-E6D0-4A24-9597-59F148DDFFCA</string>
 												<key>output</key>
-												<string>p</string>
+												<string>з</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -4195,12 +4195,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>p</string>
+														<string>з</string>
 													</dict>
 													<key>keyID</key>
-													<string>p</string>
+													<string>з</string>
 													<key>output</key>
-													<string>p</string>
+													<string>з</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -4269,23 +4269,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>p</string>
+																	<string>з</string>
 																</dict>
 																<key>keyID</key>
-																<string>p</string>
+																<string>з</string>
 																<key>output</key>
-																<string>p</string>
+																<string>з</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>P</string>
+																	<string>З</string>
 																</dict>
 																<key>keyID</key>
-																<string>P</string>
+																<string>З</string>
 																<key>output</key>
-																<string>P</string>
+																<string>З</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -4639,7 +4639,7 @@
 												<key>keyID</key>
 												<string>C6F42FA1-9E7B-40B4-BEB1-A8412A857F11</string>
 												<key>output</key>
-												<string>P</string>
+												<string>З</string>
 											</dict>
 										</dict>
 										<dict>
@@ -4649,12 +4649,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>A</string>
+														<string>Ф</string>
 													</dict>
 													<key>keyID</key>
-													<string>A</string>
+													<string>Ф</string>
 													<key>output</key>
-													<string>A</string>
+													<string>Ф</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -4664,12 +4664,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>a</string>
+													<string>ф</string>
 												</dict>
 												<key>keyID</key>
-												<string>a</string>
+												<string>ф</string>
 												<key>output</key>
-												<string>a</string>
+												<string>ф</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -4677,12 +4677,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>a</string>
+														<string>ф</string>
 													</dict>
 													<key>keyID</key>
-													<string>a</string>
+													<string>ф</string>
 													<key>output</key>
-													<string>a</string>
+													<string>ф</string>
 												</dict>
 											</array>
 											<key>shiftKey</key>
@@ -4690,12 +4690,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>A</string>
+													<string>Ф</string>
 												</dict>
 												<key>keyID</key>
-												<string>A</string>
+												<string>Ф</string>
 												<key>output</key>
-												<string>A</string>
+												<string>Ф</string>
 											</dict>
 										</dict>
 										<dict>
@@ -4705,12 +4705,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>S</string>
+														<string>Ы</string>
 													</dict>
 													<key>keyID</key>
-													<string>S</string>
+													<string>Ы</string>
 													<key>output</key>
-													<string>S</string>
+													<string>Ы</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -4822,7 +4822,7 @@
 												<key>keyID</key>
 												<string>9055C952-74C5-4113-9190-54737D5A45F5</string>
 												<key>output</key>
-												<string>s</string>
+												<string>ы</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -4830,12 +4830,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>s</string>
+														<string>ы</string>
 													</dict>
 													<key>keyID</key>
-													<string>s</string>
+													<string>ы</string>
 													<key>output</key>
-													<string>s</string>
+													<string>ы</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -4945,7 +4945,7 @@
 												<key>keyID</key>
 												<string>2777F4B5-2BA9-4E83-9363-46780C76A765</string>
 												<key>output</key>
-												<string>S</string>
+												<string>Ы</string>
 											</dict>
 										</dict>
 										<dict>
@@ -4955,12 +4955,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>D</string>
+														<string>В</string>
 													</dict>
 													<key>keyID</key>
-													<string>D</string>
+													<string>В</string>
 													<key>output</key>
-													<string>D</string>
+													<string>В</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -5030,7 +5030,7 @@
 												<key>keyID</key>
 												<string>5AECC379-F3F8-4DFC-A1D1-C2F135A17225</string>
 												<key>output</key>
-												<string>d</string>
+												<string>в</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -5038,12 +5038,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>d</string>
+														<string>в</string>
 													</dict>
 													<key>keyID</key>
-													<string>d</string>
+													<string>в</string>
 													<key>output</key>
-													<string>d</string>
+													<string>в</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -5111,7 +5111,7 @@
 												<key>keyID</key>
 												<string>36FB98C8-2FEF-42A8-B7EB-078AF24E4881</string>
 												<key>output</key>
-												<string>D</string>
+												<string>В</string>
 											</dict>
 										</dict>
 										<dict>
@@ -5121,12 +5121,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>F</string>
+														<string>А</string>
 													</dict>
 													<key>keyID</key>
-													<string>F</string>
+													<string>А</string>
 													<key>output</key>
-													<string>F</string>
+													<string>А</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -5196,7 +5196,7 @@
 												<key>keyID</key>
 												<string>87371451-3F57-4273-A517-3EE6E92F3F2A</string>
 												<key>output</key>
-												<string>f</string>
+												<string>а</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -5204,12 +5204,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>f</string>
+														<string>а</string>
 													</dict>
 													<key>keyID</key>
-													<string>f</string>
+													<string>а</string>
 													<key>output</key>
-													<string>f</string>
+													<string>а</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -5277,7 +5277,7 @@
 												<key>keyID</key>
 												<string>8945FC0A-E79D-40EC-9555-EFC14E745E04</string>
 												<key>output</key>
-												<string>F</string>
+												<string>А</string>
 											</dict>
 										</dict>
 										<dict>
@@ -5287,12 +5287,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>G</string>
+														<string>П</string>
 													</dict>
 													<key>keyID</key>
-													<string>G</string>
+													<string>П</string>
 													<key>output</key>
-													<string>G</string>
+													<string>П</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -5395,7 +5395,7 @@
 												<key>keyID</key>
 												<string>E5ADF141-74A8-4333-97BA-A08BB9EB7488</string>
 												<key>output</key>
-												<string>g</string>
+												<string>п</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -5403,12 +5403,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>g</string>
+														<string>п</string>
 													</dict>
 													<key>keyID</key>
-													<string>g</string>
+													<string>п</string>
 													<key>output</key>
-													<string>g</string>
+													<string>п</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -5509,7 +5509,7 @@
 												<key>keyID</key>
 												<string>0391782E-B47C-44F2-AB63-8FB1FAE60F92</string>
 												<key>output</key>
-												<string>G</string>
+												<string>П</string>
 											</dict>
 										</dict>
 										<dict>
@@ -5539,12 +5539,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>H</string>
+														<string>Р</string>
 													</dict>
 													<key>keyID</key>
-													<string>H</string>
+													<string>Р</string>
 													<key>output</key>
-													<string>H</string>
+													<string>Р</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -5593,23 +5593,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>H</string>
+																	<string>Р</string>
 																</dict>
 																<key>keyID</key>
-																<string>H</string>
+																<string>Р</string>
 																<key>output</key>
-																<string>H</string>
+																<string>Р</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>h</string>
+																	<string>р</string>
 																</dict>
 																<key>keyID</key>
-																<string>h</string>
+																<string>р</string>
 																<key>output</key>
-																<string>h</string>
+																<string>р</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -5941,7 +5941,7 @@
 												<key>keyID</key>
 												<string>F12D9A24-9533-40C7-A9CB-D2E902608854</string>
 												<key>output</key>
-												<string>h</string>
+												<string>р</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -5949,12 +5949,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>h</string>
+														<string>р</string>
 													</dict>
 													<key>keyID</key>
-													<string>h</string>
+													<string>р</string>
 													<key>output</key>
-													<string>h</string>
+													<string>р</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -6001,23 +6001,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>h</string>
+																	<string>р</string>
 																</dict>
 																<key>keyID</key>
-																<string>h</string>
+																<string>р</string>
 																<key>output</key>
-																<string>h</string>
+																<string>р</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>H</string>
+																	<string>Р</string>
 																</dict>
 																<key>keyID</key>
-																<string>H</string>
+																<string>Р</string>
 																<key>output</key>
-																<string>H</string>
+																<string>Р</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -6349,7 +6349,7 @@
 												<key>keyID</key>
 												<string>2C52FA0D-EF4B-4FC2-A341-A7C1BFA3C299</string>
 												<key>output</key>
-												<string>H</string>
+												<string>Р</string>
 											</dict>
 										</dict>
 										<dict>
@@ -6359,12 +6359,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>J</string>
+														<string>О</string>
 													</dict>
 													<key>keyID</key>
-													<string>J</string>
+													<string>О</string>
 													<key>output</key>
-													<string>J</string>
+													<string>О</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -6413,23 +6413,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>J</string>
+																	<string>О</string>
 																</dict>
 																<key>keyID</key>
-																<string>J</string>
+																<string>О</string>
 																<key>output</key>
-																<string>J</string>
+																<string>О</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>j</string>
+																	<string>о</string>
 																</dict>
 																<key>keyID</key>
-																<string>j</string>
+																<string>о</string>
 																<key>output</key>
-																<string>j</string>
+																<string>о</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -6761,7 +6761,7 @@
 												<key>keyID</key>
 												<string>152AC597-BC48-4277-8EC7-E834E4C04F92</string>
 												<key>output</key>
-												<string>j</string>
+												<string>о</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -6769,12 +6769,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>j</string>
+														<string>о</string>
 													</dict>
 													<key>keyID</key>
-													<string>j</string>
+													<string>о</string>
 													<key>output</key>
-													<string>j</string>
+													<string>о</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -6821,23 +6821,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>j</string>
+																	<string>о</string>
 																</dict>
 																<key>keyID</key>
-																<string>j</string>
+																<string>о</string>
 																<key>output</key>
-																<string>j</string>
+																<string>о</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>J</string>
+																	<string>О</string>
 																</dict>
 																<key>keyID</key>
-																<string>J</string>
+																<string>О</string>
 																<key>output</key>
-																<string>J</string>
+																<string>О</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -7169,7 +7169,7 @@
 												<key>keyID</key>
 												<string>9AD6BCAE-4160-4911-947E-116CC46A0478</string>
 												<key>output</key>
-												<string>J</string>
+												<string>О</string>
 											</dict>
 										</dict>
 										<dict>
@@ -7179,12 +7179,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>K</string>
+														<string>Л</string>
 													</dict>
 													<key>keyID</key>
-													<string>K</string>
+													<string>Л</string>
 													<key>output</key>
-													<string>K</string>
+													<string>Л</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -7233,23 +7233,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>K</string>
+																	<string>Л</string>
 																</dict>
 																<key>keyID</key>
-																<string>K</string>
+																<string>Л</string>
 																<key>output</key>
-																<string>K</string>
+																<string>Л</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>k</string>
+																	<string>л</string>
 																</dict>
 																<key>keyID</key>
-																<string>k</string>
+																<string>л</string>
 																<key>output</key>
-																<string>k</string>
+																<string>л</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -7581,7 +7581,7 @@
 												<key>keyID</key>
 												<string>30D35864-3A77-4040-AB69-98FAB13D1C7B</string>
 												<key>output</key>
-												<string>k</string>
+												<string>л</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -7589,12 +7589,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>k</string>
+														<string>л</string>
 													</dict>
 													<key>keyID</key>
-													<string>k</string>
+													<string>л</string>
 													<key>output</key>
-													<string>k</string>
+													<string>л</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -7641,23 +7641,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>k</string>
+																	<string>л</string>
 																</dict>
 																<key>keyID</key>
-																<string>k</string>
+																<string>л</string>
 																<key>output</key>
-																<string>k</string>
+																<string>л</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>K</string>
+																	<string>Л</string>
 																</dict>
 																<key>keyID</key>
-																<string>K</string>
+																<string>Л</string>
 																<key>output</key>
-																<string>K</string>
+																<string>Л</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -7989,7 +7989,7 @@
 												<key>keyID</key>
 												<string>30D35864-3A77-4040-AB69-98FAB13D1C7B</string>
 												<key>output</key>
-												<string>k</string>
+												<string>л</string>
 											</dict>
 										</dict>
 										<dict>
@@ -7999,12 +7999,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>L</string>
+														<string>Д</string>
 													</dict>
 													<key>keyID</key>
-													<string>L</string>
+													<string>Д</string>
 													<key>output</key>
-													<string>L</string>
+													<string>Д</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -8086,23 +8086,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>L</string>
+																	<string>Д</string>
 																</dict>
 																<key>keyID</key>
-																<string>L</string>
+																<string>Д</string>
 																<key>output</key>
-																<string>L</string>
+																<string>Д</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>l</string>
+																	<string>д</string>
 																</dict>
 																<key>keyID</key>
-																<string>l</string>
+																<string>д</string>
 																<key>output</key>
-																<string>l</string>
+																<string>д</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -8478,7 +8478,7 @@
 												<key>keyID</key>
 												<string>6464B77C-28AB-41C3-B23E-CE656272BE68</string>
 												<key>output</key>
-												<string>l</string>
+												<string>д</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -8486,12 +8486,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>I</string>
+														<string>Ш</string>
 													</dict>
 													<key>keyID</key>
-													<string>I</string>
+													<string>Ш</string>
 													<key>output</key>
-													<string>I</string>
+													<string>Ш</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -8571,23 +8571,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>l</string>
+																	<string>д</string>
 																</dict>
 																<key>keyID</key>
-																<string>l</string>
+																<string>д</string>
 																<key>output</key>
-																<string>l</string>
+																<string>д</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>L</string>
+																	<string>Д</string>
 																</dict>
 																<key>keyID</key>
-																<string>L</string>
+																<string>Д</string>
 																<key>output</key>
-																<string>L</string>
+																<string>Д</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -8963,7 +8963,7 @@
 												<key>keyID</key>
 												<string>18F4B34B-2E2D-459C-AA3B-9678420A76A6</string>
 												<key>output</key>
-												<string>L</string>
+												<string>Д</string>
 											</dict>
 										</dict>
 										<dict>
@@ -8973,12 +8973,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Z</string>
+														<string>Я</string>
 													</dict>
 													<key>keyID</key>
-													<string>Z</string>
+													<string>Я</string>
 													<key>output</key>
-													<string>Z</string>
+													<string>Я</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -8988,12 +8988,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>z</string>
+													<string>я</string>
 												</dict>
 												<key>keyID</key>
-												<string>z</string>
+												<string>я</string>
 												<key>output</key>
-												<string>z</string>
+												<string>я</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -9001,12 +9001,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>z</string>
+														<string>я</string>
 													</dict>
 													<key>keyID</key>
-													<string>z</string>
+													<string>я</string>
 													<key>output</key>
-													<string>z</string>
+													<string>я</string>
 												</dict>
 											</array>
 											<key>shiftKey</key>
@@ -9014,12 +9014,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>Z</string>
+													<string>Я</string>
 												</dict>
 												<key>keyID</key>
-												<string>Z</string>
+												<string>Я</string>
 												<key>output</key>
-												<string>Z</string>
+												<string>Я</string>
 											</dict>
 										</dict>
 										<dict>
@@ -9029,12 +9029,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>X</string>
+														<string>Ч</string>
 													</dict>
 													<key>keyID</key>
-													<string>X</string>
+													<string>Ч</string>
 													<key>output</key>
-													<string>X</string>
+													<string>Ч</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -9044,12 +9044,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>x</string>
+													<string>ч</string>
 												</dict>
 												<key>keyID</key>
-												<string>x</string>
+												<string>ч</string>
 												<key>output</key>
-												<string>x</string>
+												<string>ч</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -9057,12 +9057,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>x</string>
+														<string>ч</string>
 													</dict>
 													<key>keyID</key>
-													<string>x</string>
+													<string>ч</string>
 													<key>output</key>
-													<string>x</string>
+													<string>ч</string>
 												</dict>
 											</array>
 											<key>shiftKey</key>
@@ -9070,12 +9070,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>X</string>
+													<string>Ч</string>
 												</dict>
 												<key>keyID</key>
-												<string>X</string>
+												<string>Ч</string>
 												<key>output</key>
-												<string>X</string>
+												<string>Ч</string>
 											</dict>
 										</dict>
 										<dict>
@@ -9085,12 +9085,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>C</string>
+														<string>С</string>
 													</dict>
 													<key>keyID</key>
-													<string>C</string>
+													<string>С</string>
 													<key>output</key>
-													<string>C</string>
+													<string>С</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -9138,7 +9138,7 @@
 												<key>keyID</key>
 												<string>44C900AA-75A9-4AE6-BE63-CBAF6236710D</string>
 												<key>output</key>
-												<string>c</string>
+												<string>с</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -9146,12 +9146,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>c</string>
+														<string>с</string>
 													</dict>
 													<key>keyID</key>
-													<string>c</string>
+													<string>с</string>
 													<key>output</key>
-													<string>c</string>
+													<string>с</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -9197,7 +9197,7 @@
 												<key>keyID</key>
 												<string>4C6716AF-218A-4F25-9B2C-47B4BEA6E9E9</string>
 												<key>output</key>
-												<string>C</string>
+												<string>С</string>
 											</dict>
 										</dict>
 										<dict>
@@ -9207,12 +9207,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>V</string>
+														<string>М</string>
 													</dict>
 													<key>keyID</key>
-													<string>V</string>
+													<string>М</string>
 													<key>output</key>
-													<string>V</string>
+													<string>М</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -9260,7 +9260,7 @@
 												<key>keyID</key>
 												<string>EB478FE3-66FB-4638-B1E1-1313980A0924</string>
 												<key>output</key>
-												<string>v</string>
+												<string>м</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -9268,12 +9268,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>v</string>
+														<string>м</string>
 													</dict>
 													<key>keyID</key>
-													<string>v</string>
+													<string>м</string>
 													<key>output</key>
-													<string>v</string>
+													<string>м</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -9319,7 +9319,7 @@
 												<key>keyID</key>
 												<string>656A40A4-32ED-46A9-A4E1-660032392540</string>
 												<key>output</key>
-												<string>V</string>
+												<string>М</string>
 											</dict>
 										</dict>
 										<dict>
@@ -9436,12 +9436,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>B</string>
+														<string>И</string>
 													</dict>
 													<key>keyID</key>
-													<string>B</string>
+													<string>И</string>
 													<key>output</key>
-													<string>B</string>
+													<string>И</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -9490,23 +9490,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>B</string>
+																	<string>И</string>
 																</dict>
 																<key>keyID</key>
-																<string>B</string>
+																<string>И</string>
 																<key>output</key>
-																<string>B</string>
+																<string>И</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>b</string>
+																	<string>и</string>
 																</dict>
 																<key>keyID</key>
-																<string>b</string>
+																<string>и</string>
 																<key>output</key>
-																<string>b</string>
+																<string>и</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -9838,7 +9838,7 @@
 												<key>keyID</key>
 												<string>C50C63B1-BD93-4EED-A149-05846DAEAF99</string>
 												<key>output</key>
-												<string>b</string>
+												<string>и</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -9846,12 +9846,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>b</string>
+														<string>и</string>
 													</dict>
 													<key>keyID</key>
-													<string>b</string>
+													<string>и</string>
 													<key>output</key>
-													<string>b</string>
+													<string>и</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -9898,23 +9898,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>b</string>
+																	<string>и</string>
 																</dict>
 																<key>keyID</key>
-																<string>b</string>
+																<string>и</string>
 																<key>output</key>
-																<string>b</string>
+																<string>и</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>B</string>
+																	<string>И</string>
 																</dict>
 																<key>keyID</key>
-																<string>B</string>
+																<string>И</string>
 																<key>output</key>
-																<string>B</string>
+																<string>И</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -10246,7 +10246,7 @@
 												<key>keyID</key>
 												<string>6F50C35B-5F7B-4DD2-AC86-FF3BA2E5CB3B</string>
 												<key>output</key>
-												<string>B</string>
+												<string>И</string>
 											</dict>
 										</dict>
 										<dict>
@@ -10256,12 +10256,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>N</string>
+														<string>Т</string>
 													</dict>
 													<key>keyID</key>
-													<string>N</string>
+													<string>Т</string>
 													<key>output</key>
-													<string>N</string>
+													<string>Т</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -10310,23 +10310,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>N</string>
+																	<string>Т</string>
 																</dict>
 																<key>keyID</key>
-																<string>N</string>
+																<string>Т</string>
 																<key>output</key>
-																<string>N</string>
+																<string>Т</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>n</string>
+																	<string>т</string>
 																</dict>
 																<key>keyID</key>
-																<string>n</string>
+																<string>т</string>
 																<key>output</key>
-																<string>n</string>
+																<string>т</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -10658,7 +10658,7 @@
 												<key>keyID</key>
 												<string>3EF6FE2D-A718-4B6F-81B4-8FDA52E9D8F3</string>
 												<key>output</key>
-												<string>n</string>
+												<string>т</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -10666,12 +10666,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>n</string>
+														<string>т</string>
 													</dict>
 													<key>keyID</key>
-													<string>n</string>
+													<string>т</string>
 													<key>output</key>
-													<string>n</string>
+													<string>т</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -10718,23 +10718,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>n</string>
+																	<string>т</string>
 																</dict>
 																<key>keyID</key>
-																<string>n</string>
+																<string>т</string>
 																<key>output</key>
-																<string>n</string>
+																<string>т</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>N</string>
+																	<string>Т</string>
 																</dict>
 																<key>keyID</key>
-																<string>N</string>
+																<string>Т</string>
 																<key>output</key>
-																<string>N</string>
+																<string>Т</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -11066,7 +11066,7 @@
 												<key>keyID</key>
 												<string>91F9A484-DC57-429E-B3F4-D7957EED1FC6</string>
 												<key>output</key>
-												<string>N</string>
+												<string>Т</string>
 											</dict>
 										</dict>
 										<dict>
@@ -11076,12 +11076,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>M</string>
+														<string>Ь</string>
 													</dict>
 													<key>keyID</key>
-													<string>M</string>
+													<string>Ь</string>
 													<key>output</key>
-													<string>M</string>
+													<string>Ь</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -11130,23 +11130,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>M</string>
+																	<string>Ь</string>
 																</dict>
 																<key>keyID</key>
-																<string>M</string>
+																<string>Ь</string>
 																<key>output</key>
-																<string>M</string>
+																<string>Ь</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>m</string>
+																	<string>ь</string>
 																</dict>
 																<key>keyID</key>
-																<string>m</string>
+																<string>ь</string>
 																<key>output</key>
-																<string>m</string>
+																<string>ь</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -11478,7 +11478,7 @@
 												<key>keyID</key>
 												<string>33CC9103-E9F4-4E05-99E6-007B2B35E0B8</string>
 												<key>output</key>
-												<string>m</string>
+												<string>ь</string>
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
@@ -11486,12 +11486,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>m</string>
+														<string>ь</string>
 													</dict>
 													<key>keyID</key>
-													<string>m</string>
+													<string>ь</string>
 													<key>output</key>
-													<string>m</string>
+													<string>ь</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -11538,12 +11538,12 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>M</string>
+																	<string>Ь</string>
 																</dict>
 																<key>keyID</key>
-																<string>M</string>
+																<string>Ь</string>
 																<key>output</key>
-																<string>M</string>
+																<string>Ь</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -11582,23 +11582,23 @@
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>i</string>
+																	<string>ш</string>
 																</dict>
 																<key>keyID</key>
-																<string>i</string>
+																<string>ш</string>
 																<key>output</key>
-																<string>i</string>
+																<string>ш</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
 																<dict>
 																	<key>text</key>
-																	<string>I</string>
+																	<string>Ш</string>
 																</dict>
 																<key>keyID</key>
-																<string>I</string>
+																<string>Ш</string>
 																<key>output</key>
-																<string>I</string>
+																<string>Ш</string>
 															</dict>
 														</array>
 														<key>keyCap</key>
@@ -11908,7 +11908,7 @@
 												<key>keyID</key>
 												<string>BF015E3F-49C1-4E37-8AB4-C878ADDA02EA</string>
 												<key>output</key>
-												<string>M</string>
+												<string>Ь</string>
 											</dict>
 										</dict>
 										<dict>
@@ -16296,12 +16296,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Z</string>
+														<string>Я</string>
 													</dict>
 													<key>keyID</key>
-													<string>Z</string>
+													<string>Я</string>
 													<key>output</key>
-													<string>Z</string>
+													<string>Я</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -16311,12 +16311,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>z</string>
+													<string>я</string>
 												</dict>
 												<key>keyID</key>
-												<string>z</string>
+												<string>я</string>
 												<key>output</key>
-												<string>z</string>
+												<string>я</string>
 											</dict>
 										</dict>
 										<dict>
@@ -16326,12 +16326,12 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>X</string>
+														<string>Ч</string>
 													</dict>
 													<key>keyID</key>
-													<string>X</string>
+													<string>Ч</string>
 													<key>output</key>
-													<string>X</string>
+													<string>Ч</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -16341,12 +16341,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>x</string>
+													<string>ч</string>
 												</dict>
 												<key>keyID</key>
-												<string>x</string>
+												<string>ч</string>
 												<key>output</key>
-												<string>x</string>
+												<string>ч</string>
 											</dict>
 										</dict>
 										<dict>
@@ -19885,23 +19885,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Y</string>
+														<string>Н</string>
 													</dict>
 													<key>keyID</key>
-													<string>Y</string>
+													<string>Н</string>
 													<key>output</key>
-													<string>Y</string>
+													<string>Н</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>y</string>
+														<string>н</string>
 													</dict>
 													<key>keyID</key>
-													<string>y</string>
+													<string>н</string>
 													<key>output</key>
-													<string>y</string>
+													<string>н</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -19948,23 +19948,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>U</string>
+														<string>Г</string>
 													</dict>
 													<key>keyID</key>
-													<string>U</string>
+													<string>Г</string>
 													<key>output</key>
-													<string>U</string>
+													<string>Г</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>u</string>
+														<string>г</string>
 													</dict>
 													<key>keyID</key>
-													<string>u</string>
+													<string>г</string>
 													<key>output</key>
-													<string>u</string>
+													<string>г</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -20022,23 +20022,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>I</string>
+														<string>Ш</string>
 													</dict>
 													<key>keyID</key>
-													<string>I</string>
+													<string>Ш</string>
 													<key>output</key>
-													<string>I</string>
+													<string>Ш</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>i</string>
+														<string>ш</string>
 													</dict>
 													<key>keyID</key>
-													<string>i</string>
+													<string>ш</string>
 													<key>output</key>
-													<string>i</string>
+													<string>ш</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -20096,23 +20096,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>O</string>
+														<string>Щ</string>
 													</dict>
 													<key>keyID</key>
-													<string>O</string>
+													<string>Щ</string>
 													<key>output</key>
-													<string>O</string>
+													<string>Щ</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>o</string>
+														<string>щ</string>
 													</dict>
 													<key>keyID</key>
-													<string>o</string>
+													<string>щ</string>
 													<key>output</key>
-													<string>o</string>
+													<string>щ</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -20159,23 +20159,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>P</string>
+														<string>З</string>
 													</dict>
 													<key>keyID</key>
-													<string>P</string>
+													<string>З</string>
 													<key>output</key>
-													<string>P</string>
+													<string>З</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>p</string>
+														<string>з</string>
 													</dict>
 													<key>keyID</key>
-													<string>p</string>
+													<string>з</string>
 													<key>output</key>
-													<string>p</string>
+													<string>з</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -20382,23 +20382,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>H</string>
+														<string>Р</string>
 													</dict>
 													<key>keyID</key>
-													<string>H</string>
+													<string>Р</string>
 													<key>output</key>
-													<string>H</string>
+													<string>Р</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>h</string>
+														<string>р</string>
 													</dict>
 													<key>keyID</key>
-													<string>h</string>
+													<string>р</string>
 													<key>output</key>
-													<string>h</string>
+													<string>р</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -20445,23 +20445,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>J</string>
+														<string>О</string>
 													</dict>
 													<key>keyID</key>
-													<string>J</string>
+													<string>О</string>
 													<key>output</key>
-													<string>J</string>
+													<string>О</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>j</string>
+														<string>о</string>
 													</dict>
 													<key>keyID</key>
-													<string>j</string>
+													<string>о</string>
 													<key>output</key>
-													<string>j</string>
+													<string>о</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -20519,23 +20519,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>K</string>
+														<string>Л</string>
 													</dict>
 													<key>keyID</key>
-													<string>K</string>
+													<string>Л</string>
 													<key>output</key>
-													<string>K</string>
+													<string>Л</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>k</string>
+														<string>л</string>
 													</dict>
 													<key>keyID</key>
-													<string>k</string>
+													<string>л</string>
 													<key>output</key>
-													<string>k</string>
+													<string>л</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -20582,23 +20582,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>L</string>
+														<string>Д</string>
 													</dict>
 													<key>keyID</key>
-													<string>L</string>
+													<string>Д</string>
 													<key>output</key>
-													<string>L</string>
+													<string>Д</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>l</string>
+														<string>д</string>
 													</dict>
 													<key>keyID</key>
-													<string>l</string>
+													<string>д</string>
 													<key>output</key>
-													<string>l</string>
+													<string>д</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -20838,23 +20838,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>B</string>
+														<string>И</string>
 													</dict>
 													<key>keyID</key>
-													<string>B</string>
+													<string>И</string>
 													<key>output</key>
-													<string>B</string>
+													<string>И</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>b</string>
+														<string>и</string>
 													</dict>
 													<key>keyID</key>
-													<string>b</string>
+													<string>и</string>
 													<key>output</key>
-													<string>b</string>
+													<string>и</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -20923,23 +20923,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>N</string>
+														<string>Т</string>
 													</dict>
 													<key>keyID</key>
-													<string>N</string>
+													<string>Т</string>
 													<key>output</key>
-													<string>N</string>
+													<string>Т</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>n</string>
+														<string>т</string>
 													</dict>
 													<key>keyID</key>
-													<string>n</string>
+													<string>т</string>
 													<key>output</key>
-													<string>n</string>
+													<string>т</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -20997,23 +20997,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>M</string>
+														<string>Ь</string>
 													</dict>
 													<key>keyID</key>
-													<string>M</string>
+													<string>Ь</string>
 													<key>output</key>
-													<string>M</string>
+													<string>Ь</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>m</string>
+														<string>ь</string>
 													</dict>
 													<key>keyID</key>
-													<string>m</string>
+													<string>ь</string>
 													<key>output</key>
-													<string>m</string>
+													<string>ь</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -22038,23 +22038,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Y</string>
+														<string>Н</string>
 													</dict>
 													<key>keyID</key>
-													<string>Y</string>
+													<string>Н</string>
 													<key>output</key>
-													<string>Y</string>
+													<string>Н</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>y</string>
+														<string>н</string>
 													</dict>
 													<key>keyID</key>
-													<string>y</string>
+													<string>н</string>
 													<key>output</key>
-													<string>y</string>
+													<string>н</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -22101,23 +22101,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>U</string>
+														<string>Г</string>
 													</dict>
 													<key>keyID</key>
-													<string>U</string>
+													<string>Г</string>
 													<key>output</key>
-													<string>U</string>
+													<string>Г</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>u</string>
+														<string>г</string>
 													</dict>
 													<key>keyID</key>
-													<string>u</string>
+													<string>г</string>
 													<key>output</key>
-													<string>u</string>
+													<string>г</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -22175,23 +22175,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>I</string>
+														<string>Ш</string>
 													</dict>
 													<key>keyID</key>
-													<string>I</string>
+													<string>Ш</string>
 													<key>output</key>
-													<string>I</string>
+													<string>Ш</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>i</string>
+														<string>ш</string>
 													</dict>
 													<key>keyID</key>
-													<string>i</string>
+													<string>ш</string>
 													<key>output</key>
-													<string>i</string>
+													<string>ш</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -22249,23 +22249,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>O</string>
+														<string>Щ</string>
 													</dict>
 													<key>keyID</key>
-													<string>O</string>
+													<string>Щ</string>
 													<key>output</key>
-													<string>O</string>
+													<string>Щ</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>o</string>
+														<string>щ</string>
 													</dict>
 													<key>keyID</key>
-													<string>o</string>
+													<string>щ</string>
 													<key>output</key>
-													<string>o</string>
+													<string>щ</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -22312,23 +22312,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>P</string>
+														<string>З</string>
 													</dict>
 													<key>keyID</key>
-													<string>P</string>
+													<string>З</string>
 													<key>output</key>
-													<string>P</string>
+													<string>З</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>p</string>
+														<string>з</string>
 													</dict>
 													<key>keyID</key>
-													<string>p</string>
+													<string>з</string>
 													<key>output</key>
-													<string>p</string>
+													<string>з</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -22511,23 +22511,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>H</string>
+														<string>Р</string>
 													</dict>
 													<key>keyID</key>
-													<string>H</string>
+													<string>Р</string>
 													<key>output</key>
-													<string>H</string>
+													<string>Р</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>h</string>
+														<string>р</string>
 													</dict>
 													<key>keyID</key>
-													<string>h</string>
+													<string>р</string>
 													<key>output</key>
-													<string>h</string>
+													<string>р</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -22574,23 +22574,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>J</string>
+														<string>О</string>
 													</dict>
 													<key>keyID</key>
-													<string>J</string>
+													<string>О</string>
 													<key>output</key>
-													<string>J</string>
+													<string>О</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>j</string>
+														<string>о</string>
 													</dict>
 													<key>keyID</key>
-													<string>j</string>
+													<string>о</string>
 													<key>output</key>
-													<string>j</string>
+													<string>о</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -22648,23 +22648,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>K</string>
+														<string>Л</string>
 													</dict>
 													<key>keyID</key>
-													<string>K</string>
+													<string>Л</string>
 													<key>output</key>
-													<string>K</string>
+													<string>Л</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>k</string>
+														<string>л</string>
 													</dict>
 													<key>keyID</key>
-													<string>k</string>
+													<string>л</string>
 													<key>output</key>
-													<string>k</string>
+													<string>л</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -22711,23 +22711,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>L</string>
+														<string>Д</string>
 													</dict>
 													<key>keyID</key>
-													<string>L</string>
+													<string>Д</string>
 													<key>output</key>
-													<string>L</string>
+													<string>Д</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>l</string>
+														<string>д</string>
 													</dict>
 													<key>keyID</key>
-													<string>l</string>
+													<string>д</string>
 													<key>output</key>
-													<string>l</string>
+													<string>д</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -22955,23 +22955,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>B</string>
+														<string>И</string>
 													</dict>
 													<key>keyID</key>
-													<string>B</string>
+													<string>И</string>
 													<key>output</key>
-													<string>B</string>
+													<string>И</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>b</string>
+														<string>и</string>
 													</dict>
 													<key>keyID</key>
-													<string>b</string>
+													<string>и</string>
 													<key>output</key>
-													<string>b</string>
+													<string>и</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -23040,23 +23040,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>N</string>
+														<string>Т</string>
 													</dict>
 													<key>keyID</key>
-													<string>N</string>
+													<string>Т</string>
 													<key>output</key>
-													<string>N</string>
+													<string>Т</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>n</string>
+														<string>т</string>
 													</dict>
 													<key>keyID</key>
-													<string>n</string>
+													<string>т</string>
 													<key>output</key>
-													<string>n</string>
+													<string>т</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -23114,23 +23114,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>M</string>
+														<string>Ь</string>
 													</dict>
 													<key>keyID</key>
-													<string>M</string>
+													<string>Ь</string>
 													<key>output</key>
-													<string>M</string>
+													<string>Ь</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>m</string>
+														<string>ь</string>
 													</dict>
 													<key>keyID</key>
-													<string>m</string>
+													<string>ь</string>
 													<key>output</key>
-													<string>m</string>
+													<string>ь</string>
 												</dict>
 											</array>
 											<key>cellID</key>
