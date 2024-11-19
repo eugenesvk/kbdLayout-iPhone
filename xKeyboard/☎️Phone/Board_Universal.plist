@@ -594,20 +594,6 @@
 											<true/>
 											<key>cellID</key>
 											<string>373763A8-BED7-4DB8-93A1-843D390A7321</string>
-											<key>key</key>
-											<dict>
-												<key>keyCap</key>
-												<dict>
-													<key>text</key>
-													<string>ABC</string>
-												</dict>
-												<key>keyID</key>
-												<string>Layer0</string>
-												<key>output</key>
-												<string>Layer0</string>
-												<key>type</key>
-												<integer>5</integer>
-											</dict>
 										</dict>
 										<dict>
 											<key>candidateKeys</key>
