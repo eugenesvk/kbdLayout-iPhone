@@ -12862,23 +12862,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>;</string>
-													</dict>
-													<key>keyID</key>
-													<string>;</string>
-													<key>output</key>
-													<string>;</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>?</string>
 													</dict>
 													<key>keyID</key>
 													<string>?</string>
 													<key>output</key>
 													<string>?</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>;</string>
+													</dict>
+													<key>keyID</key>
+													<string>;</string>
+													<key>output</key>
+													<string>;</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -12937,23 +12937,23 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>:</string>
-													</dict>
-													<key>keyID</key>
-													<string>:</string>
-													<key>output</key>
-													<string>:</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>!</string>
 													</dict>
 													<key>keyID</key>
 													<string>!</string>
 													<key>output</key>
 													<string>!</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>:</string>
+													</dict>
+													<key>keyID</key>
+													<string>:</string>
+													<key>output</key>
+													<string>:</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
