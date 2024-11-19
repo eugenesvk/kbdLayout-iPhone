@@ -3851,6 +3851,233 @@
                     }
                 }
             ]
+        },
+        {
+            "title": "☎️PhoneRu",
+            "keys":
+            [
+                {
+                    "keyID": "C679C3E8-5987-4EE7-97BB-B38C96C712C5",
+                    "keyCap":
+                    {
+                        "text": "4⏸ийкл"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "76CD6A18-9F5E-46C5-ACE7-058F412A6D47",
+                    "keyCap":
+                    {
+                        "text": "6𝌗"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "73684B7A-EEC7-47A3-BFFD-156DB23CE625",
+                    "keyCap":
+                    {
+                        "text": "7∗"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "664ECAC4-2DCD-4405-875D-F5345C1E771D",
+                    "keyCap":
+                    {
+                        "text": "9#"
+                    },
+                    "output": "9"
+                },
+                {
+                    "keyID": "5FADDD5F-3D5C-4106-A543-62F568D20CF3",
+                    "keyCap":
+                    {
+                        "text": "0+"
+                    },
+                    "output": "0"
+                },
+                {
+                    "keyID": "CF989C67-DB94-404C-AAE3-2473271A0043",
+                    "keyCap":
+                    {
+                        "text": "2абвг"
+                    },
+                    "output": "2"
+                },
+                {
+                    "keyID": "720E93AB-C539-4422-B20D-5D3A520295AE",
+                    "keyCap":
+                    {
+                        "text": "3деёжз"
+                    },
+                    "output": "3"
+                },
+                {
+                    "keyID": "95B64A7B-9B20-475D-B8B6-81A89797918F",
+                    "keyCap":
+                    {
+                        "text": "4ийкл"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "174DB820-2426-4EA5-9CFB-22AA65122054",
+                    "keyCap":
+                    {
+                        "text": "5мноп"
+                    },
+                    "output": "5"
+                },
+                {
+                    "keyID": "7E1F8BB0-3C61-492F-AC6C-1D7473BCF1AE",
+                    "keyCap":
+                    {
+                        "text": "8шщъы"
+                    },
+                    "output": "8"
+                },
+                {
+                    "keyID": "03B28EBE-AB46-497B-8A88-2C9D1D7028AF",
+                    "keyCap":
+                    {
+                        "text": "7∗фхцч"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "EF99012F-8A97-4D11-BBAE-698DB1F6D285",
+                    "keyCap":
+                    {
+                        "text": "9#ьэюя"
+                    },
+                    "output": "9"
+                },
+                {
+                    "keyID": "1C41279D-009F-4507-94C4-FC518D39F801",
+                    "keyCap":
+                    {
+                        "text": "+7"
+                    }
+                },
+                {
+                    "keyID": "9DA9FCAA-C752-4FE5-9B34-48F2B68B19F7",
+                    "keyCap":
+                    {
+                        "text": "+1"
+                    }
+                },
+                {
+                    "keyID": "73A1352E-42DB-416D-B5D8-59F3E2D1CBBD",
+                    "keyCap":
+                    {
+                        "text": ""
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "29D01780-26FC-4D0B-956E-A43C899DD342",
+                    "keyCap":
+                    {
+                        "text": "+7␠"
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "EE6C63C3-09BF-4F14-8F64-6968CD8B9529",
+                    "keyCap":
+                    {
+                        "text": "+7␠#"
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "2BC88F8E-86DA-4BBB-A389-2A5FAB8CEDC4",
+                    "keyCap":
+                    {
+                        "text": "+7␠."
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "E31384B1-684F-4340-9949-263668F143FA",
+                    "keyCap":
+                    {
+                        "text": "␠.("
+                    },
+                    "output": " ("
+                },
+                {
+                    "keyID": "A01763E3-C958-4A12-B9FD-452B57D682D8",
+                    "keyCap":
+                    {
+                        "text": "␠("
+                    },
+                    "output": " ("
+                },
+                {
+                    "keyID": "6E79FF01-F80C-4332-B3EA-D7AE72C09465",
+                    "keyCap":
+                    {
+                        "text": ")␠."
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "8F4FBF49-0EBF-44A5-BE8B-A23205359E82",
+                    "keyCap":
+                    {
+                        "text": ")␠#"
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "F2DFCF88-6701-44D4-B6E0-AC2774D44B0F",
+                    "keyCap":
+                    {
+                        "text": ")␠"
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "50780EFA-1A48-40DC-9C96-625FFB901401",
+                    "keyCap":
+                    {
+                        "text": "✋wait"
+                    },
+                    "output": ";"
+                },
+                {
+                    "keyID": "1C9CF43E-12FD-4C84-B92B-492086AB071C",
+                    "keyCap":
+                    {
+                        "text": "⏸ pause"
+                    },
+                    "output": ","
+                },
+                {
+                    "keyID": "E0EA65DF-8779-4ACF-B8E5-4C829A8FCD98",
+                    "keyCap":
+                    {
+                        "text": "6⌛️рсту"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "0209E3C7-CFDE-41EF-AE6D-26D6985ED8CC",
+                    "keyCap":
+                    {
+                        "text": "⌛️wait"
+                    },
+                    "output": ";"
+                },
+                {
+                    "keyID": "8508C3FD-7957-492E-B59C-4B0FF875BB27",
+                    "keyCap":
+                    {
+                        "text": "#"
+                    }
+                }
+            ]
         }
     ]
 }
