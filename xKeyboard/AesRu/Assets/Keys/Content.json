@@ -1051,6 +1051,14 @@
                     "output": "О"
                 },
                 {
+                    "keyID": "C6641283-C638-4088-81BE-222D10371940",
+                    "keyCap":
+                    {
+                        "text": "Л₆"
+                    },
+                    "output": "Л"
+                },
+                {
                     "keyID": "8B65DA35-51EF-4CE7-99CD-72432DE0ABC0",
                     "keyCap":
                     {
@@ -1407,6 +1415,14 @@
                     "output": "л"
                 },
                 {
+                    "keyID": "511389FD-C726-472D-9EFB-0A1C1318CC1B",
+                    "keyCap":
+                    {
+                        "text": "ш₂"
+                    },
+                    "output": "ш"
+                },
+                {
                     "keyID": "EB908A79-3FD9-49C8-B0F3-CC2F935AAF99",
                     "keyCap":
                     {
@@ -1421,14 +1437,6 @@
                         "text": "и₇"
                     },
                     "output": "и"
-                },
-                {
-                    "keyID": "511389FD-C726-472D-9EFB-0A1C1318CC1B",
-                    "keyCap":
-                    {
-                        "text": "ш₂"
-                    },
-                    "output": "ш"
                 },
                 {
                     "keyID": "8EF4D4E5-00D7-4CF9-B2FD-863421E88E1F",
@@ -1838,7 +1846,7 @@
                     "keyID": "387B2740-41BF-4284-B2C9-1D801DB78F1F",
                     "keyCap":
                     {
-                        "text": "*ₗ"
+                        "text": "*д"
                     },
                     "output": "*"
                 },
@@ -1846,7 +1854,7 @@
                     "keyID": "52E5933D-670F-4645-A97F-6032C451C766",
                     "keyCap":
                     {
-                        "text": "*l"
+                        "text": "*Д"
                     },
                     "output": "*"
                 },
@@ -1854,7 +1862,7 @@
                     "keyID": "BDA15013-7A51-497D-9AAA-E88D5B50AF56",
                     "keyCap":
                     {
-                        "text": "+ₚ"
+                        "text": "+з"
                     },
                     "output": "+"
                 },
@@ -1862,7 +1870,7 @@
                     "keyID": "FF6C3042-45BA-407A-A443-86C9850A84C8",
                     "keyCap":
                     {
-                        "text": "+p"
+                        "text": "+З"
                     },
                     "output": "+"
                 }
@@ -2625,7 +2633,7 @@
                     "keyID": "6D0C8384-AD38-4175-8F92-6211DE59EC22",
                     "keyCap":
                     {
-                        "text": "−y"
+                        "text": "−н"
                     },
                     "output": "−"
                 },
@@ -2633,7 +2641,7 @@
                     "keyID": "48F53BED-DEC5-436E-B00F-5B3185D00C3D",
                     "keyCap":
                     {
-                        "text": "−Y"
+                        "text": "−Н"
                     },
                     "output": "−"
                 }
@@ -2846,7 +2854,7 @@
                     "keyID": "EC80C549-7F48-4DB9-AD36-E2C9965C56BC",
                     "keyCap":
                     {
-                        "text": "1г"
+                        "text": "1Г"
                     },
                     "output": "1"
                 },
@@ -2854,7 +2862,7 @@
                     "keyID": "B0916593-ADB2-4F23-99BD-FB9F234D2A7D",
                     "keyCap":
                     {
-                        "text": "2ш"
+                        "text": "2Ш"
                     },
                     "output": "2"
                 },
@@ -2862,7 +2870,7 @@
                     "keyID": "F7169E44-852C-4AA3-A1CF-2E0E541C96D2",
                     "keyCap":
                     {
-                        "text": "3щ"
+                        "text": "3Щ"
                     },
                     "output": "3"
                 },
@@ -2902,7 +2910,7 @@
                     "keyID": "20046852-A42D-464D-B677-E4B12B156DA6",
                     "keyCap":
                     {
-                        "text": "4р"
+                        "text": "4Р"
                     },
                     "output": "4"
                 },
@@ -2910,7 +2918,7 @@
                     "keyID": "26B371D3-C08A-4A9C-82A6-B54BF61B003F",
                     "keyCap":
                     {
-                        "text": "5о"
+                        "text": "5О"
                     },
                     "output": "5"
                 },
@@ -2918,7 +2926,7 @@
                     "keyID": "9DAD0EF8-8165-4961-A71A-6F0549D3FE20",
                     "keyCap":
                     {
-                        "text": "6л"
+                        "text": "6Л"
                     },
                     "output": "6"
                 },
@@ -2956,7 +2964,7 @@
                     "keyID": "7E8BE0DF-8DE8-474E-A3E3-08AD8A2E419E",
                     "keyCap":
                     {
-                        "text": "7и"
+                        "text": "7И"
                     },
                     "output": "7"
                 },
@@ -2964,7 +2972,7 @@
                     "keyID": "0C48C11A-0569-40A0-A155-E3620466F65D",
                     "keyCap":
                     {
-                        "text": "8т"
+                        "text": "8Т"
                     },
                     "output": "8"
                 },
@@ -2972,7 +2980,7 @@
                     "keyID": "8549A8BD-316C-4DFB-8AE7-79730574625F",
                     "keyCap":
                     {
-                        "text": "9ь"
+                        "text": "9Ь"
                     },
                     "output": "9"
                 }
