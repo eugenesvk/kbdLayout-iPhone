@@ -777,6 +777,710 @@
             ]
         },
         {
+            "title": "ЙЦУ",
+            "keys":
+            [
+                {
+                    "keyID": "Й",
+                    "keyCap":
+                    {
+                        "text": "Й"
+                    }
+                },
+                {
+                    "keyID": "Ц",
+                    "keyCap":
+                    {
+                        "text": "Ц"
+                    }
+                },
+                {
+                    "keyID": "У",
+                    "keyCap":
+                    {
+                        "text": "У"
+                    }
+                },
+                {
+                    "keyID": "К",
+                    "keyCap":
+                    {
+                        "text": "К"
+                    }
+                },
+                {
+                    "keyID": "Е",
+                    "keyCap":
+                    {
+                        "text": "Е"
+                    }
+                },
+                {
+                    "keyID": "0391782E-B47C-44F2-AB63-8FB1FAE6CBFB",
+                    "keyCap":
+                    {
+                        "text": "П’"
+                    },
+                    "output": "П"
+                },
+                {
+                    "keyID": "754C7CE6-E8B2-4818-B2C2-0BC57DEA4881",
+                    "keyCap":
+                    {
+                        "text": "К⁰"
+                    },
+                    "output": "К"
+                },
+                {
+                    "keyID": "Ф",
+                    "keyCap":
+                    {
+                        "text": "Ф"
+                    }
+                },
+                {
+                    "keyID": "Ы",
+                    "keyCap":
+                    {
+                        "text": "Ы"
+                    }
+                },
+                {
+                    "keyID": "В",
+                    "keyCap":
+                    {
+                        "text": "В"
+                    }
+                },
+                {
+                    "keyID": "А",
+                    "keyCap":
+                    {
+                        "text": "А"
+                    }
+                },
+                {
+                    "keyID": "П",
+                    "keyCap":
+                    {
+                        "text": "П"
+                    }
+                },
+                {
+                    "keyID": "36FB98C8-2FEF-42A8-B7EB-078AF24E5E04",
+                    "keyCap":
+                    {
+                        "text": "В("
+                    },
+                    "output": "В"
+                },
+                {
+                    "keyID": "8945FC0A-E79D-40EC-9555-EFC14E741FC6",
+                    "keyCap":
+                    {
+                        "text": "А)"
+                    },
+                    "output": "А"
+                },
+                {
+                    "keyID": "Я",
+                    "keyCap":
+                    {
+                        "text": "Я"
+                    }
+                },
+                {
+                    "keyID": "Ч",
+                    "keyCap":
+                    {
+                        "text": "Ч"
+                    }
+                },
+                {
+                    "keyID": "С",
+                    "keyCap":
+                    {
+                        "text": "С"
+                    }
+                },
+                {
+                    "keyID": "М",
+                    "keyCap":
+                    {
+                        "text": "М"
+                    }
+                },
+                {
+                    "keyID": "И",
+                    "keyCap":
+                    {
+                        "text": "И"
+                    }
+                },
+                {
+                    "keyID": "Т",
+                    "keyCap":
+                    {
+                        "text": "Т"
+                    }
+                },
+                {
+                    "keyID": "Ь",
+                    "keyCap":
+                    {
+                        "text": "Ь"
+                    }
+                },
+                {
+                    "keyID": "Н",
+                    "keyCap":
+                    {
+                        "text": "Н"
+                    }
+                },
+                {
+                    "keyID": "Г",
+                    "keyCap":
+                    {
+                        "text": "Г"
+                    }
+                },
+                {
+                    "keyID": "Ш",
+                    "keyCap":
+                    {
+                        "text": "Ш"
+                    }
+                },
+                {
+                    "keyID": "Щ",
+                    "keyCap":
+                    {
+                        "text": "Щ"
+                    }
+                },
+                {
+                    "keyID": "З",
+                    "keyCap":
+                    {
+                        "text": "З"
+                    }
+                },
+                {
+                    "keyID": "91F9A484-DC57-429E-B3F4-D7957EED02EA",
+                    "keyCap":
+                    {
+                        "text": "Т₈"
+                    },
+                    "output": "Т"
+                },
+                {
+                    "keyID": "BF015E3F-49C1-4E37-8AB4-C878ADDA2540",
+                    "keyCap":
+                    {
+                        "text": "Ь₉"
+                    },
+                    "output": "Ь"
+                },
+                {
+                    "keyID": "Р",
+                    "keyCap":
+                    {
+                        "text": "Р"
+                    }
+                },
+                {
+                    "keyID": "О",
+                    "keyCap":
+                    {
+                        "text": "О"
+                    }
+                },
+                {
+                    "keyID": "Л",
+                    "keyCap":
+                    {
+                        "text": "Л"
+                    }
+                },
+                {
+                    "keyID": "Д",
+                    "keyCap":
+                    {
+                        "text": "Д"
+                    }
+                },
+                {
+                    "keyID": "656A40A4-32ED-46A9-A4E1-660032392287",
+                    "keyCap":
+                    {
+                        "text": "М›"
+                    },
+                    "output": "М"
+                },
+                {
+                    "keyID": "382AF69E-2B33-4D54-8498-A315DCDEA765",
+                    "keyCap":
+                    {
+                        "text": "Г₁"
+                    },
+                    "output": "Г"
+                },
+                {
+                    "keyID": "2777F4B5-2BA9-4E83-9363-46780C76C299",
+                    "keyCap":
+                    {
+                        "text": "‛Ы"
+                    },
+                    "output": "Ы"
+                },
+                {
+                    "keyID": "2C52FA0D-EF4B-4FC2-A341-A7C1BFA30478",
+                    "keyCap":
+                    {
+                        "text": "Р₄"
+                    },
+                    "output": "Р"
+                },
+                {
+                    "keyID": "9AD6BCAE-4160-4911-947E-116CC46AF6CC",
+                    "keyCap":
+                    {
+                        "text": "О₅"
+                    },
+                    "output": "О"
+                },
+                {
+                    "keyID": "8B65DA35-51EF-4CE7-99CD-72432DE0ABC0",
+                    "keyCap":
+                    {
+                        "text": "Ш₂"
+                    },
+                    "output": "Ш"
+                },
+                {
+                    "keyID": "F94F808E-2DFE-47CD-B94D-CC182068CB3B",
+                    "keyCap":
+                    {
+                        "text": "Щ₃"
+                    },
+                    "output": "Щ"
+                },
+                {
+                    "keyID": "6F50C35B-5F7B-4DD2-AC86-FF3BA2E5265C",
+                    "keyCap":
+                    {
+                        "text": "И₇"
+                    },
+                    "output": "И"
+                },
+                {
+                    "keyID": "E05C334F-E0E7-4E3A-B6CA-951FA5AC8E98",
+                    "keyCap":
+                    {
+                        "text": "Н₋"
+                    },
+                    "output": "Н"
+                },
+                {
+                    "keyID": "52E92EAB-6AE1-4B69-BADF-05E1B2170004",
+                    "keyCap":
+                    {
+                        "text": "У["
+                    },
+                    "output": "У"
+                },
+                {
+                    "keyID": "D05140E3-8E5E-45EA-A83B-FF52C2ED7F11",
+                    "keyCap":
+                    {
+                        "text": "К]"
+                    },
+                    "output": "К"
+                },
+                {
+                    "keyID": "C6F42FA1-9E7B-40B4-BEB1-A8412A8576A6",
+                    "keyCap":
+                    {
+                        "text": "З₊"
+                    },
+                    "output": "З"
+                },
+                {
+                    "keyID": "18F4B34B-2E2D-459C-AA3B-9678420AE9E9",
+                    "keyCap":
+                    {
+                        "text": "Д*"
+                    },
+                    "output": "Д"
+                },
+                {
+                    "keyID": "4C6716AF-218A-4F25-9B2C-47B4BEA67488",
+                    "keyCap":
+                    {
+                        "text": "‹С"
+                    },
+                    "output": "С"
+                }
+            ]
+        },
+        {
+            "title": "йцу",
+            "keys":
+            [
+                {
+                    "keyID": "й",
+                    "keyCap":
+                    {
+                        "text": "й"
+                    }
+                },
+                {
+                    "keyID": "ц",
+                    "keyCap":
+                    {
+                        "text": "ц"
+                    }
+                },
+                {
+                    "keyID": "у",
+                    "keyCap":
+                    {
+                        "text": "у"
+                    }
+                },
+                {
+                    "keyID": "к",
+                    "keyCap":
+                    {
+                        "text": "к"
+                    }
+                },
+                {
+                    "keyID": "е",
+                    "keyCap":
+                    {
+                        "text": "е"
+                    }
+                },
+                {
+                    "keyID": "E5ADF141-74A8-4333-97BA-A08BB9EBB244",
+                    "keyCap":
+                    {
+                        "text": "п’"
+                    },
+                    "output": "п"
+                },
+                {
+                    "keyID": "E7D0BACC-712C-42B6-9D2D-4D0ECA247225",
+                    "keyCap":
+                    {
+                        "text": "к¹"
+                    },
+                    "output": "к"
+                },
+                {
+                    "keyID": "ф",
+                    "keyCap":
+                    {
+                        "text": "ф"
+                    }
+                },
+                {
+                    "keyID": "ы",
+                    "keyCap":
+                    {
+                        "text": "ы"
+                    }
+                },
+                {
+                    "keyID": "в",
+                    "keyCap":
+                    {
+                        "text": "в"
+                    }
+                },
+                {
+                    "keyID": "а",
+                    "keyCap":
+                    {
+                        "text": "а"
+                    }
+                },
+                {
+                    "keyID": "п",
+                    "keyCap":
+                    {
+                        "text": "п"
+                    }
+                },
+                {
+                    "keyID": "5AECC379-F3F8-4DFC-A1D1-C2F135A13F2A",
+                    "keyCap":
+                    {
+                        "text": "в("
+                    },
+                    "output": "в"
+                },
+                {
+                    "keyID": "87371451-3F57-4273-A517-3EE6E92FD8F3",
+                    "keyCap":
+                    {
+                        "text": "а)"
+                    },
+                    "output": "а"
+                },
+                {
+                    "keyID": "я",
+                    "keyCap":
+                    {
+                        "text": "я"
+                    }
+                },
+                {
+                    "keyID": "ч",
+                    "keyCap":
+                    {
+                        "text": "ч"
+                    }
+                },
+                {
+                    "keyID": "с",
+                    "keyCap":
+                    {
+                        "text": "с"
+                    }
+                },
+                {
+                    "keyID": "м",
+                    "keyCap":
+                    {
+                        "text": "м"
+                    }
+                },
+                {
+                    "keyID": "и",
+                    "keyCap":
+                    {
+                        "text": "и"
+                    }
+                },
+                {
+                    "keyID": "т",
+                    "keyCap":
+                    {
+                        "text": "т"
+                    }
+                },
+                {
+                    "keyID": "ь",
+                    "keyCap":
+                    {
+                        "text": "ь"
+                    }
+                },
+                {
+                    "keyID": "н",
+                    "keyCap":
+                    {
+                        "text": "н"
+                    }
+                },
+                {
+                    "keyID": "г",
+                    "keyCap":
+                    {
+                        "text": "г"
+                    }
+                },
+                {
+                    "keyID": "ш",
+                    "keyCap":
+                    {
+                        "text": "ш"
+                    }
+                },
+                {
+                    "keyID": "щ",
+                    "keyCap":
+                    {
+                        "text": "щ"
+                    }
+                },
+                {
+                    "keyID": "з",
+                    "keyCap":
+                    {
+                        "text": "з"
+                    }
+                },
+                {
+                    "keyID": "3EF6FE2D-A718-4B6F-81B4-8FDA52E9E0B8",
+                    "keyCap":
+                    {
+                        "text": "т₈"
+                    },
+                    "output": "т"
+                },
+                {
+                    "keyID": "33CC9103-E9F4-4E05-99E6-007B2B350924",
+                    "keyCap":
+                    {
+                        "text": "ь₉"
+                    },
+                    "output": "ь"
+                },
+                {
+                    "keyID": "р",
+                    "keyCap":
+                    {
+                        "text": "р"
+                    }
+                },
+                {
+                    "keyID": "о",
+                    "keyCap":
+                    {
+                        "text": "о"
+                    }
+                },
+                {
+                    "keyID": "л",
+                    "keyCap":
+                    {
+                        "text": "л"
+                    }
+                },
+                {
+                    "keyID": "д",
+                    "keyCap":
+                    {
+                        "text": "д"
+                    }
+                },
+                {
+                    "keyID": "EB478FE3-66FB-4638-B1E1-1313980AF35B",
+                    "keyCap":
+                    {
+                        "text": "м›"
+                    },
+                    "output": "м"
+                },
+                {
+                    "keyID": "B64265E1-8280-4777-864F-F4B900A845F5",
+                    "keyCap":
+                    {
+                        "text": "г₁"
+                    },
+                    "output": "г"
+                },
+                {
+                    "keyID": "9055C952-74C5-4113-9190-54737D5A8854",
+                    "keyCap":
+                    {
+                        "text": "‛ы"
+                    },
+                    "output": "ы"
+                },
+                {
+                    "keyID": "F12D9A24-9533-40C7-A9CB-D2E902604F92",
+                    "keyCap":
+                    {
+                        "text": "р₄"
+                    },
+                    "output": "р"
+                },
+                {
+                    "keyID": "152AC597-BC48-4277-8EC7-E834E4C01C7B",
+                    "keyCap":
+                    {
+                        "text": "о₅"
+                    },
+                    "output": "о"
+                },
+                {
+                    "keyID": "30D35864-3A77-4040-AB69-98FAB13D86C5",
+                    "keyCap":
+                    {
+                        "text": "л₆"
+                    },
+                    "output": "л"
+                },
+                {
+                    "keyID": "EB908A79-3FD9-49C8-B0F3-CC2F935AAF99",
+                    "keyCap":
+                    {
+                        "text": "щ₃"
+                    },
+                    "output": "щ"
+                },
+                {
+                    "keyID": "C50C63B1-BD93-4EED-A149-05846DAE8B1E",
+                    "keyCap":
+                    {
+                        "text": "и₇"
+                    },
+                    "output": "и"
+                },
+                {
+                    "keyID": "511389FD-C726-472D-9EFB-0A1C1318CC1B",
+                    "keyCap":
+                    {
+                        "text": "ш₂"
+                    },
+                    "output": "ш"
+                },
+                {
+                    "keyID": "8EF4D4E5-00D7-4CF9-B2FD-863421E88E1F",
+                    "keyCap":
+                    {
+                        "text": "н₋"
+                    },
+                    "output": "н"
+                },
+                {
+                    "keyID": "4A7AF99A-F8F0-4CD0-8524-34A7382AFFCA",
+                    "keyCap":
+                    {
+                        "text": "к]"
+                    },
+                    "output": "к"
+                },
+                {
+                    "keyID": "18123E08-E6D0-4A24-9597-59F148DDFBD7",
+                    "keyCap":
+                    {
+                        "text": "з₊"
+                    },
+                    "output": "з"
+                },
+                {
+                    "keyID": "17280CAA-B768-482E-B205-50B1A1EDBE68",
+                    "keyCap":
+                    {
+                        "text": "у["
+                    },
+                    "output": "у"
+                },
+                {
+                    "keyID": "6464B77C-28AB-41C3-B23E-CE656272710D",
+                    "keyCap":
+                    {
+                        "text": "д*"
+                    },
+                    "output": "д"
+                },
+                {
+                    "keyID": "44C900AA-75A9-4AE6-BE63-CBAF62360F92",
+                    "keyCap":
+                    {
+                        "text": "‹с"
+                    },
+                    "output": "с"
+                }
+            ]
+        },
+        {
             "title": "?<+",
             "keys":
             [
