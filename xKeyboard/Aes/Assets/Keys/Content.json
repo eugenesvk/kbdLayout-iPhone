@@ -1068,6 +1068,14 @@
                     }
                 },
                 {
+                    "keyID": "EF979914-E272-4D23-8C51-7DF9638BCA0A",
+                    "keyCap":
+                    {
+                        "text": "—m"
+                    },
+                    "output": "—"
+                },
+                {
                     "keyID": "EADF617E-4617-476E-BA68-65783AB42BA5",
                     "keyCap":
                     {
@@ -1076,12 +1084,12 @@
                     "output": "–"
                 },
                 {
-                    "keyID": "EF979914-E272-4D23-8C51-7DF9638BCA0A",
+                    "keyID": "BB00DB10-B26C-45BB-A300-23F6FD95C3C3",
                     "keyCap":
                     {
-                        "text": "—m"
+                        "text": "‒#"
                     },
-                    "output": "—"
+                    "output": "‒"
                 },
                 {
                     "keyID": "8E5FFBBE-F91F-4922-AF6F-5989917496C0",
@@ -2720,6 +2728,22 @@
                     "output": " "
                 },
                 {
+                    "keyID": "BF0F0292-E5F9-4045-AF80-78508400ABFD",
+                    "keyCap":
+                    {
+                        "text": "␠¶"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "4DC35DEC-C005-4BD3-AEB9-3BCED9343BE8",
+                    "keyCap":
+                    {
+                        "text": "␠#"
+                    },
+                    "output": " "
+                },
+                {
                     "keyID": "724993A1-4513-41DC-8872-1C6BD0182F2B",
                     "keyCap":
                     {
@@ -2752,6 +2776,14 @@
                     "output": "‎"
                 },
                 {
+                    "keyID": "42043D55-B688-4C09-95A9-C615710BFA8E",
+                    "keyCap":
+                    {
+                        "text": "␠4/m"
+                    },
+                    "output": " "
+                },
+                {
                     "keyID": "50737527-CED8-4951-B8AD-0AE9984C8914",
                     "keyCap":
                     {
@@ -2766,22 +2798,6 @@
                         "text": "␠━"
                     },
                     "output": " "
-                },
-                {
-                    "keyID": "BF0F0292-E5F9-4045-AF80-78508400ABFD",
-                    "keyCap":
-                    {
-                        "text": "␠¶"
-                    },
-                    "output": " "
-                },
-                {
-                    "keyID": "42043D55-B688-4C09-95A9-C615710BFA8E",
-                    "keyCap":
-                    {
-                        "text": "␠4/m"
-                    },
-                    "output": " "
                 },
                 {
                     "keyID": "0620CB57-01B5-49B1-8675-466C11DA9860",
@@ -2913,7 +2929,7 @@
                     "keyID": "C679C3E8-5987-4EE7-97BB-B38C96C5BB27",
                     "keyCap":
                     {
-                        "text": "4⏸"
+                        "text": "4⏸ghi"
                     },
                     "output": "4"
                 },
@@ -3020,44 +3036,12 @@
                     }
                 },
                 {
-                    "keyID": "0417B98D-D5F9-4E26-B3E0-3B65DF0493E8",
-                    "keyCap":
-                    {
-                        "text": "␠"
-                    },
-                    "output": " "
-                },
-                {
-                    "keyID": "4DC35DEC-C005-4BD3-AEB9-3BCED9343BE8",
-                    "keyCap":
-                    {
-                        "text": "␠#"
-                    },
-                    "output": " "
-                },
-                {
                     "keyID": "73A1352E-42DB-416D-B5D8-59F3E2DB19F7",
                     "keyCap":
                     {
                         "text": ""
                     },
                     "output": " "
-                },
-                {
-                    "keyID": "093B8004-0E7E-482B-A23E-64994EBADB30",
-                    "keyCap":
-                    {
-                        "text": "␠."
-                    },
-                    "output": " "
-                },
-                {
-                    "keyID": "BB00DB10-B26C-45BB-A300-23F6FD95C3C3",
-                    "keyCap":
-                    {
-                        "text": "‒#"
-                    },
-                    "output": "‒"
                 },
                 {
                     "keyID": "29D01780-26FC-4D0B-956E-A43C8991CBBD",
@@ -3135,7 +3119,7 @@
                     "keyID": "1C9CF43E-12FD-4C84-B92B-492086A01401",
                     "keyCap":
                     {
-                        "text": "⏸pause"
+                        "text": "⏸ pause"
                     },
                     "output": ","
                 },
@@ -3143,7 +3127,7 @@
                     "keyID": "E0EA65DF-8779-4ACF-B8E5-4C829A8B071C",
                     "keyCap":
                     {
-                        "text": "6⌛️"
+                        "text": "6⌛️mno"
                     },
                     "output": "6"
                 },
@@ -3154,6 +3138,13 @@
                         "text": "⌛️wait"
                     },
                     "output": ";"
+                },
+                {
+                    "keyID": "8508C3FD-7957-492E-B59C-4B0FF87ED8CC",
+                    "keyCap":
+                    {
+                        "text": "#"
+                    }
                 }
             ]
         }
