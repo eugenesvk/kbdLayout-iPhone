@@ -1,0 +1,3152 @@
+{
+    "groups":
+    [
+        {
+            "title": "Fn",
+            "keys":
+            [
+                {
+                    "keyID": "space",
+                    "type": 1,
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "backspace",
+                    "keyCap":
+                    {
+                        "icon": 2
+                    },
+                    "type": 3,
+                    "repeatEnabled": true
+                },
+                {
+                    "keyID": "return",
+                    "type": 2,
+                    "keyCap":
+                    {
+                        "icon": 7
+                    }
+                },
+                {
+                    "keyID": "shift",
+                    "type": 4,
+                    "keyCap":
+                    {
+                        "icon": 3
+                    }
+                },
+                {
+                    "keyID": "capslock",
+                    "type": 7,
+                    "keyCap":
+                    {
+                        "icon": 5
+                    }
+                },
+                {
+                    "keyID": "tab",
+                    "type": 6,
+                    "keyCap":
+                    {
+                        "icon": 8
+                    }
+                },
+                {
+                    "keyID": "dismiss",
+                    "type": 1002,
+                    "keyCap":
+                    {
+                        "icon": 6
+                    }
+                },
+                {
+                    "keyID": "globe",
+                    "type": 1001,
+                    "keyCap":
+                    {
+                        "icon": 1
+                    }
+                }
+            ]
+        },
+        {
+            "title": "ABC",
+            "keys":
+            [
+                {
+                    "keyID": "Q",
+                    "keyCap":
+                    {
+                        "text": "Q"
+                    }
+                },
+                {
+                    "keyID": "W",
+                    "keyCap":
+                    {
+                        "text": "W"
+                    }
+                },
+                {
+                    "keyID": "E",
+                    "keyCap":
+                    {
+                        "text": "E"
+                    }
+                },
+                {
+                    "keyID": "R",
+                    "keyCap":
+                    {
+                        "text": "R"
+                    }
+                },
+                {
+                    "keyID": "T",
+                    "keyCap":
+                    {
+                        "text": "T"
+                    }
+                },
+                {
+                    "keyID": "0391782E-B47C-44F2-AB63-8FB1FAE60F92",
+                    "keyCap":
+                    {
+                        "text": "G’"
+                    },
+                    "output": "G"
+                },
+                {
+                    "keyID": "754C7CE6-E8B2-4818-B2C2-0BC57DEACBFB",
+                    "keyCap":
+                    {
+                        "text": "R⁰"
+                    },
+                    "output": "R"
+                },
+                {
+                    "keyID": "A",
+                    "keyCap":
+                    {
+                        "text": "A"
+                    }
+                },
+                {
+                    "keyID": "S",
+                    "keyCap":
+                    {
+                        "text": "S"
+                    }
+                },
+                {
+                    "keyID": "D",
+                    "keyCap":
+                    {
+                        "text": "D"
+                    }
+                },
+                {
+                    "keyID": "F",
+                    "keyCap":
+                    {
+                        "text": "F"
+                    }
+                },
+                {
+                    "keyID": "G",
+                    "keyCap":
+                    {
+                        "text": "G"
+                    }
+                },
+                {
+                    "keyID": "36FB98C8-2FEF-42A8-B7EB-078AF24E4881",
+                    "keyCap":
+                    {
+                        "text": "D("
+                    },
+                    "output": "D"
+                },
+                {
+                    "keyID": "8945FC0A-E79D-40EC-9555-EFC14E745E04",
+                    "keyCap":
+                    {
+                        "text": "F)"
+                    },
+                    "output": "F"
+                },
+                {
+                    "keyID": "Z",
+                    "keyCap":
+                    {
+                        "text": "Z"
+                    }
+                },
+                {
+                    "keyID": "X",
+                    "keyCap":
+                    {
+                        "text": "X"
+                    }
+                },
+                {
+                    "keyID": "C",
+                    "keyCap":
+                    {
+                        "text": "C"
+                    }
+                },
+                {
+                    "keyID": "V",
+                    "keyCap":
+                    {
+                        "text": "V"
+                    }
+                },
+                {
+                    "keyID": "B",
+                    "keyCap":
+                    {
+                        "text": "B"
+                    }
+                },
+                {
+                    "keyID": "N",
+                    "keyCap":
+                    {
+                        "text": "N"
+                    }
+                },
+                {
+                    "keyID": "M",
+                    "keyCap":
+                    {
+                        "text": "M"
+                    }
+                },
+                {
+                    "keyID": "Y",
+                    "keyCap":
+                    {
+                        "text": "Y"
+                    }
+                },
+                {
+                    "keyID": "U",
+                    "keyCap":
+                    {
+                        "text": "U"
+                    }
+                },
+                {
+                    "keyID": "I",
+                    "keyCap":
+                    {
+                        "text": "I"
+                    }
+                },
+                {
+                    "keyID": "O",
+                    "keyCap":
+                    {
+                        "text": "O"
+                    }
+                },
+                {
+                    "keyID": "P",
+                    "keyCap":
+                    {
+                        "text": "P"
+                    }
+                },
+                {
+                    "keyID": "91F9A484-DC57-429E-B3F4-D7957EED1FC6",
+                    "keyCap":
+                    {
+                        "text": "N₈"
+                    },
+                    "output": "N"
+                },
+                {
+                    "keyID": "BF015E3F-49C1-4E37-8AB4-C878ADDA02EA",
+                    "keyCap":
+                    {
+                        "text": "M₉"
+                    },
+                    "output": "M"
+                },
+                {
+                    "keyID": "H",
+                    "keyCap":
+                    {
+                        "text": "H"
+                    }
+                },
+                {
+                    "keyID": "J",
+                    "keyCap":
+                    {
+                        "text": "J"
+                    }
+                },
+                {
+                    "keyID": "K",
+                    "keyCap":
+                    {
+                        "text": "K"
+                    }
+                },
+                {
+                    "keyID": "L",
+                    "keyCap":
+                    {
+                        "text": "L"
+                    }
+                },
+                {
+                    "keyID": "656A40A4-32ED-46A9-A4E1-660032392540",
+                    "keyCap":
+                    {
+                        "text": "V›"
+                    },
+                    "output": "V"
+                },
+                {
+                    "keyID": "382AF69E-2B33-4D54-8498-A315DCDE2287",
+                    "keyCap":
+                    {
+                        "text": "U₁"
+                    },
+                    "output": "U"
+                },
+                {
+                    "keyID": "2777F4B5-2BA9-4E83-9363-46780C76A765",
+                    "keyCap":
+                    {
+                        "text": "‛S"
+                    },
+                    "output": "S"
+                },
+                {
+                    "keyID": "2C52FA0D-EF4B-4FC2-A341-A7C1BFA3C299",
+                    "keyCap":
+                    {
+                        "text": "H₄"
+                    },
+                    "output": "H"
+                },
+                {
+                    "keyID": "9AD6BCAE-4160-4911-947E-116CC46A0478",
+                    "keyCap":
+                    {
+                        "text": "J₅"
+                    },
+                    "output": "J"
+                },
+                {
+                    "keyID": "8B65DA35-51EF-4CE7-99CD-72432DE0F6CC",
+                    "keyCap":
+                    {
+                        "text": "I₂"
+                    },
+                    "output": "I"
+                },
+                {
+                    "keyID": "F94F808E-2DFE-47CD-B94D-CC182068ABC0",
+                    "keyCap":
+                    {
+                        "text": "O₃"
+                    },
+                    "output": "O"
+                },
+                {
+                    "keyID": "6F50C35B-5F7B-4DD2-AC86-FF3BA2E5CB3B",
+                    "keyCap":
+                    {
+                        "text": "B₇"
+                    },
+                    "output": "B"
+                },
+                {
+                    "keyID": "E05C334F-E0E7-4E3A-B6CA-951FA5AC265C",
+                    "keyCap":
+                    {
+                        "text": "Y₋"
+                    },
+                    "output": "Y"
+                },
+                {
+                    "keyID": "52E92EAB-6AE1-4B69-BADF-05E1B2178E98",
+                    "keyCap":
+                    {
+                        "text": "E["
+                    },
+                    "output": "E"
+                },
+                {
+                    "keyID": "D05140E3-8E5E-45EA-A83B-FF52C2ED0004",
+                    "keyCap":
+                    {
+                        "text": "R]"
+                    },
+                    "output": "R"
+                },
+                {
+                    "keyID": "C6F42FA1-9E7B-40B4-BEB1-A8412A857F11",
+                    "keyCap":
+                    {
+                        "text": "P₊"
+                    },
+                    "output": "P"
+                },
+                {
+                    "keyID": "18F4B34B-2E2D-459C-AA3B-9678420A76A6",
+                    "keyCap":
+                    {
+                        "text": "L*"
+                    },
+                    "output": "L"
+                },
+                {
+                    "keyID": "4C6716AF-218A-4F25-9B2C-47B4BEA6E9E9",
+                    "keyCap":
+                    {
+                        "text": "‹C"
+                    },
+                    "output": "C"
+                }
+            ]
+        },
+        {
+            "title": "abc",
+            "keys":
+            [
+                {
+                    "keyID": "q",
+                    "keyCap":
+                    {
+                        "text": "q"
+                    }
+                },
+                {
+                    "keyID": "w",
+                    "keyCap":
+                    {
+                        "text": "w"
+                    }
+                },
+                {
+                    "keyID": "e",
+                    "keyCap":
+                    {
+                        "text": "e"
+                    }
+                },
+                {
+                    "keyID": "r",
+                    "keyCap":
+                    {
+                        "text": "r"
+                    }
+                },
+                {
+                    "keyID": "t",
+                    "keyCap":
+                    {
+                        "text": "t"
+                    }
+                },
+                {
+                    "keyID": "E5ADF141-74A8-4333-97BA-A08BB9EB7488",
+                    "keyCap":
+                    {
+                        "text": "g’"
+                    },
+                    "output": "g"
+                },
+                {
+                    "keyID": "E7D0BACC-712C-42B6-9D2D-4D0ECA24B244",
+                    "keyCap":
+                    {
+                        "text": "r¹"
+                    },
+                    "output": "r"
+                },
+                {
+                    "keyID": "a",
+                    "keyCap":
+                    {
+                        "text": "a"
+                    }
+                },
+                {
+                    "keyID": "s",
+                    "keyCap":
+                    {
+                        "text": "s"
+                    }
+                },
+                {
+                    "keyID": "d",
+                    "keyCap":
+                    {
+                        "text": "d"
+                    }
+                },
+                {
+                    "keyID": "f",
+                    "keyCap":
+                    {
+                        "text": "f"
+                    }
+                },
+                {
+                    "keyID": "g",
+                    "keyCap":
+                    {
+                        "text": "g"
+                    }
+                },
+                {
+                    "keyID": "5AECC379-F3F8-4DFC-A1D1-C2F135A17225",
+                    "keyCap":
+                    {
+                        "text": "d("
+                    },
+                    "output": "d"
+                },
+                {
+                    "keyID": "87371451-3F57-4273-A517-3EE6E92F3F2A",
+                    "keyCap":
+                    {
+                        "text": "f)"
+                    },
+                    "output": "f"
+                },
+                {
+                    "keyID": "z",
+                    "keyCap":
+                    {
+                        "text": "z"
+                    }
+                },
+                {
+                    "keyID": "x",
+                    "keyCap":
+                    {
+                        "text": "x"
+                    }
+                },
+                {
+                    "keyID": "c",
+                    "keyCap":
+                    {
+                        "text": "c"
+                    }
+                },
+                {
+                    "keyID": "v",
+                    "keyCap":
+                    {
+                        "text": "v"
+                    }
+                },
+                {
+                    "keyID": "b",
+                    "keyCap":
+                    {
+                        "text": "b"
+                    }
+                },
+                {
+                    "keyID": "n",
+                    "keyCap":
+                    {
+                        "text": "n"
+                    }
+                },
+                {
+                    "keyID": "m",
+                    "keyCap":
+                    {
+                        "text": "m"
+                    }
+                },
+                {
+                    "keyID": "y",
+                    "keyCap":
+                    {
+                        "text": "y"
+                    }
+                },
+                {
+                    "keyID": "u",
+                    "keyCap":
+                    {
+                        "text": "u"
+                    }
+                },
+                {
+                    "keyID": "i",
+                    "keyCap":
+                    {
+                        "text": "i"
+                    }
+                },
+                {
+                    "keyID": "o",
+                    "keyCap":
+                    {
+                        "text": "o"
+                    }
+                },
+                {
+                    "keyID": "p",
+                    "keyCap":
+                    {
+                        "text": "p"
+                    }
+                },
+                {
+                    "keyID": "3EF6FE2D-A718-4B6F-81B4-8FDA52E9D8F3",
+                    "keyCap":
+                    {
+                        "text": "n₈"
+                    },
+                    "output": "n"
+                },
+                {
+                    "keyID": "33CC9103-E9F4-4E05-99E6-007B2B35E0B8",
+                    "keyCap":
+                    {
+                        "text": "m₉"
+                    },
+                    "output": "m"
+                },
+                {
+                    "keyID": "h",
+                    "keyCap":
+                    {
+                        "text": "h"
+                    }
+                },
+                {
+                    "keyID": "j",
+                    "keyCap":
+                    {
+                        "text": "j"
+                    }
+                },
+                {
+                    "keyID": "k",
+                    "keyCap":
+                    {
+                        "text": "k"
+                    }
+                },
+                {
+                    "keyID": "l",
+                    "keyCap":
+                    {
+                        "text": "l"
+                    }
+                },
+                {
+                    "keyID": "EB478FE3-66FB-4638-B1E1-1313980A0924",
+                    "keyCap":
+                    {
+                        "text": "v›"
+                    },
+                    "output": "v"
+                },
+                {
+                    "keyID": "B64265E1-8280-4777-864F-F4B900A8F35B",
+                    "keyCap":
+                    {
+                        "text": "u₁"
+                    },
+                    "output": "u"
+                },
+                {
+                    "keyID": "9055C952-74C5-4113-9190-54737D5A45F5",
+                    "keyCap":
+                    {
+                        "text": "‛s"
+                    },
+                    "output": "s"
+                },
+                {
+                    "keyID": "F12D9A24-9533-40C7-A9CB-D2E902608854",
+                    "keyCap":
+                    {
+                        "text": "h₄"
+                    },
+                    "output": "h"
+                },
+                {
+                    "keyID": "152AC597-BC48-4277-8EC7-E834E4C04F92",
+                    "keyCap":
+                    {
+                        "text": "j₅"
+                    },
+                    "output": "j"
+                },
+                {
+                    "keyID": "30D35864-3A77-4040-AB69-98FAB13D1C7B",
+                    "keyCap":
+                    {
+                        "text": "k₆"
+                    },
+                    "output": "k"
+                },
+                {
+                    "keyID": "EB908A79-3FD9-49C8-B0F3-CC2F935A86C5",
+                    "keyCap":
+                    {
+                        "text": "o₃"
+                    },
+                    "output": "o"
+                },
+                {
+                    "keyID": "C50C63B1-BD93-4EED-A149-05846DAEAF99",
+                    "keyCap":
+                    {
+                        "text": "b₇"
+                    },
+                    "output": "b"
+                },
+                {
+                    "keyID": "511389FD-C726-472D-9EFB-0A1C13188B1E",
+                    "keyCap":
+                    {
+                        "text": "i₂"
+                    },
+                    "output": "i"
+                },
+                {
+                    "keyID": "8EF4D4E5-00D7-4CF9-B2FD-863421E8CC1B",
+                    "keyCap":
+                    {
+                        "text": "y₋"
+                    },
+                    "output": "y"
+                },
+                {
+                    "keyID": "4A7AF99A-F8F0-4CD0-8524-34A7382A8E1F",
+                    "keyCap":
+                    {
+                        "text": "r]"
+                    },
+                    "output": "r"
+                },
+                {
+                    "keyID": "18123E08-E6D0-4A24-9597-59F148DDFFCA",
+                    "keyCap":
+                    {
+                        "text": "p₊"
+                    },
+                    "output": "p"
+                },
+                {
+                    "keyID": "17280CAA-B768-482E-B205-50B1A1EDFBD7",
+                    "keyCap":
+                    {
+                        "text": "e["
+                    },
+                    "output": "e"
+                },
+                {
+                    "keyID": "6464B77C-28AB-41C3-B23E-CE656272BE68",
+                    "keyCap":
+                    {
+                        "text": "l*"
+                    },
+                    "output": "l"
+                },
+                {
+                    "keyID": "44C900AA-75A9-4AE6-BE63-CBAF6236710D",
+                    "keyCap":
+                    {
+                        "text": "‹c"
+                    },
+                    "output": "c"
+                }
+            ]
+        },
+        {
+            "title": "?<+",
+            "keys":
+            [
+                {
+                    "keyID": ",",
+                    "keyCap":
+                    {
+                        "text": ","
+                    }
+                },
+                {
+                    "keyID": ".",
+                    "keyCap":
+                    {
+                        "text": "."
+                    }
+                },
+                {
+                    "keyID": ";",
+                    "keyCap":
+                    {
+                        "text": ";"
+                    }
+                },
+                {
+                    "keyID": ":",
+                    "keyCap":
+                    {
+                        "text": ":"
+                    }
+                },
+                {
+                    "keyID": "?",
+                    "keyCap":
+                    {
+                        "text": "?"
+                    }
+                },
+                {
+                    "keyID": "!",
+                    "keyCap":
+                    {
+                        "text": "!"
+                    }
+                },
+                {
+                    "keyID": "@",
+                    "keyCap":
+                    {
+                        "text": "@"
+                    }
+                },
+                {
+                    "keyID": "(",
+                    "keyCap":
+                    {
+                        "text": "("
+                    }
+                },
+                {
+                    "keyID": "[",
+                    "keyCap":
+                    {
+                        "text": "["
+                    }
+                },
+                {
+                    "keyID": "{",
+                    "keyCap":
+                    {
+                        "text": "{"
+                    }
+                },
+                {
+                    "keyID": "<",
+                    "keyCap":
+                    {
+                        "text": "<"
+                    }
+                },
+                {
+                    "keyID": "=",
+                    "keyCap":
+                    {
+                        "text": "="
+                    }
+                },
+                {
+                    "keyID": "\\",
+                    "keyCap":
+                    {
+                        "text": "\\"
+                    }
+                },
+                {
+                    "keyID": "/",
+                    "keyCap":
+                    {
+                        "text": "/"
+                    }
+                },
+                {
+                    "keyID": ")",
+                    "keyCap":
+                    {
+                        "text": ")"
+                    }
+                },
+                {
+                    "keyID": "]",
+                    "keyCap":
+                    {
+                        "text": "]"
+                    }
+                },
+                {
+                    "keyID": "}",
+                    "keyCap":
+                    {
+                        "text": "}"
+                    }
+                },
+                {
+                    "keyID": ">",
+                    "keyCap":
+                    {
+                        "text": ">"
+                    }
+                },
+                {
+                    "keyID": "+",
+                    "keyCap":
+                    {
+                        "text": "+"
+                    }
+                },
+                {
+                    "keyID": "-",
+                    "keyCap":
+                    {
+                        "text": "-"
+                    }
+                },
+                {
+                    "keyID": "*",
+                    "keyCap":
+                    {
+                        "text": "*"
+                    }
+                },
+                {
+                    "keyID": "%",
+                    "keyCap":
+                    {
+                        "text": "%"
+                    }
+                },
+                {
+                    "keyID": "‰",
+                    "keyCap":
+                    {
+                        "text": "‰"
+                    }
+                },
+                {
+                    "keyID": "‱",
+                    "keyCap":
+                    {
+                        "text": "‱"
+                    }
+                },
+                {
+                    "keyID": "CFB69134-B51D-48A2-824A-542228CD4918",
+                    "keyCap":
+                    {
+                        "text": "⅌"
+                    }
+                },
+                {
+                    "keyID": "`",
+                    "keyCap":
+                    {
+                        "text": "`"
+                    }
+                },
+                {
+                    "keyID": "'",
+                    "keyCap":
+                    {
+                        "text": "'"
+                    }
+                },
+                {
+                    "keyID": "\"",
+                    "keyCap":
+                    {
+                        "text": "\""
+                    }
+                },
+                {
+                    "keyID": "~",
+                    "keyCap":
+                    {
+                        "text": "~"
+                    }
+                },
+                {
+                    "keyID": "#",
+                    "keyCap":
+                    {
+                        "text": "#"
+                    }
+                },
+                {
+                    "keyID": "^",
+                    "keyCap":
+                    {
+                        "text": "^"
+                    }
+                },
+                {
+                    "keyID": "&",
+                    "keyCap":
+                    {
+                        "text": "&"
+                    }
+                },
+                {
+                    "keyID": "|",
+                    "keyCap":
+                    {
+                        "text": "|"
+                    }
+                },
+                {
+                    "keyID": "AF0D5305-5BF5-46E7-9B1B-AB45B70E746D",
+                    "keyCap":
+                    {
+                        "text": "¦"
+                    }
+                },
+                {
+                    "keyID": "_",
+                    "keyCap":
+                    {
+                        "text": "_"
+                    }
+                },
+                {
+                    "keyID": "C88D35AB-5AFE-4554-8377-270EF1580F41",
+                    "keyCap":
+                    {
+                        "text": "₽"
+                    }
+                },
+                {
+                    "keyID": "$",
+                    "keyCap":
+                    {
+                        "text": "$"
+                    }
+                },
+                {
+                    "keyID": "¥",
+                    "keyCap":
+                    {
+                        "text": "¥"
+                    }
+                },
+                {
+                    "keyID": "€",
+                    "keyCap":
+                    {
+                        "text": "€"
+                    }
+                },
+                {
+                    "keyID": "£",
+                    "keyCap":
+                    {
+                        "text": "£"
+                    }
+                },
+                {
+                    "keyID": "50E4B2D8-EE23-40BD-B243-084FBA97784E",
+                    "keyCap":
+                    {
+                        "text": "¢"
+                    }
+                },
+                {
+                    "keyID": "EF979914-E272-4D23-8C51-7DF9638BCA0A",
+                    "keyCap":
+                    {
+                        "text": "—m"
+                    },
+                    "output": "—"
+                },
+                {
+                    "keyID": "EADF617E-4617-476E-BA68-65783AB42BA5",
+                    "keyCap":
+                    {
+                        "text": "–n"
+                    },
+                    "output": "–"
+                },
+                {
+                    "keyID": "BB00DB10-B26C-45BB-A300-23F6FD95C3C3",
+                    "keyCap":
+                    {
+                        "text": "‒#"
+                    },
+                    "output": "‒"
+                },
+                {
+                    "keyID": "8E5FFBBE-F91F-4922-AF6F-5989917496C0",
+                    "keyCap":
+                    {
+                        "text": "−"
+                    }
+                },
+                {
+                    "keyID": "16D1097A-076F-4B6C-96DF-E93360E48E83",
+                    "keyCap":
+                    {
+                        "text": "/\""
+                    },
+                    "output": "/"
+                },
+                {
+                    "keyID": "709A6423-8245-4DF0-AFE8-074BAE401A2A",
+                    "keyCap":
+                    {
+                        "text": "/'"
+                    },
+                    "output": "/"
+                },
+                {
+                    "keyID": "FD01D6F7-8F13-4655-B278-18B6D4A158BD",
+                    "keyCap":
+                    {
+                        "text": "-₀"
+                    },
+                    "output": "-"
+                },
+                {
+                    "keyID": "CC6426FD-B3CC-4EF7-8E70-3A9AAB5EA12C",
+                    "keyCap":
+                    {
+                        "text": "—₀"
+                    },
+                    "output": "—"
+                },
+                {
+                    "keyID": "387B2740-41BF-4284-B2C9-1D801DB78F1F",
+                    "keyCap":
+                    {
+                        "text": "*ₗ"
+                    },
+                    "output": "*"
+                },
+                {
+                    "keyID": "52E5933D-670F-4645-A97F-6032C451C766",
+                    "keyCap":
+                    {
+                        "text": "*l"
+                    },
+                    "output": "*"
+                },
+                {
+                    "keyID": "BDA15013-7A51-497D-9AAA-E88D5B50AF56",
+                    "keyCap":
+                    {
+                        "text": "+ₚ"
+                    },
+                    "output": "+"
+                },
+                {
+                    "keyID": "FF6C3042-45BA-407A-A443-86C9850A84C8",
+                    "keyCap":
+                    {
+                        "text": "+p"
+                    },
+                    "output": "+"
+                }
+            ]
+        },
+        {
+            "title": "Typography",
+            "keys":
+            [
+                {
+                    "keyID": "0850A5C4-B51A-455B-BD07-523DEF21C706",
+                    "keyCap":
+                    {
+                        "text": "°"
+                    }
+                },
+                {
+                    "keyID": "F6AA57DD-690F-498B-9B67-800079E1DDC3",
+                    "keyCap":
+                    {
+                        "text": "℃"
+                    }
+                },
+                {
+                    "keyID": "A7BDED73-FC78-4DF7-8BD2-4631755B9695",
+                    "keyCap":
+                    {
+                        "text": "℉"
+                    }
+                },
+                {
+                    "keyID": "C6236281-7B0F-40EE-92D3-593016B646D2",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "ECDE9238-DFAE-44B1-BC36-98EE918662A5",
+                    "keyCap":
+                    {
+                        "text": "‸"
+                    }
+                },
+                {
+                    "keyID": "529C8EC4-198A-4F9F-8620-7AD64501D531",
+                    "keyCap":
+                    {
+                        "text": "⁁"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Punctuation",
+            "keys":
+            [
+                {
+                    "keyID": "578A64E2-5B7F-49D2-A8EC-60C3FB4949CD",
+                    "keyCap":
+                    {
+                        "text": "·"
+                    }
+                },
+                {
+                    "keyID": "55EF7AA1-587E-48D7-AA8D-4237A051DCD1",
+                    "keyCap":
+                    {
+                        "text": "•"
+                    }
+                },
+                {
+                    "keyID": "1102995C-EBA2-4679-809B-3A8A612080E6",
+                    "keyCap":
+                    {
+                        "text": "†"
+                    }
+                },
+                {
+                    "keyID": "3A58BF78-B09E-4A9C-A734-EFE5DE357761",
+                    "keyCap":
+                    {
+                        "text": "⁑"
+                    }
+                },
+                {
+                    "keyID": "9562C802-21D7-4C1C-84C9-6B52C50DCB4B",
+                    "keyCap":
+                    {
+                        "text": "…"
+                    }
+                },
+                {
+                    "keyID": "F77CA0FC-4912-422F-AD60-119556F4486F",
+                    "keyCap":
+                    {
+                        "text": "‥"
+                    }
+                },
+                {
+                    "keyID": "681BA7DE-34DF-402D-93E5-13086162A819",
+                    "keyCap":
+                    {
+                        "text": "․"
+                    }
+                },
+                {
+                    "keyID": "·",
+                    "keyCap":
+                    {
+                        "text": "·m"
+                    },
+                    "output": "·"
+                },
+                {
+                    "keyID": "•",
+                    "keyCap":
+                    {
+                        "text": "•b"
+                    },
+                    "output": "•"
+                },
+                {
+                    "keyID": "485D7E89-A5C4-46D7-A525-F7FBDA206C37",
+                    "keyCap":
+                    {
+                        "text": "‡"
+                    }
+                },
+                {
+                    "keyID": "6B39112B-D59B-4EFD-8752-2470525B9076",
+                    "keyCap":
+                    {
+                        "text": "⁂"
+                    }
+                },
+                {
+                    "keyID": "E6D5D80F-2A3D-4E7F-A717-4AEED6793FEA",
+                    "keyCap":
+                    {
+                        "text": "B/"
+                    },
+                    "output": "b"
+                },
+                {
+                    "keyID": "40CAC4F6-A9E4-4F50-9525-E7A657F94076",
+                    "keyCap":
+                    {
+                        "text": "⁋"
+                    }
+                },
+                {
+                    "keyID": "7B47CF1E-E057-4742-A8C8-652A3539585C",
+                    "keyCap":
+                    {
+                        "text": "▶"
+                    }
+                },
+                {
+                    "keyID": "3F1CFD1D-F7C1-40BE-B825-2F6D7362E759",
+                    "keyCap":
+                    {
+                        "text": "⁚"
+                    }
+                },
+                {
+                    "keyID": "8CEF1C32-B425-4D00-B2C9-5D5073475948",
+                    "keyCap":
+                    {
+                        "text": "⁖"
+                    }
+                },
+                {
+                    "keyID": "959A5871-CF82-4EA0-BB9A-3F768A47A10D",
+                    "keyCap":
+                    {
+                        "text": "⁘"
+                    }
+                },
+                {
+                    "keyID": "D00BAD61-99EE-466C-90F2-478D2FBA5A79",
+                    "keyCap":
+                    {
+                        "text": "⁙"
+                    }
+                },
+                {
+                    "keyID": "97494DBD-FAE1-421B-B91B-19FB82CDF6C2",
+                    "keyCap":
+                    {
+                        "text": "‧-"
+                    },
+                    "output": "‧"
+                },
+                {
+                    "keyID": "EED80FF1-20C5-4AEB-B91E-4DBBF81C1A9A",
+                    "keyCap":
+                    {
+                        "text": "⁝"
+                    }
+                },
+                {
+                    "keyID": "A428C8D2-143D-4404-9804-9B0600417C48",
+                    "keyCap":
+                    {
+                        "text": "⁞"
+                    }
+                },
+                {
+                    "keyID": "2F597A59-E009-4A81-A5DD-8A18057B1B0C",
+                    "keyCap":
+                    {
+                        "text": "¡"
+                    }
+                },
+                {
+                    "keyID": "3D98DAD2-C649-48F7-BD2D-BFEACCAE5F98",
+                    "keyCap":
+                    {
+                        "text": "‽"
+                    }
+                },
+                {
+                    "keyID": "434FA241-E9BC-4DB4-95B7-5E6FED3CCB58",
+                    "keyCap":
+                    {
+                        "text": "¿"
+                    }
+                },
+                {
+                    "keyID": "2E913E38-6D80-4E14-A72F-DEDBE829ECB1",
+                    "keyCap":
+                    {
+                        "text": "⸘"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "«Quotes»",
+            "keys":
+            [
+                {
+                    "keyID": "6366EB35-3ECC-4E19-AC8F-6392821951E7",
+                    "keyCap":
+                    {
+                        "text": "‹"
+                    }
+                },
+                {
+                    "keyID": "585B11FB-E021-4BF1-95A8-EEFEDF5C5F25",
+                    "keyCap":
+                    {
+                        "text": "›"
+                    }
+                },
+                {
+                    "keyID": "00FF0FB2-7D31-495B-A08A-1194D47A706A",
+                    "keyCap":
+                    {
+                        "text": "‘"
+                    }
+                },
+                {
+                    "keyID": "C8BFB310-41BE-496D-A8C0-EEB724587F9A",
+                    "keyCap":
+                    {
+                        "text": "’"
+                    }
+                },
+                {
+                    "keyID": "6985B0FB-9C48-4DAA-A699-32D890C0B960",
+                    "keyCap":
+                    {
+                        "text": "‛"
+                    }
+                },
+                {
+                    "keyID": "AE6B5CD9-0458-434B-9AEB-DD0BE86C9332",
+                    "type": 1,
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "6A129E1F-1D89-4A19-A450-65D5CF744FA7",
+                    "keyCap":
+                    {
+                        "text": "‚"
+                    }
+                },
+                {
+                    "keyID": "E5279BC4-7838-4E42-A38C-9641ABD3A4EC",
+                    "keyCap":
+                    {
+                        "text": "«"
+                    }
+                },
+                {
+                    "keyID": "56F20EED-97E5-4FA0-88DB-6CB090296D2E",
+                    "keyCap":
+                    {
+                        "text": "»"
+                    }
+                },
+                {
+                    "keyID": "49133C7A-1016-4E41-BF3D-A4BECDFBE5D1",
+                    "keyCap":
+                    {
+                        "text": "”"
+                    }
+                },
+                {
+                    "keyID": "78257103-7F76-480F-B0B1-A007037276BC",
+                    "keyCap":
+                    {
+                        "text": "“"
+                    }
+                },
+                {
+                    "keyID": "1804403B-253E-4987-A26B-C54A089C6542",
+                    "keyCap":
+                    {
+                        "text": "‟"
+                    }
+                },
+                {
+                    "keyID": "D9EC0903-863F-4441-B93B-576CB9375A0F",
+                    "keyCap":
+                    {
+                        "text": "⹂"
+                    }
+                },
+                {
+                    "keyID": "7D3512E3-B5E0-4912-A7C6-39E8EA321D07",
+                    "keyCap":
+                    {
+                        "text": "„"
+                    }
+                },
+                {
+                    "keyID": "90B062F2-E86E-4425-959A-3A315433D87B",
+                    "type": 1,
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "8A8A21CA-42A5-40D4-B1E8-FA1FEBCFA45B",
+                    "keyCap":
+                    {
+                        "text": "`"
+                    }
+                },
+                {
+                    "keyID": "E65F6AE1-640E-4F0A-BEC3-8A9D4419A884",
+                    "keyCap":
+                    {
+                        "text": "'"
+                    }
+                },
+                {
+                    "keyID": "44496C23-5AB3-4FA5-8CA3-D0F796EC404F",
+                    "keyCap":
+                    {
+                        "text": "\""
+                    }
+                },
+                {
+                    "keyID": "23DFFFCA-E611-4897-AC0C-2D4F21C00A6B",
+                    "type": 1,
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "C170550D-C8A1-4EB2-89CA-275A1F14FC60",
+                    "keyCap":
+                    {
+                        "text": "\"₀"
+                    },
+                    "output": "\""
+                },
+                {
+                    "keyID": "1CAB353E-E816-4341-9EB2-2D007ECC8A11",
+                    "keyCap":
+                    {
+                        "text": "'₀"
+                    },
+                    "output": "'"
+                },
+                {
+                    "keyID": "1D86F8D2-1327-4461-B6FE-844D933FBC00",
+                    "keyCap":
+                    {
+                        "text": "\"/"
+                    },
+                    "output": "\""
+                },
+                {
+                    "keyID": "C42C6EBB-B2BC-443E-9DB6-166EAD6B202F",
+                    "keyCap":
+                    {
+                        "text": "'/"
+                    },
+                    "output": "'"
+                }
+            ]
+        },
+        {
+            "title": "∑Math",
+            "keys":
+            [
+                {
+                    "keyID": "8BF341AF-DEB1-45C1-9CE3-317593E903FE",
+                    "keyCap":
+                    {
+                        "text": "+"
+                    }
+                },
+                {
+                    "keyID": "16E8C8B8-2D2B-4091-9B3B-C87D6BE61F77",
+                    "keyCap":
+                    {
+                        "text": "∔"
+                    }
+                },
+                {
+                    "keyID": "6836A884-9D56-4B21-8841-F0653EB07E30",
+                    "keyCap":
+                    {
+                        "text": "−"
+                    }
+                },
+                {
+                    "keyID": "CBBE6392-5618-4A6E-9E91-F1D156E15288",
+                    "keyCap":
+                    {
+                        "text": "±"
+                    }
+                },
+                {
+                    "keyID": "4F739221-0422-4A3F-9A68-67EF5AC45EE2",
+                    "keyCap":
+                    {
+                        "text": "∓"
+                    }
+                },
+                {
+                    "keyID": "375206CF-FEE8-411B-A8B0-E7E8CE6BCB8B",
+                    "keyCap":
+                    {
+                        "text": "⩲"
+                    }
+                },
+                {
+                    "keyID": "004ACF54-A944-43D5-B042-F7FD4F1AA974",
+                    "keyCap":
+                    {
+                        "text": "⩱"
+                    }
+                },
+                {
+                    "keyID": "C72F0FFC-381F-4B9A-9722-DBD3345A0E23",
+                    "keyCap":
+                    {
+                        "text": "×"
+                    }
+                },
+                {
+                    "keyID": "27C03E04-9D64-4533-92F2-D3D5D93ADC1D",
+                    "keyCap":
+                    {
+                        "text": "∗"
+                    }
+                },
+                {
+                    "keyID": "615FE3FF-681A-4C3B-8E94-8C3819EBCA55",
+                    "keyCap":
+                    {
+                        "text": "∙b"
+                    },
+                    "output": "∙"
+                },
+                {
+                    "keyID": "EEAEDADB-64FD-4483-9C98-C22B9BD4273C",
+                    "keyCap":
+                    {
+                        "text": "∘r"
+                    },
+                    "output": "∘"
+                },
+                {
+                    "keyID": "B311152A-2792-45E3-96A8-4DF56DBCCA0E",
+                    "keyCap":
+                    {
+                        "text": "⋅d"
+                    },
+                    "output": "⋅"
+                },
+                {
+                    "keyID": "5EB78078-EA0F-4337-97E3-EA716A5C3AB1",
+                    "keyCap":
+                    {
+                        "text": "÷"
+                    }
+                },
+                {
+                    "keyID": "371CC707-86EE-47BF-AE5C-C55B5EF27C22",
+                    "keyCap":
+                    {
+                        "text": "∕d"
+                    },
+                    "output": "∕"
+                },
+                {
+                    "keyID": "1DE9224C-1707-40BF-AD15-FD5900CC9105",
+                    "keyCap":
+                    {
+                        "text": "="
+                    }
+                },
+                {
+                    "keyID": "EB42E53F-8EA3-4B8B-B5DD-BAFA2F5AD26F",
+                    "keyCap":
+                    {
+                        "text": "≡"
+                    }
+                },
+                {
+                    "keyID": "1361BD74-A0CB-4074-8EAD-4541DF26C292",
+                    "keyCap":
+                    {
+                        "text": "≈"
+                    }
+                },
+                {
+                    "keyID": "B12E9A83-A731-4F40-8E50-04ECFDE39731",
+                    "keyCap":
+                    {
+                        "text": "≄"
+                    }
+                },
+                {
+                    "keyID": "CCC83BE2-4C88-428F-BAAE-D882AB42612D",
+                    "keyCap":
+                    {
+                        "text": "≉"
+                    }
+                },
+                {
+                    "keyID": "2016B588-FB93-4A74-8B87-18E685C0E344",
+                    "keyCap":
+                    {
+                        "text": "≝"
+                    }
+                },
+                {
+                    "keyID": "A8384C42-CFE1-4D42-BA19-9630DEA75A68",
+                    "keyCap":
+                    {
+                        "text": "≢"
+                    }
+                },
+                {
+                    "keyID": "FCDDB1AB-3523-40EF-8BEA-BFA3B329A8F8",
+                    "keyCap":
+                    {
+                        "text": "≠"
+                    }
+                },
+                {
+                    "keyID": "DB3596CE-AB58-4E60-AD6D-424D0DCEC81B",
+                    "keyCap":
+                    {
+                        "text": "−0"
+                    },
+                    "output": "−"
+                },
+                {
+                    "keyID": "8169F768-14E6-49E2-9535-80BD19269FDE",
+                    "keyCap":
+                    {
+                        "text": "<"
+                    }
+                },
+                {
+                    "keyID": "F7E2E464-AFA8-4822-9089-ED17C8746A2C",
+                    "keyCap":
+                    {
+                        "text": ">"
+                    }
+                },
+                {
+                    "keyID": "36FE6B09-C80C-46F4-A71E-A58A4BD4ADF8",
+                    "keyCap":
+                    {
+                        "text": "¬"
+                    }
+                },
+                {
+                    "keyID": "B7CE03E1-2206-4948-9911-7CA021B224BF",
+                    "keyCap":
+                    {
+                        "text": "⁄f"
+                    },
+                    "output": "⁄"
+                },
+                {
+                    "keyID": "4413CB33-20AA-4796-9C89-C8A4C7978CB1",
+                    "keyCap":
+                    {
+                        "text": "℮"
+                    }
+                },
+                {
+                    "keyID": "155E9716-B8C1-4371-A595-D0FE8CC012E2",
+                    "keyCap":
+                    {
+                        "text": "∀"
+                    }
+                },
+                {
+                    "keyID": "ACA8A419-148D-4FFA-8B40-0B1E3FBDDC33",
+                    "keyCap":
+                    {
+                        "text": "∂"
+                    }
+                },
+                {
+                    "keyID": "D19010E9-7676-40E7-8E81-843A4BD9BFD9",
+                    "keyCap":
+                    {
+                        "text": "∃"
+                    }
+                },
+                {
+                    "keyID": "7680B280-BB75-4444-A00A-1E68EB15F9A2",
+                    "keyCap":
+                    {
+                        "text": "∄"
+                    }
+                },
+                {
+                    "keyID": "928CD282-755A-459B-A301-B85BD3CFF14E",
+                    "keyCap":
+                    {
+                        "text": "∆"
+                    }
+                },
+                {
+                    "keyID": "F98FE5D1-B5A9-4679-9204-3CCAA5435241",
+                    "keyCap":
+                    {
+                        "text": "∇"
+                    }
+                },
+                {
+                    "keyID": "2502DE77-4450-43B9-A56E-953D93047DD2",
+                    "keyCap":
+                    {
+                        "text": "∎"
+                    }
+                },
+                {
+                    "keyID": "8737214B-ABCF-40E7-88A9-5409A9F48258",
+                    "keyCap":
+                    {
+                        "text": "∑"
+                    }
+                },
+                {
+                    "keyID": "0D59FF11-8D3F-43B2-912C-40D3813220CE",
+                    "keyCap":
+                    {
+                        "text": "⋯"
+                    }
+                },
+                {
+                    "keyID": "0D90DF98-55A0-4BE5-87DB-07203D4D4E7C",
+                    "keyCap":
+                    {
+                        "text": "∏"
+                    }
+                },
+                {
+                    "keyID": "3BC0E005-EAD2-4F3E-9350-67A4F97F8686",
+                    "keyCap":
+                    {
+                        "text": "≤"
+                    }
+                },
+                {
+                    "keyID": "25469B3A-F2F3-4F43-8005-C27A3810691B",
+                    "keyCap":
+                    {
+                        "text": "≥"
+                    }
+                },
+                {
+                    "keyID": "798341AB-4FA6-4CB3-99C5-570B50F48D72",
+                    "keyCap":
+                    {
+                        "text": "≦"
+                    }
+                },
+                {
+                    "keyID": "47E8B18D-B4F7-4342-8F19-8EF2EC0DE1D4",
+                    "keyCap":
+                    {
+                        "text": "≧"
+                    }
+                },
+                {
+                    "keyID": "6311F0A6-4343-484F-AC21-320508F71042",
+                    "keyCap":
+                    {
+                        "text": "⋰"
+                    }
+                },
+                {
+                    "keyID": "5DABD1B1-200F-499C-8E82-080A1D255643",
+                    "keyCap":
+                    {
+                        "text": "⋮"
+                    }
+                },
+                {
+                    "keyID": "DF58F7AF-A699-49CC-B370-316D2295B705",
+                    "keyCap":
+                    {
+                        "text": "⋱"
+                    }
+                },
+                {
+                    "keyID": "160FAF1E-5B22-4E0C-B31A-2E55D963ECBE",
+                    "keyCap":
+                    {
+                        "text": "⊗"
+                    }
+                },
+                {
+                    "keyID": "DD169839-F8C1-44BE-9170-000FAAE27D9C",
+                    "keyCap":
+                    {
+                        "text": "∞"
+                    }
+                },
+                {
+                    "keyID": "191B1095-69C5-43FD-BBC3-EA009F5B92D5",
+                    "keyCap":
+                    {
+                        "text": "⊛"
+                    }
+                },
+                {
+                    "keyID": "6D0C8384-AD38-4175-8F92-6211DE59EC22",
+                    "keyCap":
+                    {
+                        "text": "−y"
+                    },
+                    "output": "−"
+                },
+                {
+                    "keyID": "48F53BED-DEC5-436E-B00F-5B3185D00C3D",
+                    "keyCap":
+                    {
+                        "text": "−Y"
+                    },
+                    "output": "−"
+                }
+            ]
+        },
+        {
+            "title": "Combo Label",
+            "keys":
+            [
+                {
+                    "keyID": "8E44CC51-3802-42DF-A2C6-A5230D94E5A0",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "123",
+            "keys":
+            [
+                {
+                    "keyID": "1",
+                    "keyCap":
+                    {
+                        "text": "1"
+                    }
+                },
+                {
+                    "keyID": "2",
+                    "keyCap":
+                    {
+                        "text": "2"
+                    }
+                },
+                {
+                    "keyID": "3",
+                    "keyCap":
+                    {
+                        "text": "3"
+                    }
+                },
+                {
+                    "keyID": "0",
+                    "keyCap":
+                    {
+                        "text": "0"
+                    }
+                },
+                {
+                    "keyID": "414CA4D1-FD74-4C18-A9D9-EA98DFA18F6E",
+                    "keyCap":
+                    {
+                        "text": "1ᵤ"
+                    },
+                    "output": "1"
+                },
+                {
+                    "keyID": "9DA78765-E188-4D4D-A4BF-748628359124",
+                    "keyCap":
+                    {
+                        "text": "2ᵢ"
+                    },
+                    "output": "2"
+                },
+                {
+                    "keyID": "50675216-170B-4F9A-8EBE-F3C98A0EB6FE",
+                    "keyCap":
+                    {
+                        "text": "3ₒ"
+                    },
+                    "output": "3"
+                },
+                {
+                    "keyID": "4",
+                    "keyCap":
+                    {
+                        "text": "4"
+                    }
+                },
+                {
+                    "keyID": "5",
+                    "keyCap":
+                    {
+                        "text": "5"
+                    }
+                },
+                {
+                    "keyID": "6",
+                    "keyCap":
+                    {
+                        "text": "6"
+                    }
+                },
+                {
+                    "keyID": "A84B02D2-1786-4B4C-BF36-569B4E3B6D5C",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "F81478A2-40F2-449C-A395-4C85704D92E6",
+                    "keyCap":
+                    {
+                        "text": "4ₕ"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "192C6971-2C09-415B-8DFB-4FFC6222A806",
+                    "keyCap":
+                    {
+                        "text": "5ⱼ"
+                    },
+                    "output": "5"
+                },
+                {
+                    "keyID": "47DC9884-D98B-4607-959C-D3D295E1EC81",
+                    "keyCap":
+                    {
+                        "text": "6ₖ"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "7",
+                    "keyCap":
+                    {
+                        "text": "7"
+                    }
+                },
+                {
+                    "keyID": "8",
+                    "keyCap":
+                    {
+                        "text": "8"
+                    }
+                },
+                {
+                    "keyID": "9",
+                    "keyCap":
+                    {
+                        "text": "9"
+                    }
+                },
+                {
+                    "keyID": "B125AEF4-9E79-4AA9-975E-8F51EADABDF4",
+                    "keyCap":
+                    {
+                        "text": "0\""
+                    },
+                    "output": "0"
+                },
+                {
+                    "keyID": "B464AFDF-E679-40CB-868E-E543439A2140",
+                    "keyCap":
+                    {
+                        "text": "7ᵦ"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "4FA82485-2DE6-47FF-98FD-41B8C206FC90",
+                    "keyCap":
+                    {
+                        "text": "8ₙ"
+                    },
+                    "output": "8"
+                },
+                {
+                    "keyID": "56797496-A478-4CC7-9C5D-DA5B184E5C6F",
+                    "keyCap":
+                    {
+                        "text": "9ₘ"
+                    },
+                    "output": "9"
+                },
+                {
+                    "keyID": "C8F11250-7AF4-4CC4-871D-F88BA19223B4",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "C4544492-17AA-4598-AEB8-463074B9543C",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "0EA335FF-C25B-4DEF-B9D4-81F602BB9CF3",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "FC627B69-CA44-4093-8FD2-05DA2C8400DF",
+                    "keyCap":
+                    {
+                        "text": "0-"
+                    },
+                    "output": "0"
+                },
+                {
+                    "keyID": "EC80C549-7F48-4DB9-AD36-E2C9965C56BC",
+                    "keyCap":
+                    {
+                        "text": "1u"
+                    },
+                    "output": "1"
+                },
+                {
+                    "keyID": "B0916593-ADB2-4F23-99BD-FB9F234D2A7D",
+                    "keyCap":
+                    {
+                        "text": "2i"
+                    },
+                    "output": "2"
+                },
+                {
+                    "keyID": "F7169E44-852C-4AA3-A1CF-2E0E541C96D2",
+                    "keyCap":
+                    {
+                        "text": "3o"
+                    },
+                    "output": "3"
+                },
+                {
+                    "keyID": "B577A565-A488-420C-99BA-C87F133AE341",
+                    "keyCap":
+                    {
+                        "text": "4("
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "650080C3-48C2-42FE-A48F-429447D85DBC",
+                    "keyCap":
+                    {
+                        "text": "5%"
+                    },
+                    "output": "5"
+                },
+                {
+                    "keyID": "E14FA1E3-628E-453E-9B46-F91CBA127A72",
+                    "keyCap":
+                    {
+                        "text": "6)"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "DF66261C-52CB-44B4-A294-FF32AB940982",
+                    "keyCap":
+                    {
+                        "text": "0—"
+                    },
+                    "output": "0"
+                },
+                {
+                    "keyID": "20046852-A42D-464D-B677-E4B12B156DA6",
+                    "keyCap":
+                    {
+                        "text": "4h"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "26B371D3-C08A-4A9C-82A6-B54BF61B003F",
+                    "keyCap":
+                    {
+                        "text": "5j"
+                    },
+                    "output": "5"
+                },
+                {
+                    "keyID": "9DAD0EF8-8165-4961-A71A-6F0549D3FE20",
+                    "keyCap":
+                    {
+                        "text": "6k"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "5BB7F31E-4843-4295-906A-B9266B959582",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "BC4A9B38-4DA8-4040-88CC-32F326695B78",
+                    "keyCap":
+                    {
+                        "text": "8_"
+                    },
+                    "output": "8"
+                },
+                {
+                    "keyID": "12978F2C-C220-4DCD-8343-051031AD10AB",
+                    "keyCap":
+                    {
+                        "text": ""
+                    }
+                },
+                {
+                    "keyID": "C420EFF5-147F-4B29-B451-F86D7A3ED974",
+                    "keyCap":
+                    {
+                        "text": "0'"
+                    },
+                    "output": "0"
+                },
+                {
+                    "keyID": "7E8BE0DF-8DE8-474E-A3E3-08AD8A2E419E",
+                    "keyCap":
+                    {
+                        "text": "7b"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "0C48C11A-0569-40A0-A155-E3620466F65D",
+                    "keyCap":
+                    {
+                        "text": "8n"
+                    },
+                    "output": "8"
+                },
+                {
+                    "keyID": "8549A8BD-316C-4DFB-8AE7-79730574625F",
+                    "keyCap":
+                    {
+                        "text": "9m"
+                    },
+                    "output": "9"
+                }
+            ]
+        },
+        {
+            "title": "¹²³₁₂₃",
+            "keys":
+            [
+                {
+                    "keyID": "¹",
+                    "keyCap":
+                    {
+                        "text": "¹"
+                    }
+                },
+                {
+                    "keyID": "²",
+                    "keyCap":
+                    {
+                        "text": "²"
+                    }
+                },
+                {
+                    "keyID": "³",
+                    "keyCap":
+                    {
+                        "text": "³"
+                    }
+                },
+                {
+                    "keyID": "⁽",
+                    "keyCap":
+                    {
+                        "text": "⁽"
+                    }
+                },
+                {
+                    "keyID": "₁",
+                    "keyCap":
+                    {
+                        "text": "₁"
+                    }
+                },
+                {
+                    "keyID": "₂",
+                    "keyCap":
+                    {
+                        "text": "₂"
+                    }
+                },
+                {
+                    "keyID": "₃",
+                    "keyCap":
+                    {
+                        "text": "₃"
+                    }
+                },
+                {
+                    "keyID": "⁴",
+                    "keyCap":
+                    {
+                        "text": "⁴"
+                    }
+                },
+                {
+                    "keyID": "⁵",
+                    "keyCap":
+                    {
+                        "text": "⁵"
+                    }
+                },
+                {
+                    "keyID": "⁶",
+                    "keyCap":
+                    {
+                        "text": "⁶"
+                    }
+                },
+                {
+                    "keyID": "⁾",
+                    "keyCap":
+                    {
+                        "text": "⁾"
+                    }
+                },
+                {
+                    "keyID": "₄",
+                    "keyCap":
+                    {
+                        "text": "₄"
+                    }
+                },
+                {
+                    "keyID": "₅",
+                    "keyCap":
+                    {
+                        "text": "₅"
+                    }
+                },
+                {
+                    "keyID": "₆",
+                    "keyCap":
+                    {
+                        "text": "₆"
+                    }
+                },
+                {
+                    "keyID": "⁷",
+                    "keyCap":
+                    {
+                        "text": "⁷"
+                    }
+                },
+                {
+                    "keyID": "⁸",
+                    "keyCap":
+                    {
+                        "text": "⁸"
+                    }
+                },
+                {
+                    "keyID": "⁹",
+                    "keyCap":
+                    {
+                        "text": "⁹"
+                    }
+                },
+                {
+                    "keyID": "₍",
+                    "keyCap":
+                    {
+                        "text": "₍"
+                    }
+                },
+                {
+                    "keyID": "₇",
+                    "keyCap":
+                    {
+                        "text": "₇"
+                    }
+                },
+                {
+                    "keyID": "₈",
+                    "keyCap":
+                    {
+                        "text": "₈"
+                    }
+                },
+                {
+                    "keyID": "₉",
+                    "keyCap":
+                    {
+                        "text": "₉"
+                    }
+                },
+                {
+                    "keyID": "⁰",
+                    "keyCap":
+                    {
+                        "text": "⁰"
+                    }
+                },
+                {
+                    "keyID": "⁻",
+                    "keyCap":
+                    {
+                        "text": "⁻"
+                    }
+                },
+                {
+                    "keyID": "⁺",
+                    "keyCap":
+                    {
+                        "text": "⁺"
+                    }
+                },
+                {
+                    "keyID": "₎",
+                    "keyCap":
+                    {
+                        "text": "₎"
+                    }
+                },
+                {
+                    "keyID": "₀",
+                    "keyCap":
+                    {
+                        "text": "₀"
+                    }
+                },
+                {
+                    "keyID": "₋",
+                    "keyCap":
+                    {
+                        "text": "₋"
+                    }
+                },
+                {
+                    "keyID": "₊",
+                    "keyCap":
+                    {
+                        "text": "₊"
+                    }
+                },
+                {
+                    "keyID": "⁼",
+                    "keyCap":
+                    {
+                        "text": "⁼"
+                    }
+                },
+                {
+                    "keyID": "12CE756C-2C48-4D0C-8E3B-910B6D9C9A1C",
+                    "keyCap":
+                    {
+                        "text": "₀\""
+                    },
+                    "output": "₀"
+                },
+                {
+                    "keyID": "2934CCB4-F544-4F65-982A-35C2B3C24295",
+                    "keyCap":
+                    {
+                        "text": "ₘ"
+                    }
+                },
+                {
+                    "keyID": "1BCD49D4-B3F7-4831-A8DE-5958AC44E862",
+                    "keyCap":
+                    {
+                        "text": "ₐ"
+                    }
+                },
+                {
+                    "keyID": "₌",
+                    "keyCap":
+                    {
+                        "text": "₌"
+                    }
+                },
+                {
+                    "keyID": "C0B0FB63-775C-434A-A64B-A3B180403ED2",
+                    "keyCap":
+                    {
+                        "text": "ₒ"
+                    }
+                },
+                {
+                    "keyID": "C1DA21F4-9CCD-4CFD-AC20-A84766377654",
+                    "keyCap":
+                    {
+                        "text": "ₑ"
+                    }
+                },
+                {
+                    "keyID": "2FFF740C-6A5F-43E2-AF04-FDADDC20E207",
+                    "keyCap":
+                    {
+                        "text": "ⁱ"
+                    }
+                },
+                {
+                    "keyID": "D28916B4-C671-4DB7-B606-B0C4CBBBA14F",
+                    "keyCap":
+                    {
+                        "text": "ⁿ"
+                    }
+                },
+                {
+                    "keyID": "C8135C94-567F-4953-9627-0571033CA6E9",
+                    "keyCap":
+                    {
+                        "text": "ₙ"
+                    }
+                },
+                {
+                    "keyID": "D50F2FF5-0609-4D2A-9FA2-69E44FB8CA53",
+                    "keyCap":
+                    {
+                        "text": "ₕ"
+                    }
+                },
+                {
+                    "keyID": "3725710E-2F00-47CE-A9B1-D7C4DBE7ACA7",
+                    "keyCap":
+                    {
+                        "text": "ₓ"
+                    }
+                },
+                {
+                    "keyID": "71654937-0501-484A-8DF8-9FECFA4B9939",
+                    "keyCap":
+                    {
+                        "text": "ₖ"
+                    }
+                },
+                {
+                    "keyID": "8E6A545E-0BF6-49BC-87C0-EA7FD2859433",
+                    "keyCap":
+                    {
+                        "text": "ₔ"
+                    }
+                },
+                {
+                    "keyID": "199308E4-44CE-4014-A35D-2021063F3A91",
+                    "keyCap":
+                    {
+                        "text": "ₗ"
+                    }
+                },
+                {
+                    "keyID": "70F40E27-DA2B-4F9E-AE21-8F9CC9DC4135",
+                    "keyCap":
+                    {
+                        "text": "ₚ"
+                    }
+                },
+                {
+                    "keyID": "E5CDA836-4BF5-4809-8A75-4E199AE12FB7",
+                    "keyCap":
+                    {
+                        "text": "ₛ"
+                    }
+                },
+                {
+                    "keyID": "BB3292ED-B81C-4099-9258-EA3731F20CD0",
+                    "keyCap":
+                    {
+                        "text": "ₜ"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Space",
+            "keys":
+            [
+                {
+                    "keyID": "D7EAA830-4795-4C90-81C1-A99EDFBFF724",
+                    "keyCap":
+                    {
+                        "text": "␠m"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "1E473DD6-8AEE-4BB5-8E3E-76000DB42B63",
+                    "keyCap":
+                    {
+                        "text": "␠n"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "8262E82A-9D30-4C19-AE22-974CA8B5C39A",
+                    "keyCap":
+                    {
+                        "text": "␠f"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "A3E24FDC-879C-4746-B45E-143A86F1EBC1",
+                    "keyCap":
+                    {
+                        "text": "␠."
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "9E98D4D4-764C-4273-BC7F-A2796BAB0F1E",
+                    "keyCap":
+                    {
+                        "text": "␠t"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "2129AF97-3DF0-4B95-B910-5750B766DFF6",
+                    "keyCap":
+                    {
+                        "text": "␠h"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "D531867F-A43A-4D9D-9E14-B8D9EE83BED4",
+                    "keyCap":
+                    {
+                        "text": "␠0"
+                    },
+                    "output": "​"
+                },
+                {
+                    "keyID": "DC07B3BA-2F91-44AE-94F4-C8CFF0F4688E",
+                    "keyCap":
+                    {
+                        "text": "␠m⋅4"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "7C36FDC7-4BD5-4939-81E0-567CB66512D6",
+                    "keyCap":
+                    {
+                        "text": "␠n⋅4"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "547DE763-DD9F-44FC-84C6-B270EE21D7FC",
+                    "keyCap":
+                    {
+                        "text": "␠"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "6C9A96C2-9396-45E6-88F7-F7A8DCA75B06",
+                    "keyCap":
+                    {
+                        "text": "␠¦"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "D4B13B84-DB30-4533-BEFE-7062EE7AB2F2",
+                    "keyCap":
+                    {
+                        "text": "␠∑"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "6B72D4A4-3DED-462D-B783-986445BD904B",
+                    "keyCap":
+                    {
+                        "text": "␠fn"
+                    },
+                    "output": "⁡"
+                },
+                {
+                    "keyID": "8A67636A-8254-42D5-99F9-B2BC3930ABC6",
+                    "keyCap":
+                    {
+                        "text": "␠n/a"
+                    },
+                    "output": "⁥"
+                },
+                {
+                    "keyID": "30CACF1A-F7F3-49D4-B846-52F598CAD604",
+                    "keyCap":
+                    {
+                        "text": "␠3/m"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "BF0F0292-E5F9-4045-AF80-78508400ABFD",
+                    "keyCap":
+                    {
+                        "text": "␠¶"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "4DC35DEC-C005-4BD3-AEB9-3BCED9343BE8",
+                    "keyCap":
+                    {
+                        "text": "␠#"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "724993A1-4513-41DC-8872-1C6BD0182F2B",
+                    "keyCap":
+                    {
+                        "text": "␠0n⨝"
+                    },
+                    "output": "‌"
+                },
+                {
+                    "keyID": "90E9AA63-9399-4E97-9314-C58B2A8C22E4",
+                    "keyCap":
+                    {
+                        "text": "␠0⨝"
+                    },
+                    "output": "‍"
+                },
+                {
+                    "keyID": "4FFC8C00-768A-4A29-AC99-B1A1EA0FD4DC",
+                    "keyCap":
+                    {
+                        "text": "␠⨝ω"
+                    },
+                    "output": "⁠"
+                },
+                {
+                    "keyID": "189A87F4-7B6F-4E34-A432-0886A04D5D8A",
+                    "keyCap":
+                    {
+                        "text": "␠→"
+                    },
+                    "output": "‎"
+                },
+                {
+                    "keyID": "42043D55-B688-4C09-95A9-C615710BFA8E",
+                    "keyCap":
+                    {
+                        "text": "␠4/m"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "50737527-CED8-4951-B8AD-0AE9984C8914",
+                    "keyCap":
+                    {
+                        "text": "␠←"
+                    },
+                    "output": "‏"
+                },
+                {
+                    "keyID": "1E1CCD94-FBC0-45AF-A7CA-BF4C2D944A4C",
+                    "keyCap":
+                    {
+                        "text": "␠━"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "0620CB57-01B5-49B1-8675-466C11DA9860",
+                    "keyCap":
+                    {
+                        "text": "␠→emb"
+                    },
+                    "output": "‪"
+                },
+                {
+                    "keyID": "67A27CE6-BF7F-400E-BE04-FAE0C8436A3B",
+                    "keyCap":
+                    {
+                        "text": "␠←emb"
+                    },
+                    "output": "‫"
+                },
+                {
+                    "keyID": "E60AA8E0-9C75-4438-9CFD-E469BCBE1C10",
+                    "keyCap":
+                    {
+                        "text": "␠popf"
+                    },
+                    "output": "‬"
+                },
+                {
+                    "keyID": "257E93DB-E192-4146-84D8-C4C687A88A27",
+                    "keyCap":
+                    {
+                        "text": "␠→ovr"
+                    },
+                    "output": "‭"
+                },
+                {
+                    "keyID": "8EC87141-E6E3-4B9E-A619-DF28643975F5",
+                    "keyCap":
+                    {
+                        "text": "␠←ovr"
+                    },
+                    "output": "‮"
+                },
+                {
+                    "keyID": "6FC8C5DA-27C8-493F-8C24-3D2BED94BEE5",
+                    "keyCap":
+                    {
+                        "text": "␠6/m"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "0229C091-3C91-4E75-917A-A721FC640506",
+                    "keyCap":
+                    {
+                        "text": "␠¦nar"
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "2C26A512-8407-4221-A8C6-16CECE706E1A",
+                    "keyCap":
+                    {
+                        "text": "␠⋅invis"
+                    },
+                    "output": "⁢"
+                },
+                {
+                    "keyID": "81031B0E-6AE6-46BA-9903-728EACAACF14",
+                    "keyCap":
+                    {
+                        "text": "␠|invis"
+                    },
+                    "output": "⁣"
+                },
+                {
+                    "keyID": "A0B389A5-B5B5-4EB7-BA06-2B8C9FE27745",
+                    "keyCap":
+                    {
+                        "text": "␠+invis"
+                    },
+                    "output": "⁤"
+                },
+                {
+                    "keyID": "924F3E77-4E23-4CA0-9FF6-207F6E4A6132",
+                    "keyCap":
+                    {
+                        "text": "␠→isol"
+                    },
+                    "output": "⁦"
+                },
+                {
+                    "keyID": "AE2FE8D7-1BD5-4794-9F58-D638178F9093",
+                    "keyCap":
+                    {
+                        "text": "␠←isol"
+                    },
+                    "output": "⁧"
+                },
+                {
+                    "keyID": "7A0BA571-94DE-4BCA-A1B4-1FFE19718180",
+                    "keyCap":
+                    {
+                        "text": "␠1isol"
+                    },
+                    "output": "⁨"
+                },
+                {
+                    "keyID": "DFB0A274-2E6B-436E-B75A-AAD7AFD54F13",
+                    "keyCap":
+                    {
+                        "text": "␠popIsol"
+                    },
+                    "output": "⁩"
+                },
+                {
+                    "keyID": "4AFC0DC1-C67A-4DDB-9A93-6FB2171CF305",
+                    "keyCap":
+                    {
+                        "text": ""
+                    },
+                    "output": " "
+                }
+            ]
+        },
+        {
+            "title": "☎️Phone",
+            "keys":
+            [
+                {
+                    "keyID": "C679C3E8-5987-4EE7-97BB-B38C96C5BB27",
+                    "keyCap":
+                    {
+                        "text": "4⏸ghi"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "76CD6A18-9F5E-46C5-ACE7-058F412712C5",
+                    "keyCap":
+                    {
+                        "text": "6𝌗"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "73684B7A-EEC7-47A3-BFFD-156DB23A6D47",
+                    "keyCap":
+                    {
+                        "text": "7∗"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "664ECAC4-2DCD-4405-875D-F5345C1CE625",
+                    "keyCap":
+                    {
+                        "text": "9#"
+                    },
+                    "output": "9"
+                },
+                {
+                    "keyID": "5FADDD5F-3D5C-4106-A543-62F568DE771D",
+                    "keyCap":
+                    {
+                        "text": "0+"
+                    },
+                    "output": "0"
+                },
+                {
+                    "keyID": "CF989C67-DB94-404C-AAE3-247327120CF3",
+                    "keyCap":
+                    {
+                        "text": "2abc"
+                    },
+                    "output": "2"
+                },
+                {
+                    "keyID": "720E93AB-C539-4422-B20D-5D3A520A0043",
+                    "keyCap":
+                    {
+                        "text": "3def"
+                    },
+                    "output": "3"
+                },
+                {
+                    "keyID": "95B64A7B-9B20-475D-B8B6-81A8979295AE",
+                    "keyCap":
+                    {
+                        "text": "4ghi"
+                    },
+                    "output": "4"
+                },
+                {
+                    "keyID": "174DB820-2426-4EA5-9CFB-22AA6517918F",
+                    "keyCap":
+                    {
+                        "text": "5jkl"
+                    },
+                    "output": "5"
+                },
+                {
+                    "keyID": "7E1F8BB0-3C61-492F-AC6C-1D7473B22054",
+                    "keyCap":
+                    {
+                        "text": "8tuv"
+                    },
+                    "output": "8"
+                },
+                {
+                    "keyID": "03B28EBE-AB46-497B-8A88-2C9D1D7CF1AE",
+                    "keyCap":
+                    {
+                        "text": "7∗pqrs"
+                    },
+                    "output": "7"
+                },
+                {
+                    "keyID": "EF99012F-8A97-4D11-BBAE-698DB1F028AF",
+                    "keyCap":
+                    {
+                        "text": "9#wxyz"
+                    },
+                    "output": "9"
+                },
+                {
+                    "keyID": "1C41279D-009F-4507-94C4-FC518D36D285",
+                    "keyCap":
+                    {
+                        "text": "+7"
+                    }
+                },
+                {
+                    "keyID": "9DA9FCAA-C752-4FE5-9B34-48F2B689F801",
+                    "keyCap":
+                    {
+                        "text": "+1"
+                    }
+                },
+                {
+                    "keyID": "73A1352E-42DB-416D-B5D8-59F3E2DB19F7",
+                    "keyCap":
+                    {
+                        "text": ""
+                    },
+                    "output": " "
+                },
+                {
+                    "keyID": "29D01780-26FC-4D0B-956E-A43C8991CBBD",
+                    "keyCap":
+                    {
+                        "text": "+7␠"
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "EE6C63C3-09BF-4F14-8F64-6968CD8DD342",
+                    "keyCap":
+                    {
+                        "text": "+7␠#"
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "2BC88F8E-86DA-4BBB-A389-2A5FAB8B9529",
+                    "keyCap":
+                    {
+                        "text": "+7␠."
+                    },
+                    "output": "+7 "
+                },
+                {
+                    "keyID": "E31384B1-684F-4340-9949-263668FCEDC4",
+                    "keyCap":
+                    {
+                        "text": "␠.("
+                    },
+                    "output": " ("
+                },
+                {
+                    "keyID": "A01763E3-C958-4A12-B9FD-452B57D143FA",
+                    "keyCap":
+                    {
+                        "text": "␠("
+                    },
+                    "output": " ("
+                },
+                {
+                    "keyID": "6E79FF01-F80C-4332-B3EA-D7AE72C682D8",
+                    "keyCap":
+                    {
+                        "text": ")␠."
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "8F4FBF49-0EBF-44A5-BE8B-A23205309465",
+                    "keyCap":
+                    {
+                        "text": ")␠#"
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "F2DFCF88-6701-44D4-B6E0-AC2774D59E82",
+                    "keyCap":
+                    {
+                        "text": ")␠"
+                    },
+                    "output": ") "
+                },
+                {
+                    "keyID": "50780EFA-1A48-40DC-9C96-625FFB944B0F",
+                    "keyCap":
+                    {
+                        "text": "✋wait"
+                    },
+                    "output": ";"
+                },
+                {
+                    "keyID": "1C9CF43E-12FD-4C84-B92B-492086A01401",
+                    "keyCap":
+                    {
+                        "text": "⏸ pause"
+                    },
+                    "output": ","
+                },
+                {
+                    "keyID": "E0EA65DF-8779-4ACF-B8E5-4C829A8B071C",
+                    "keyCap":
+                    {
+                        "text": "6⌛️mno"
+                    },
+                    "output": "6"
+                },
+                {
+                    "keyID": "0209E3C7-CFDE-41EF-AE6D-26D6985FCD98",
+                    "keyCap":
+                    {
+                        "text": "⌛️wait"
+                    },
+                    "output": ";"
+                },
+                {
+                    "keyID": "8508C3FD-7957-492E-B59C-4B0FF87ED8CC",
+                    "keyCap":
+                    {
+                        "text": "#"
+                    }
+                }
+            ]
+        }
+    ]
+}
