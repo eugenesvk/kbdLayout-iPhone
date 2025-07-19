@@ -1617,10 +1617,10 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>₄</string>
+													<string>₄₍</string>
 												</dict>
 												<key>keyID</key>
-												<string>₄</string>
+												<string>BB84CFB7-D61C-4F6D-9F95-996F190FEA5F</string>
 												<key>output</key>
 												<string>₄</string>
 											</dict>
@@ -1717,10 +1717,10 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>₆</string>
+													<string>₆₎</string>
 												</dict>
 												<key>keyID</key>
-												<string>₆</string>
+												<string>7E36E85C-2D7A-4F6F-9C46-C22BD7DCE762</string>
 												<key>output</key>
 												<string>₆</string>
 											</dict>
@@ -2679,10 +2679,10 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>⁴</string>
+													<string>⁴⁽</string>
 												</dict>
 												<key>keyID</key>
-												<string>⁴</string>
+												<string>11A39DB0-3723-4ABD-AD52-D8C24C626F78</string>
 												<key>output</key>
 												<string>⁴</string>
 											</dict>
@@ -2779,12 +2779,10 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>⁶</string>
+													<string>⁶⁾</string>
 												</dict>
 												<key>keyID</key>
-												<string>⁶</string>
-												<key>output</key>
-												<string>⁶</string>
+												<string>C4A22571-87B6-4243-82D4-1060103A35CE</string>
 											</dict>
 										</dict>
 										<dict>
