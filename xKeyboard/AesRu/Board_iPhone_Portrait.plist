@@ -12887,6 +12887,15 @@
 													<key>keyID</key>
 													<string>\</string>
 												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>,.</string>
+													</dict>
+													<key>keyID</key>
+													<string>B3AFE43E-A440-4D7F-BA6E-621B333A68A3</string>
+												</dict>
 											</array>
 											<key>cellID</key>
 											<string>1D7042AE-DB79-46C1-9232-41329C3927D4</string>
@@ -12979,6 +12988,15 @@
 													</dict>
 													<key>keyID</key>
 													<string>681BA7DE-34DF-402D-93E5-13086162A819</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>.,</string>
+													</dict>
+													<key>keyID</key>
+													<string>A730543B-F7F3-4E7B-A290-0FE89E2A8D23</string>
 												</dict>
 											</array>
 											<key>cellID</key>
