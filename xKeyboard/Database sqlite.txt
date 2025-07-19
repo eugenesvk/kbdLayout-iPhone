@@ -1,0 +1,11 @@
+settings: empty
+tags: empty
+words:
+  wordID      	INTEGER      	YES	NULL
+  word        	NVARCHAR(250)	NO 	NULL
+  code        	NVARCHAR(250)	NO 	"''"
+  frequency   	INTEGER      	NO 	0
+  usedDateTime	DATETIME     	YES	NULL
+  source      	INTEGER      	NO 	0
+  tagIDs      	TEXT         	NO 	"''"
+  info        	TEXT         	NO 	"''"
