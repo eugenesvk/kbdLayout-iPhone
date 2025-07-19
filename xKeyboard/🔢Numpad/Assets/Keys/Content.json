@@ -2621,6 +2621,37 @@
                     {
                         "text": "ₜ"
                     }
+                },
+                {
+                    "keyID": "BB84CFB7-D61C-4F6D-9F95-996F190FEA5F",
+                    "keyCap":
+                    {
+                        "text": "₄₍"
+                    },
+                    "output": "₄"
+                },
+                {
+                    "keyID": "11A39DB0-3723-4ABD-AD52-D8C24C626F78",
+                    "keyCap":
+                    {
+                        "text": "⁴⁽"
+                    },
+                    "output": "⁴"
+                },
+                {
+                    "keyID": "7E36E85C-2D7A-4F6F-9C46-C22BD7DCE762",
+                    "keyCap":
+                    {
+                        "text": "₆₎"
+                    },
+                    "output": "₆"
+                },
+                {
+                    "keyID": "C4A22571-87B6-4243-82D4-1060103A35CE",
+                    "keyCap":
+                    {
+                        "text": "⁶⁾"
+                    }
                 }
             ]
         },
