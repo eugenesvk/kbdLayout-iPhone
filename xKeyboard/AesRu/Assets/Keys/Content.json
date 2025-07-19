@@ -2106,6 +2106,20 @@
                     {
                         "text": "⸘"
                     }
+                },
+                {
+                    "keyID": "A730543B-F7F3-4E7B-A290-0FE89E2A8D23",
+                    "keyCap":
+                    {
+                        "text": ".,"
+                    }
+                },
+                {
+                    "keyID": "B3AFE43E-A440-4D7F-BA6E-621B333A68A3",
+                    "keyCap":
+                    {
+                        "text": ",."
+                    }
                 }
             ]
         },
