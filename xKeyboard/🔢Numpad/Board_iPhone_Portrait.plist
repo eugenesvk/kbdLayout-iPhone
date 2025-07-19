@@ -571,6 +571,27 @@
 											</array>
 											<key>cellID</key>
 											<string>26E654D0-BACB-4A6A-B2D9-2BD7C541FE06</string>
+											<key>dynamicKeyRules</key>
+											<array>
+												<dict>
+													<key>key</key>
+													<dict>
+														<key>keyCap</key>
+														<dict>
+															<key>text</key>
+															<string>^</string>
+														</dict>
+														<key>keyID</key>
+														<string>^</string>
+													</dict>
+													<key>suffixes</key>
+													<array>
+														<string>*</string>
+													</array>
+													<key>type</key>
+													<integer>0</integer>
+												</dict>
+											</array>
 											<key>key</key>
 											<dict>
 												<key>keyCap</key>
