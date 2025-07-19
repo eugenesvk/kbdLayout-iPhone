@@ -1932,6 +1932,27 @@
                         "text": "−Y"
                     },
                     "output": "−"
+                },
+                {
+                    "keyID": "223FB44B-B016-43C6-9209-F913FD142F52",
+                    "keyCap":
+                    {
+                        "text": "√"
+                    }
+                },
+                {
+                    "keyID": "7D403275-9092-4E3C-9DFF-92ABB13C4BDB",
+                    "keyCap":
+                    {
+                        "text": "∛"
+                    }
+                },
+                {
+                    "keyID": "37F57BFC-DE5C-4165-AC0D-E938D5270F0D",
+                    "keyCap":
+                    {
+                        "text": "∜"
+                    }
                 }
             ]
         },
