@@ -12901,32 +12901,6 @@
 											</dict>
 										</dict>
 										<dict>
-											<key>backgroundHidden</key>
-											<true/>
-											<key>cellID</key>
-											<string>0E2942CC-D62E-4241-A3E2-063D47CD9FD3</string>
-											<key>key</key>
-											<dict>
-												<key>keyCap</key>
-												<dict>
-													<key>text</key>
-													<string>ъ</string>
-												</dict>
-												<key>keyID</key>
-												<string>ъ</string>
-											</dict>
-											<key>shiftKey</key>
-											<dict>
-												<key>keyCap</key>
-												<dict>
-													<key>text</key>
-													<string>Ъ</string>
-												</dict>
-												<key>keyID</key>
-												<string>Ъ</string>
-											</dict>
-										</dict>
-										<dict>
 											<key>cellID</key>
 											<string>9FE0C702-5853-4DE5-AD4C-093149FF153A</string>
 											<key>key</key>
@@ -15402,19 +15376,11 @@
 													</dict>
 													<dict>
 														<key>cellID</key>
-														<string>3B47BE1B-A9AE-4468-A9E5-D9D13B1FBDFE</string>
-														<key>floatType</key>
-														<integer>0</integer>
-														<key>weight</key>
-														<real>1</real>
-													</dict>
-													<dict>
-														<key>cellID</key>
 														<string>A02719CE-B927-48F0-B2F8-A1DEFF44FE71</string>
 														<key>floatType</key>
 														<integer>0</integer>
 														<key>weight</key>
-														<real>1</real>
+														<real>1.7</real>
 													</dict>
 													<dict>
 														<key>cellID</key>
@@ -15438,7 +15404,7 @@
 														<key>floatType</key>
 														<integer>0</integer>
 														<key>weight</key>
-														<real>1.5</real>
+														<real>1.3</real>
 													</dict>
 													<dict>
 														<key>cellID</key>
@@ -15446,7 +15412,7 @@
 														<key>floatType</key>
 														<integer>0</integer>
 														<key>weight</key>
-														<real>1</real>
+														<real>1.3</real>
 													</dict>
 													<dict>
 														<key>cellID</key>
@@ -15454,7 +15420,7 @@
 														<key>floatType</key>
 														<integer>0</integer>
 														<key>weight</key>
-														<real>1</real>
+														<real>1.1000000000000001</real>
 													</dict>
 													<dict>
 														<key>cellID</key>
@@ -15462,7 +15428,7 @@
 														<key>floatType</key>
 														<integer>0</integer>
 														<key>weight</key>
-														<real>1</real>
+														<real>1.1000000000000001</real>
 													</dict>
 												</array>
 												<key>cellsWeight</key>
@@ -15500,8 +15466,6 @@
 										<string>670204DD-7C72-45CC-B2D5-FE2B8255DC64</string>
 										<key>3B362D71-8DE6-4416-B561-44B7EFCBBA90</key>
 										<string>F54CBD12-F4E8-4E7E-BE8E-A45532AFC6E3</string>
-										<key>3B47BE1B-A9AE-4468-A9E5-D9D13B1FBDFE</key>
-										<string>0E2942CC-D62E-4241-A3E2-063D47CD9FD3</string>
 										<key>423F5A68-2D1A-4AC8-99C5-D019DA1CAB19</key>
 										<string>FFDAACED-0B49-4CAC-9716-7041989BAB7A</string>
 										<key>44D4E987-0E59-46BD-A470-B58F70846DCD</key>
