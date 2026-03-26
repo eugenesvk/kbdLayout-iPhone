@@ -10,67 +10,81 @@
   {"keyID":"globe"    	,"keyCap":{"icon":1 },"type":1001}
 ]},
 {"title":"ЙЦУ","keys":[
-  {"keyID":"Й" ,"keyCap":{"text":"Й" }             },{"keyID":"Ц" ,"keyCap":{"text":"Ц" }             },{"keyID":"У","keyCap":{"text":"У"}},{"keyID":"К","keyCap":{"text":"К"}},{"keyID":"Е","keyCap":{"text":"Е"}},
+  {"keyID":"Й","keyCap":{"text":"Й"}},{"keyID":"Ц","keyCap":{"text":"Ц"}},{"keyID":"У","keyCap":{"text":"У"}},
+  {"keyID":"К","keyCap":{"text":"К"}},{"keyID":"Е","keyCap":{"text":"Е"}},
   {"keyID":"П’","keyCap":{"text":"П’"},"output":"П"},{"keyID":"К⁰","keyCap":{"text":"К⁰"},"output":"К"},
 
   {"keyID":"Й°","keyCap":{"text":"Й°"},"output":"Й"},{"keyID":"Ц@","keyCap":{"text":"Ц@"},"output":"Ц"},
-  {"keyID":"У[","keyCap":{"text":"У["},"output":"У"},{"keyID":"К]","keyCap":{"text":"К]"},"output":"К"},{"keyID":"ЕΣ","keyCap":{"text":"ЕΣ"},"output":"Е"},
+  {"keyID":"У[","keyCap":{"text":"У["},"output":"У"},{"keyID":"К]","keyCap":{"text":"К]"},"output":"К"},
+  {"keyID":"ЕΣ","keyCap":{"text":"ЕΣ"},"output":"Е"},
   {"keyID":"К®","keyCap":{"text":"К]"},"output":"К"},{"keyID":"Ё" ,"keyCap":{"text":"Ё" }},
 
-  {"keyID":"Ф","keyCap":{"text":"Ф"}},{"keyID":"Ы","keyCap":{"text":"Ы"}},{"keyID":"В","keyCap":{"text":"В"}},{"keyID":"А","keyCap":{"text":"А"}},{"keyID":"П","keyCap":{"text":"П"}},
+  {"keyID":"Ф","keyCap":{"text":"Ф"}},{"keyID":"Ы","keyCap":{"text":"Ы"}},{"keyID":"В","keyCap":{"text":"В"}},
+  {"keyID":"А","keyCap":{"text":"А"}},{"keyID":"П","keyCap":{"text":"П"}},
   {"keyID":"В(","keyCap":{"text":"В("},"output":"В"},{"keyID":"А)","keyCap":{"text":"А)"},"output":"А"},
 
-  {"keyID":"Я","keyCap":{"text":"Я"}},{"keyID":"Ч","keyCap":{"text":"Ч"}},{"keyID":"С","keyCap":{"text":"С"}},{"keyID":"М","keyCap":{"text":"М"}},{"keyID":"И","keyCap":{"text":"И"}},
+  {"keyID":"Я","keyCap":{"text":"Я"}},{"keyID":"Ч","keyCap":{"text":"Ч"}},{"keyID":"С","keyCap":{"text":"С"}},
+  {"keyID":"М","keyCap":{"text":"М"}},{"keyID":"И","keyCap":{"text":"И"}},
   {"keyID":"Т","keyCap":{"text":"Т"}},{"keyID":"Ь","keyCap":{"text":"Ь"}},
 
-  {"keyID":"Н","keyCap":{"text":"Н"}},{"keyID":"Г","keyCap":{"text":"Г"}},{"keyID":"Ш","keyCap":{"text":"Ш"}},{"keyID":"Щ","keyCap":{"text":"Щ"}},{"keyID":"З","keyCap":{"text":"З"}},
+  {"keyID":"Н","keyCap":{"text":"Н"}},{"keyID":"Г","keyCap":{"text":"Г"}},{"keyID":"Ш","keyCap":{"text":"Ш"}},
+  {"keyID":"Щ","keyCap":{"text":"Щ"}},{"keyID":"З","keyCap":{"text":"З"}},
   {"keyID":"Ь₈","keyCap":{"text":"Ь₈"},"output":"Ь"},{"keyID":"Б₉","keyCap":{"text":"Б₉"},"output":"Б"},
 
-  {"keyID":"Х","keyCap":{"text":"Х"}},{"keyID":"Ъ","keyCap":{"text":"Ъ"}},{"keyID":"Р","keyCap":{"text":"Р"}},{"keyID":"О","keyCap":{"text":"О"}},{"keyID":"Л","keyCap":{"text":"Л"}},{"keyID":"Д","keyCap":{"text":"Д"}},
-  {"keyID":"Д*","keyCap":{"text":"Д*"},"output":"Д"}{"keyID":"Г₁","keyCap":{"text":"Г₁"},"output":"Г"},{"keyID":"‛Ы","keyCap":{"text":"‛Ы"},"output":"Ы"},
+  {"keyID":"Р","keyCap":{"text":"Р"}},{"keyID":"О","keyCap":{"text":"О"}},{"keyID":"Л","keyCap":{"text":"Л"}},
+  {"keyID":"Д","keyCap":{"text":"Д"}},{"keyID":"Ж","keyCap":{"text":"Ж"}},
+  {"keyID":"Г₁","keyCap":{"text":"Г₁"},"output":"Г"},{"keyID":"‛Ы","keyCap":{"text":"‛Ы"},"output":"Ы"},
 
-  {"keyID":"Р₄","keyCap":{"text":"Р₄"},"output":"Р"},{"keyID":"О₅","keyCap":{"text":"О₅"},"output":"О"},{"keyID":"Л₆","keyCap":{"text":"Л₆"},"output":"Л"},
-  {"keyID":"Щ₃","keyCap":{"text":"Щ₃"},"output":"Щ"},{"keyID":"Т₇","keyCap":{"text":"Т₇"},"output":"Т"},
+  {"keyID":"Р₄","keyCap":{"text":"Р₄"},"output":"Р"},{"keyID":"О₅","keyCap":{"text":"О₅"},"output":"О"},
+  {"keyID":"Л₆","keyCap":{"text":"Л₆"},"output":"Л"},{"keyID":"Щ₃","keyCap":{"text":"Щ₃"},"output":"Щ"},
+  {"keyID":"Т₇","keyCap":{"text":"Т₇"},"output":"Т"},
   {"keyID":"Ш₂","keyCap":{"text":"Ш₂"},"output":"Ш"},{"keyID":"Н₋","keyCap":{"text":"Н₋"},"output":"Н"},
 
   {"keyID":"З₊","keyCap":{"text":"З₊"},"output":"З"},
   {"keyID":"‹С","keyCap":{"text":"‹С"},"output":"С"},{"keyID":"М›","keyCap":{"text":"М›"},"output":"М"},
-
   {"keyID":"Я{","keyCap":{"text":"Я{"},"output":"Я"},{"keyID":"Ч}","keyCap":{"text":"Ч}"},"output":"Ч"},
-  {"keyID":"Ф#","keyCap":{"text":"Ф#"},"output":"Ф"},
-  {"keyID":"Ж","keyCap":{"text":"Ж"}},{"keyID":"Э","keyCap":{"text":"Э"}},
+  {"keyID":"Ф#","keyCap":{"text":"Ф#"},"output":"Ф"},{"keyID":"Д*","keyCap":{"text":"Д*"},"output":"Д"},
+
+  {"keyID":"Х","keyCap":{"text":"Х"}},{"keyID":"Ъ","keyCap":{"text":"Ъ"}},{"keyID":"Э","keyCap":{"text":"Э"}},
   {"keyID":"Б","keyCap":{"text":"Б"}},{"keyID":"Ю","keyCap":{"text":"Ю"}}
 ]},
 {"title":"йцу","keys":[
-  {"keyID":"й" ,"keyCap":{"text":"й" }             },{"keyID":"ц" ,"keyCap":{"text":"ц" }             },{"keyID":"у","keyCap":{"text":"у"}},{"keyID":"к","keyCap":{"text":"к"}},{"keyID":"е","keyCap":{"text":"е"}},
+  {"keyID":"й","keyCap":{"text":"й"}},{"keyID":"ц","keyCap":{"text":"ц"}},{"keyID":"у","keyCap":{"text":"у"}},
+  {"keyID":"к","keyCap":{"text":"к"}},{"keyID":"е","keyCap":{"text":"е"}},
   {"keyID":"п’","keyCap":{"text":"п’"},"output":"п"},{"keyID":"к⁰","keyCap":{"text":"к⁰"},"output":"к"},
 
   {"keyID":"й°","keyCap":{"text":"й°"},"output":"й"},{"keyID":"ц@","keyCap":{"text":"ц@"},"output":"ц"},
-  {"keyID":"у[","keyCap":{"text":"у["},"output":"у"},{"keyID":"к]","keyCap":{"text":"к]"},"output":"к"},{"keyID":"еΣ","keyCap":{"text":"еΣ"},"output":"е"},
+  {"keyID":"у[","keyCap":{"text":"у["},"output":"у"},{"keyID":"к]","keyCap":{"text":"к]"},"output":"к"},
+  {"keyID":"еΣ","keyCap":{"text":"еΣ"},"output":"е"},
   {"keyID":"к®","keyCap":{"text":"к]"},"output":"к"},{"keyID":"ё" ,"keyCap":{"text":"ё" }},
 
-  {"keyID":"ф","keyCap":{"text":"ф"}},{"keyID":"ы","keyCap":{"text":"ы"}},{"keyID":"в","keyCap":{"text":"в"}},{"keyID":"а","keyCap":{"text":"а"}},{"keyID":"п","keyCap":{"text":"п"}},
+  {"keyID":"ф","keyCap":{"text":"ф"}},{"keyID":"ы","keyCap":{"text":"ы"}},{"keyID":"в","keyCap":{"text":"в"}},
+  {"keyID":"а","keyCap":{"text":"а"}},{"keyID":"п","keyCap":{"text":"п"}},
   {"keyID":"в(","keyCap":{"text":"в("},"output":"в"},{"keyID":"а)","keyCap":{"text":"а)"},"output":"а"},
 
-  {"keyID":"я","keyCap":{"text":"я"}},{"keyID":"ч","keyCap":{"text":"ч"}},{"keyID":"с","keyCap":{"text":"с"}},{"keyID":"м","keyCap":{"text":"м"}},{"keyID":"и","keyCap":{"text":"и"}},
+  {"keyID":"я","keyCap":{"text":"я"}},{"keyID":"ч","keyCap":{"text":"ч"}},{"keyID":"с","keyCap":{"text":"с"}},
+  {"keyID":"м","keyCap":{"text":"м"}},{"keyID":"и","keyCap":{"text":"и"}},
   {"keyID":"т","keyCap":{"text":"т"}},{"keyID":"ь","keyCap":{"text":"ь"}},
 
-  {"keyID":"н","keyCap":{"text":"н"}},{"keyID":"г","keyCap":{"text":"г"}},{"keyID":"ш","keyCap":{"text":"ш"}},{"keyID":"щ","keyCap":{"text":"щ"}},{"keyID":"з","keyCap":{"text":"з"}},
+  {"keyID":"н","keyCap":{"text":"н"}},{"keyID":"г","keyCap":{"text":"г"}},{"keyID":"ш","keyCap":{"text":"ш"}},
+  {"keyID":"щ","keyCap":{"text":"щ"}},{"keyID":"з","keyCap":{"text":"з"}},
   {"keyID":"ь₈","keyCap":{"text":"ь₈"},"output":"ь"},{"keyID":"б₉","keyCap":{"text":"б₉"},"output":"б"},
 
-  {"keyID":"х","keyCap":{"text":"х"}},{"keyID":"ъ","keyCap":{"text":"ъ"}},{"keyID":"р","keyCap":{"text":"р"}},{"keyID":"о","keyCap":{"text":"о"}},{"keyID":"л","keyCap":{"text":"л"}},{"keyID":"д","keyCap":{"text":"д"}},
-  {"keyID":"д*","keyCap":{"text":"д*"},"output":"д"}{"keyID":"г₁","keyCap":{"text":"г₁"},"output":"г"},{"keyID":"‛ы","keyCap":{"text":"‛ы"},"output":"ы"},
+  {"keyID":"р","keyCap":{"text":"р"}},{"keyID":"о","keyCap":{"text":"о"}},{"keyID":"л","keyCap":{"text":"л"}},
+  {"keyID":"д","keyCap":{"text":"д"}},{"keyID":"ж","keyCap":{"text":"ж"}},
+  {"keyID":"г₁","keyCap":{"text":"г₁"},"output":"г"},{"keyID":"‛ы","keyCap":{"text":"‛ы"},"output":"ы"},
 
-  {"keyID":"р₄","keyCap":{"text":"р₄"},"output":"р"},{"keyID":"о₅","keyCap":{"text":"о₅"},"output":"о"},{"keyID":"л₆","keyCap":{"text":"л₆"},"output":"л"},
-  {"keyID":"щ₃","keyCap":{"text":"щ₃"},"output":"щ"},{"keyID":"т₇","keyCap":{"text":"т₇"},"output":"т"},
+  {"keyID":"р₄","keyCap":{"text":"р₄"},"output":"р"},{"keyID":"о₅","keyCap":{"text":"о₅"},"output":"о"},
+  {"keyID":"л₆","keyCap":{"text":"л₆"},"output":"л"},{"keyID":"щ₃","keyCap":{"text":"щ₃"},"output":"щ"},
+  {"keyID":"т₇","keyCap":{"text":"т₇"},"output":"т"},
   {"keyID":"ш₂","keyCap":{"text":"ш₂"},"output":"ш"},{"keyID":"н₋","keyCap":{"text":"н₋"},"output":"н"},
 
   {"keyID":"з₊","keyCap":{"text":"з₊"},"output":"з"},
   {"keyID":"‹с","keyCap":{"text":"‹с"},"output":"с"},{"keyID":"м›","keyCap":{"text":"м›"},"output":"м"},
-
   {"keyID":"я{","keyCap":{"text":"я{"},"output":"я"},{"keyID":"ч}","keyCap":{"text":"ч}"},"output":"ч"},
-  {"keyID":"ф#","keyCap":{"text":"ф#"},"output":"ф"},
-  {"keyID":"ж","keyCap":{"text":"ж"}},{"keyID":"э","keyCap":{"text":"э"}},
+  {"keyID":"ф#","keyCap":{"text":"ф#"},"output":"ф"},{"keyID":"д*","keyCap":{"text":"д*"},"output":"д"},
+
+  {"keyID":"х","keyCap":{"text":"х"}},{"keyID":"ъ","keyCap":{"text":"ъ"}},{"keyID":"э","keyCap":{"text":"э"}},
   {"keyID":"б","keyCap":{"text":"б"}},{"keyID":"ю","keyCap":{"text":"ю"}}
 ]},
 
