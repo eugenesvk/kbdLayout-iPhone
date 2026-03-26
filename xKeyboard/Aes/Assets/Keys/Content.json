@@ -10,17 +10,21 @@
   {"keyID":"globe"    	,"keyCap":{"icon":1 },"type":1001}
 ]},
 {"title":"ABC","keys":[
-  {"keyID":"Q" ,"keyCap":{"text":"Q" }             },{"keyID":"W" ,"keyCap":{"text":"W" }             },{"keyID":"E","keyCap":{"text":"E"}},{"keyID":"R","keyCap":{"text":"R"}},{"keyID":"T","keyCap":{"text":"T"}},
+  {"keyID":"Q","keyCap":{"text":"Q"}},{"keyID":"W","keyCap":{"text":"W"}},{"keyID":"E","keyCap":{"text":"E"}},
+  {"keyID":"R","keyCap":{"text":"R"}},{"keyID":"T","keyCap":{"text":"T"}},
   {"keyID":"G’","keyCap":{"text":"G’"},"output":"G"},{"keyID":"R⁰","keyCap":{"text":"R⁰"},"output":"R"},
 
   {"keyID":"Q°","keyCap":{"text":"Q°"},"output":"Q"},{"keyID":"W@","keyCap":{"text":"W@"},"output":"W"},
-  {"keyID":"E[","keyCap":{"text":"E["},"output":"E"},{"keyID":"R]","keyCap":{"text":"R]"},"output":"R"},{"keyID":"TΣ","keyCap":{"text":"TΣ"},"output":"T"},
+  {"keyID":"E[","keyCap":{"text":"E["},"output":"E"},{"keyID":"R]","keyCap":{"text":"R]"},"output":"R"},
+  {"keyID":"TΣ","keyCap":{"text":"TΣ"},"output":"T"},
   {"keyID":"R®","keyCap":{"text":"R]"},"output":"R"},{"keyID":"T⎀","keyCap":{"text":"TΣ"},"output":"T"},
 
-  {"keyID":"A","keyCap":{"text":"A"}},{"keyID":"S","keyCap":{"text":"S"}},{"keyID":"D","keyCap":{"text":"D"}},{"keyID":"F","keyCap":{"text":"F"}},{"keyID":"G","keyCap":{"text":"G"}},
+  {"keyID":"A","keyCap":{"text":"A"}},{"keyID":"S","keyCap":{"text":"S"}},{"keyID":"D","keyCap":{"text":"D"}},
+  {"keyID":"F","keyCap":{"text":"F"}},{"keyID":"G","keyCap":{"text":"G"}},
   {"keyID":"D(","keyCap":{"text":"D("},"output":"D"},{"keyID":"F)","keyCap":{"text":"F)"},"output":"F"},
 
-  {"keyID":"Z","keyCap":{"text":"Z"}},{"keyID":"X","keyCap":{"text":"X"}},{"keyID":"C","keyCap":{"text":"C"}},{"keyID":"V","keyCap":{"text":"V"}},{"keyID":"B","keyCap":{"text":"B"}},
+  {"keyID":"Z","keyCap":{"text":"Z"}},{"keyID":"X","keyCap":{"text":"X"}},{"keyID":"C","keyCap":{"text":"C"}},
+  {"keyID":"V","keyCap":{"text":"V"}},{"keyID":"B","keyCap":{"text":"B"}},
   {"keyID":"N","keyCap":{"text":"N"}},{"keyID":"M","keyCap":{"text":"M"}},
 
   {"keyID":"Y","keyCap":{"text":"Y"}},{"keyID":"U","keyCap":{"text":"U"}},{"keyID":"I","keyCap":{"text":"I"}},{"keyID":"O","keyCap":{"text":"O"}},{"keyID":"P","keyCap":{"text":"P"}},
@@ -40,17 +44,21 @@
   {"keyID":"A#","keyCap":{"text":"A#"},"output":"A"}
 ]},
 {"title":"abc","keys":[
-  {"keyID":"q" ,"keyCap":{"text":"q" }             },{"keyID":"w" ,"keyCap":{"text":"w" }             },{"keyID":"e","keyCap":{"text":"e"}},{"keyID":"r","keyCap":{"text":"r"}},{"keyID":"t","keyCap":{"text":"t"}},
+  {"keyID":"q","keyCap":{"text":"q"}},{"keyID":"w","keyCap":{"text":"w"}},{"keyID":"e","keyCap":{"text":"e"}},
+  {"keyID":"r","keyCap":{"text":"r"}},{"keyID":"t","keyCap":{"text":"t"}},
   {"keyID":"g’","keyCap":{"text":"g’"},"output":"g"},{"keyID":"r⁰","keyCap":{"text":"r⁰"},"output":"r"},
 
   {"keyID":"q°","keyCap":{"text":"q°"},"output":"q"},{"keyID":"w@","keyCap":{"text":"w@"},"output":"w"},
-  {"keyID":"e[","keyCap":{"text":"e["},"output":"e"},{"keyID":"r]","keyCap":{"text":"r]"},"output":"r"},{"keyID":"TΣ","keyCap":{"text":"TΣ"},"output":"T"},
+  {"keyID":"e[","keyCap":{"text":"e["},"output":"e"},{"keyID":"r]","keyCap":{"text":"r]"},"output":"r"},
+  {"keyID":"TΣ","keyCap":{"text":"TΣ"},"output":"T"},
   {"keyID":"r®","keyCap":{"text":"r®"},"output":"r"},{"keyID":"T⎀","keyCap":{"text":"T⎀"},"output":"T"},
 
-  {"keyID":"a","keyCap":{"text":"a"}},{"keyID":"s","keyCap":{"text":"s"}},{"keyID":"d","keyCap":{"text":"d"}},{"keyID":"f","keyCap":{"text":"f"}},{"keyID":"g","keyCap":{"text":"g"}},
+  {"keyID":"a","keyCap":{"text":"a"}},{"keyID":"s","keyCap":{"text":"s"}},{"keyID":"d","keyCap":{"text":"d"}},
+  {"keyID":"f","keyCap":{"text":"f"}},{"keyID":"g","keyCap":{"text":"g"}},
   {"keyID":"d(","keyCap":{"text":"d("},"output":"d"},{"keyID":"f)","keyCap":{"text":"f)"},"output":"f"},
 
-  {"keyID":"z","keyCap":{"text":"z"}},{"keyID":"x","keyCap":{"text":"x"}},{"keyID":"c","keyCap":{"text":"c"}},{"keyID":"v","keyCap":{"text":"v"}},{"keyID":"b","keyCap":{"text":"b"}},
+  {"keyID":"z","keyCap":{"text":"z"}},{"keyID":"x","keyCap":{"text":"x"}},{"keyID":"c","keyCap":{"text":"c"}},
+  {"keyID":"v","keyCap":{"text":"v"}},{"keyID":"b","keyCap":{"text":"b"}},
   {"keyID":"n","keyCap":{"text":"n"}},{"keyID":"m","keyCap":{"text":"m"}},
 
   {"keyID":"y","keyCap":{"text":"y"}},{"keyID":"u","keyCap":{"text":"u"}},{"keyID":"i","keyCap":{"text":"i"}},{"keyID":"o","keyCap":{"text":"o"}},{"keyID":"p","keyCap":{"text":"p"}},
