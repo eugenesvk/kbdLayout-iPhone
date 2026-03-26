@@ -45,6 +45,65 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
+											<key>candidateKeys</key>
+											<array>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>°</string>
+													</dict>
+													<key>keyID</key>
+													<string>0850A5C4-B51A-455B-BD07-523DEF21C706</string>
+													<key>output</key>
+													<string>°</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⇪</string>
+													</dict>
+													<key>keyID</key>
+													<string>DAA0180D-4E4F-4137-A648-E9F9A425915A</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌫</string>
+													</dict>
+													<key>keyID</key>
+													<string>5B868C4A-DFD4-4D17-8471-E7388964A098</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌦</string>
+													</dict>
+													<key>keyID</key>
+													<string>6D88DBF1-BA7A-4953-98AB-D325BB736FAC</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⭾</string>
+													</dict>
+													<key>keyID</key>
+													<string>6626D4FE-58D1-4C77-B6EC-0B9A7C440AA9</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⭿</string>
+													</dict>
+													<key>keyID</key>
+													<string>E2423474-2886-4883-8F77-2841BABA1E94</string>
+												</dict>
+											</array>
 											<key>cellID</key>
 											<string>1D017BE1-BBC2-48A8-A2CF-D1EE0AE470F8</string>
 											<key>key</key>
@@ -52,13 +111,72 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>й</string>
+													<string>й°</string>
 												</dict>
 												<key>keyID</key>
-												<string>й</string>
+												<string>й°</string>
 												<key>output</key>
 												<string>й</string>
 											</dict>
+											<key>shiftCandidateKeys</key>
+											<array>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>°</string>
+													</dict>
+													<key>keyID</key>
+													<string>0850A5C4-B51A-455B-BD07-523DEF21C706</string>
+													<key>output</key>
+													<string>°</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⇪</string>
+													</dict>
+													<key>keyID</key>
+													<string>DAA0180D-4E4F-4137-A648-E9F9A425915A</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌫</string>
+													</dict>
+													<key>keyID</key>
+													<string>5B868C4A-DFD4-4D17-8471-E7388964A098</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌦</string>
+													</dict>
+													<key>keyID</key>
+													<string>6D88DBF1-BA7A-4953-98AB-D325BB736FAC</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⭾</string>
+													</dict>
+													<key>keyID</key>
+													<string>6626D4FE-58D1-4C77-B6EC-0B9A7C440AA9</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⭿</string>
+													</dict>
+													<key>keyID</key>
+													<string>E2423474-2886-4883-8F77-2841BABA1E94</string>
+												</dict>
+											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -75,6 +193,92 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
+											<key>candidateKeys</key>
+											<array>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>@</string>
+													</dict>
+													<key>keyID</key>
+													<string>@</string>
+													<key>output</key>
+													<string>@</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⇧</string>
+													</dict>
+													<key>keyID</key>
+													<string>F453A582-DC39-4CA9-B274-EBE1A99DEFFA</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎈</string>
+													</dict>
+													<key>keyID</key>
+													<string>790E5581-5FAF-40B0-9479-193A50C7A0C9</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>◆</string>
+													</dict>
+													<key>keyID</key>
+													<string>7FA9FCB2-05BC-427D-91B9-65ADA7B79DA9</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎇</string>
+													</dict>
+													<key>keyID</key>
+													<string>DCB0E145-C131-453C-BF1C-A26C73C1844B</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌃</string>
+													</dict>
+													<key>keyID</key>
+													<string>FF15AFD9-8485-4534-85DE-0ABE459713D3</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌥</string>
+													</dict>
+													<key>keyID</key>
+													<string>01B8D6FB-EC0D-4B6C-8CBC-DF9688CC3EA6</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌘</string>
+													</dict>
+													<key>keyID</key>
+													<string>AA76A8C5-AB35-495F-A111-21E57617ABA7</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>🌐</string>
+													</dict>
+													<key>keyID</key>
+													<string>76551F62-5125-407B-AD76-1B383CB91F36</string>
+												</dict>
+											</array>
 											<key>cellID</key>
 											<string>3AC2189A-6E5D-43B1-8B41-4587BCDA8730</string>
 											<key>key</key>
@@ -82,13 +286,99 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>ц</string>
+													<string>ц@</string>
 												</dict>
 												<key>keyID</key>
-												<string>ц</string>
+												<string>ц@</string>
 												<key>output</key>
 												<string>ц</string>
 											</dict>
+											<key>shiftCandidateKeys</key>
+											<array>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>@</string>
+													</dict>
+													<key>keyID</key>
+													<string>@</string>
+													<key>output</key>
+													<string>@</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⇧</string>
+													</dict>
+													<key>keyID</key>
+													<string>F453A582-DC39-4CA9-B274-EBE1A99DEFFA</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎈</string>
+													</dict>
+													<key>keyID</key>
+													<string>790E5581-5FAF-40B0-9479-193A50C7A0C9</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎇</string>
+													</dict>
+													<key>keyID</key>
+													<string>DCB0E145-C131-453C-BF1C-A26C73C1844B</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌃</string>
+													</dict>
+													<key>keyID</key>
+													<string>FF15AFD9-8485-4534-85DE-0ABE459713D3</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌘</string>
+													</dict>
+													<key>keyID</key>
+													<string>AA76A8C5-AB35-495F-A111-21E57617ABA7</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⌥</string>
+													</dict>
+													<key>keyID</key>
+													<string>01B8D6FB-EC0D-4B6C-8CBC-DF9688CC3EA6</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>🌐</string>
+													</dict>
+													<key>keyID</key>
+													<string>76551F62-5125-407B-AD76-1B383CB91F36</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>🗔</string>
+													</dict>
+													<key>keyID</key>
+													<string>1EB78744-926D-4ECC-BCEC-83898363769F</string>
+												</dict>
+											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -4477,6 +4767,49 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
+											<key>candidateKeys</key>
+											<array>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>#</string>
+													</dict>
+													<key>keyID</key>
+													<string>#</string>
+													<key>output</key>
+													<string>#</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>∞</string>
+													</dict>
+													<key>keyID</key>
+													<string>DD169839-F8C1-44BE-9170-000FAAE27D9C</string>
+													<key>output</key>
+													<string>∞</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⇧</string>
+													</dict>
+													<key>keyID</key>
+													<string>F453A582-DC39-4CA9-B274-EBE1A99DEFFA</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⇪</string>
+													</dict>
+													<key>keyID</key>
+													<string>DAA0180D-4E4F-4137-A648-E9F9A425915A</string>
+												</dict>
+											</array>
 											<key>cellID</key>
 											<string>907E56CE-2D4F-44E6-AFC2-3343A3DA554B</string>
 											<key>key</key>
@@ -4484,13 +4817,56 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>ф</string>
+													<string>ф#</string>
 												</dict>
 												<key>keyID</key>
-												<string>ф</string>
+												<string>ф#</string>
 												<key>output</key>
 												<string>ф</string>
 											</dict>
+											<key>shiftCandidateKeys</key>
+											<array>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>#</string>
+													</dict>
+													<key>keyID</key>
+													<string>#</string>
+													<key>output</key>
+													<string>#</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>∞</string>
+													</dict>
+													<key>keyID</key>
+													<string>DD169839-F8C1-44BE-9170-000FAAE27D9C</string>
+													<key>output</key>
+													<string>∞</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⇧</string>
+													</dict>
+													<key>keyID</key>
+													<string>F453A582-DC39-4CA9-B274-EBE1A99DEFFA</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⇪</string>
+													</dict>
+													<key>keyID</key>
+													<string>DAA0180D-4E4F-4137-A648-E9F9A425915A</string>
+												</dict>
+											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
