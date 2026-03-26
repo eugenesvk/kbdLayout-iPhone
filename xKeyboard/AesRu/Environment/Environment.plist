@@ -292,11 +292,11 @@
 		</dict>
 		<dict>
 			<key>input1</key>
-			<string>,</string>
+			<string>.</string>
 			<key>input2</key>
-			<string>-</string>
+			<string>=</string>
 			<key>output</key>
-			<string>?</string>
+			<string>!</string>
 			<key>type</key>
 			<integer>0</integer>
 		</dict>
@@ -306,7 +306,7 @@
 			<key>input2</key>
 			<string>-</string>
 			<key>output</key>
-			<string>!</string>
+			<string>?</string>
 			<key>type</key>
 			<integer>0</integer>
 		</dict>
