@@ -45,20 +45,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Й</string>
-													</dict>
-													<key>keyID</key>
-													<string>Й</string>
-													<key>output</key>
-													<string>Й</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>1D017BE1-BBC2-48A8-A2CF-D1EE0AE470F8</string>
 											<key>key</key>
@@ -73,20 +59,6 @@
 												<key>output</key>
 												<string>й</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>й</string>
-													</dict>
-													<key>keyID</key>
-													<string>й</string>
-													<key>output</key>
-													<string>й</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -103,20 +75,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ц</string>
-													</dict>
-													<key>keyID</key>
-													<string>Ц</string>
-													<key>output</key>
-													<string>Ц</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>3AC2189A-6E5D-43B1-8B41-4587BCDA8730</string>
 											<key>key</key>
@@ -131,20 +89,6 @@
 												<key>output</key>
 												<string>ц</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ц</string>
-													</dict>
-													<key>keyID</key>
-													<string>ц</string>
-													<key>output</key>
-													<string>ц</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -163,17 +107,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>У</string>
-													</dict>
-													<key>keyID</key>
-													<string>У</string>
-													<key>output</key>
-													<string>У</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -213,17 +146,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>у</string>
-													</dict>
-													<key>keyID</key>
-													<string>у</string>
-													<key>output</key>
-													<string>у</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -269,15 +191,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>К</string>
-													</dict>
-													<key>keyID</key>
-													<string>К</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>]</string>
 													</dict>
 													<key>keyID</key>
@@ -313,15 +226,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>к</string>
-													</dict>
-													<key>keyID</key>
-													<string>к</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -367,30 +271,10 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Е</string>
-													</dict>
-													<key>keyID</key>
-													<string>Е</string>
-													<key>output</key>
-													<string>Е</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>ё</string>
 													</dict>
 													<key>keyID</key>
 													<string>26451A96-ABA2-4C93-904F-772C1028B073</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ё</string>
-													</dict>
-													<key>keyID</key>
-													<string>4FAD957D-EF6E-4BD3-9AB7-E76127898C3A</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -413,30 +297,10 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>е</string>
-													</dict>
-													<key>keyID</key>
-													<string>е</string>
-													<key>output</key>
-													<string>е</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>Ё</string>
 													</dict>
 													<key>keyID</key>
 													<string>4FAD957D-EF6E-4BD3-9AB7-E76127898C3A</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ё</string>
-													</dict>
-													<key>keyID</key>
-													<string>26451A96-ABA2-4C93-904F-772C1028B073</string>
 												</dict>
 											</array>
 											<key>shiftKey</key>
@@ -457,17 +321,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Н</string>
-													</dict>
-													<key>keyID</key>
-													<string>Н</string>
-													<key>output</key>
-													<string>Н</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -889,17 +742,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>н</string>
-													</dict>
-													<key>keyID</key>
-													<string>н</string>
-													<key>output</key>
-													<string>н</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -1327,17 +1169,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Г</string>
-													</dict>
-													<key>keyID</key>
-													<string>Г</string>
-													<key>output</key>
-													<string>Г</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>1</string>
 													</dict>
 													<key>keyID</key>
@@ -1733,17 +1564,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>г</string>
-													</dict>
-													<key>keyID</key>
-													<string>г</string>
-													<key>output</key>
-													<string>г</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -2149,17 +1969,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Ш</string>
-													</dict>
-													<key>keyID</key>
-													<string>Ш</string>
-													<key>output</key>
-													<string>Ш</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>2</string>
 													</dict>
 													<key>keyID</key>
@@ -2555,17 +2364,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ш</string>
-													</dict>
-													<key>keyID</key>
-													<string>ш</string>
-													<key>output</key>
-													<string>ш</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -2971,17 +2769,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Щ</string>
-													</dict>
-													<key>keyID</key>
-													<string>Щ</string>
-													<key>output</key>
-													<string>Щ</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>3</string>
 													</dict>
 													<key>keyID</key>
@@ -3377,17 +3164,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>щ</string>
-													</dict>
-													<key>keyID</key>
-													<string>щ</string>
-													<key>output</key>
-													<string>щ</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -3789,17 +3565,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>З</string>
-													</dict>
-													<key>keyID</key>
-													<string>З</string>
-													<key>output</key>
-													<string>З</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -4247,17 +4012,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>з</string>
-													</dict>
-													<key>keyID</key>
-													<string>з</string>
-													<key>output</key>
-													<string>з</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>+</string>
 													</dict>
 													<key>keyID</key>
@@ -4697,18 +4451,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Х</string>
-													</dict>
-													<key>keyID</key>
-													<string>8302F8AC-4EE5-4F2B-B40A-C9527360E861</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>E7348BAF-0240-48C1-A649-A71A37BBA137</string>
 											<key>key</key>
@@ -4721,18 +4463,6 @@
 												<key>keyID</key>
 												<string>1B277CC6-5578-43BB-8795-9945EBCFC4EC</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>х</string>
-													</dict>
-													<key>keyID</key>
-													<string>1B277CC6-5578-43BB-8795-9945EBCFC4EC</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -4747,20 +4477,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ф</string>
-													</dict>
-													<key>keyID</key>
-													<string>Ф</string>
-													<key>output</key>
-													<string>Ф</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>907E56CE-2D4F-44E6-AFC2-3343A3DA554B</string>
 											<key>key</key>
@@ -4775,20 +4491,6 @@
 												<key>output</key>
 												<string>ф</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ф</string>
-													</dict>
-													<key>keyID</key>
-													<string>ф</string>
-													<key>output</key>
-													<string>ф</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -4807,17 +4509,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ы</string>
-													</dict>
-													<key>keyID</key>
-													<string>Ы</string>
-													<key>output</key>
-													<string>Ы</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -4932,17 +4623,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ы</string>
-													</dict>
-													<key>keyID</key>
-													<string>ы</string>
-													<key>output</key>
-													<string>ы</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -5063,17 +4743,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>В</string>
-													</dict>
-													<key>keyID</key>
-													<string>В</string>
-													<key>output</key>
-													<string>В</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>(</string>
 													</dict>
 													<key>keyID</key>
@@ -5142,17 +4811,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>в</string>
-													</dict>
-													<key>keyID</key>
-													<string>в</string>
-													<key>output</key>
-													<string>в</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -5231,17 +4889,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>А</string>
-													</dict>
-													<key>keyID</key>
-													<string>А</string>
-													<key>output</key>
-													<string>А</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>)</string>
 													</dict>
 													<key>keyID</key>
@@ -5310,17 +4957,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>а</string>
-													</dict>
-													<key>keyID</key>
-													<string>а</string>
-													<key>output</key>
-													<string>а</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -5395,17 +5031,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>П</string>
-													</dict>
-													<key>keyID</key>
-													<string>П</string>
-													<key>output</key>
-													<string>П</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -5511,17 +5136,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>п</string>
-													</dict>
-													<key>keyID</key>
-													<string>п</string>
-													<key>output</key>
-													<string>п</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -5647,17 +5261,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Р</string>
-													</dict>
-													<key>keyID</key>
-													<string>Р</string>
-													<key>output</key>
-													<string>Р</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -6057,17 +5660,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>р</string>
-													</dict>
-													<key>keyID</key>
-													<string>р</string>
-													<key>output</key>
-													<string>р</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -6473,17 +6065,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>О</string>
-													</dict>
-													<key>keyID</key>
-													<string>О</string>
-													<key>output</key>
-													<string>О</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>5</string>
 													</dict>
 													<key>keyID</key>
@@ -6879,17 +6460,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>о</string>
-													</dict>
-													<key>keyID</key>
-													<string>о</string>
-													<key>output</key>
-													<string>о</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -7295,17 +6865,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Л</string>
-													</dict>
-													<key>keyID</key>
-													<string>Л</string>
-													<key>output</key>
-													<string>Л</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>6</string>
 													</dict>
 													<key>keyID</key>
@@ -7701,17 +7260,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>л</string>
-													</dict>
-													<key>keyID</key>
-													<string>л</string>
-													<key>output</key>
-													<string>л</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -8113,17 +7661,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Д</string>
-													</dict>
-													<key>keyID</key>
-													<string>Д</string>
-													<key>output</key>
-													<string>Д</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -8604,15 +8141,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Д</string>
-													</dict>
-													<key>keyID</key>
-													<string>Д</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>*</string>
 													</dict>
 													<key>keyID</key>
@@ -9085,18 +8613,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ж</string>
-													</dict>
-													<key>keyID</key>
-													<string>FD7081DE-864C-4F90-9F6E-5C6AFA31BC07</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>3BEE3F04-1960-48BD-A358-201D3346728A</string>
 											<key>key</key>
@@ -9109,18 +8625,6 @@
 												<key>keyID</key>
 												<string>D021D594-F64A-4A26-A0AC-7B66D90AC924</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ж</string>
-													</dict>
-													<key>keyID</key>
-													<string>D021D594-F64A-4A26-A0AC-7B66D90AC924</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -9135,20 +8639,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Я</string>
-													</dict>
-													<key>keyID</key>
-													<string>Я</string>
-													<key>output</key>
-													<string>Я</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>C78454A9-93AE-4069-8F31-6A3802E01408</string>
 											<key>key</key>
@@ -9163,20 +8653,6 @@
 												<key>output</key>
 												<string>я</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>я</string>
-													</dict>
-													<key>keyID</key>
-													<string>я</string>
-													<key>output</key>
-													<string>я</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -9193,20 +8669,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ч</string>
-													</dict>
-													<key>keyID</key>
-													<string>Ч</string>
-													<key>output</key>
-													<string>Ч</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>5BBF7E5C-B6C0-4B9A-BD4A-9CC1AD26879B</string>
 											<key>key</key>
@@ -9221,20 +8683,6 @@
 												<key>output</key>
 												<string>ч</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ч</string>
-													</dict>
-													<key>keyID</key>
-													<string>ч</string>
-													<key>output</key>
-													<string>ч</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -9253,17 +8701,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>С</string>
-													</dict>
-													<key>keyID</key>
-													<string>С</string>
-													<key>output</key>
-													<string>С</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -9314,17 +8751,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>с</string>
-													</dict>
-													<key>keyID</key>
-													<string>с</string>
-													<key>output</key>
-													<string>с</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -9381,17 +8807,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>М</string>
-													</dict>
-													<key>keyID</key>
-													<string>М</string>
-													<key>output</key>
-													<string>М</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>&gt;</string>
 													</dict>
 													<key>keyID</key>
@@ -9442,17 +8857,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>м</string>
-													</dict>
-													<key>keyID</key>
-													<string>м</string>
-													<key>output</key>
-													<string>м</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>&gt;</string>
 													</dict>
 													<key>keyID</key>
@@ -9499,18 +8903,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>И</string>
-													</dict>
-													<key>keyID</key>
-													<string>И</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>042A5F6F-2DD3-44B3-8968-48BDFF75AF82</string>
 											<key>key</key>
@@ -9523,18 +8915,6 @@
 												<key>keyID</key>
 												<string>и</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>и</string>
-													</dict>
-													<key>keyID</key>
-													<string>и</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -9658,15 +9038,6 @@
 											<true/>
 											<key>candidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Т</string>
-													</dict>
-													<key>keyID</key>
-													<string>Т</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -10062,15 +9433,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>т</string>
-													</dict>
-													<key>keyID</key>
-													<string>т</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -10472,28 +9834,10 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Ь</string>
-													</dict>
-													<key>keyID</key>
-													<string>Ь</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>ъ</string>
 													</dict>
 													<key>keyID</key>
 													<string>C9058C04-5407-4F45-850B-F11C97F78EF2</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ъ</string>
-													</dict>
-													<key>keyID</key>
-													<string>A1938FD1-3590-445A-B0F4-2356C882963A</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -10912,28 +10256,10 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>ь</string>
-													</dict>
-													<key>keyID</key>
-													<string>ь</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>Ъ</string>
 													</dict>
 													<key>keyID</key>
 													<string>A1938FD1-3590-445A-B0F4-2356C882963A</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ъ</string>
-													</dict>
-													<key>keyID</key>
-													<string>C9058C04-5407-4F45-850B-F11C97F78EF2</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -11354,15 +10680,6 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Б</string>
-													</dict>
-													<key>keyID</key>
-													<string>FEB46EB5-972F-4259-8B6B-BA78CE669E5A</string>
-												</dict>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
 														<string>9</string>
 													</dict>
 													<key>keyID</key>
@@ -11754,15 +11071,6 @@
 											</dict>
 											<key>shiftCandidateKeys</key>
 											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>б</string>
-													</dict>
-													<key>keyID</key>
-													<string>B940F966-86BA-432D-AF17-C283E3950232</string>
-												</dict>
 												<dict>
 													<key>keyCap</key>
 													<dict>
@@ -12169,18 +11477,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ю</string>
-													</dict>
-													<key>keyID</key>
-													<string>A51F608F-AB54-4782-A8D0-115BBC93B7AD</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>87FCE9E9-65B5-4B79-9427-19C3032AD19B</string>
 											<key>key</key>
@@ -12193,18 +11489,6 @@
 												<key>keyID</key>
 												<string>22C317F9-9B47-4B93-B98C-D997EE75CE19</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ю</string>
-													</dict>
-													<key>keyID</key>
-													<string>22C317F9-9B47-4B93-B98C-D997EE75CE19</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -13143,18 +12427,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Ъ</string>
-													</dict>
-													<key>keyID</key>
-													<string>A1938FD1-3590-445A-B0F4-2356C882963A</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>0E2942CC-D62E-4241-A3E2-063D47CD9FD3</string>
 											<key>key</key>
@@ -13167,18 +12439,6 @@
 												<key>keyID</key>
 												<string>C9058C04-5407-4F45-850B-F11C97F78EF2</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>ъ</string>
-													</dict>
-													<key>keyID</key>
-													<string>C9058C04-5407-4F45-850B-F11C97F78EF2</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
@@ -13209,18 +12469,6 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
-											<key>candidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>Э</string>
-													</dict>
-													<key>keyID</key>
-													<string>42E932CA-B42A-4952-A945-8D488F7DD1EA</string>
-												</dict>
-											</array>
 											<key>cellID</key>
 											<string>F9016475-2EEC-47E8-94A7-C1B9B18D41FC</string>
 											<key>key</key>
@@ -13233,18 +12481,6 @@
 												<key>keyID</key>
 												<string>36F43413-D5DC-4D36-8C7E-CF8F7D2CB22F</string>
 											</dict>
-											<key>shiftCandidateKeys</key>
-											<array>
-												<dict>
-													<key>keyCap</key>
-													<dict>
-														<key>text</key>
-														<string>э</string>
-													</dict>
-													<key>keyID</key>
-													<string>36F43413-D5DC-4D36-8C7E-CF8F7D2CB22F</string>
-												</dict>
-											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
