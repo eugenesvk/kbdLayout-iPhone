@@ -4019,7 +4019,7 @@
 															<string>+ₚ</string>
 														</dict>
 														<key>keyID</key>
-														<string>BDA15013-7A51-497D-9AAA-E88D5B50AF56</string>
+														<string>+ₚ</string>
 														<key>output</key>
 														<string>+</string>
 													</dict>
@@ -4460,7 +4460,7 @@
 															<string>+p</string>
 														</dict>
 														<key>keyID</key>
-														<string>FF6C3042-45BA-407A-A443-86C9850A84C8</string>
+														<string>+p</string>
 														<key>output</key>
 														<string>+</string>
 													</dict>
@@ -8208,7 +8208,7 @@
 															<string>*ₗ</string>
 														</dict>
 														<key>keyID</key>
-														<string>387B2740-41BF-4284-B2C9-1D801DB78F1F</string>
+														<string>*ₗ</string>
 														<key>output</key>
 														<string>*</string>
 													</dict>
@@ -8682,7 +8682,7 @@
 															<string>*l</string>
 														</dict>
 														<key>keyID</key>
-														<string>52E5933D-670F-4645-A97F-6032C451C766</string>
+														<string>*l</string>
 														<key>output</key>
 														<string>*</string>
 													</dict>
@@ -11978,7 +11978,7 @@
 															<string>/"</string>
 														</dict>
 														<key>keyID</key>
-														<string>16D1097A-076F-4B6C-96DF-E93360E48E83</string>
+														<string>/slash</string>
 														<key>output</key>
 														<string>/</string>
 													</dict>
@@ -12419,7 +12419,7 @@
 															<string>/'</string>
 														</dict>
 														<key>keyID</key>
-														<string>709A6423-8245-4DF0-AFE8-074BAE401A2A</string>
+														<string>/'</string>
 														<key>output</key>
 														<string>/</string>
 													</dict>
@@ -13098,7 +13098,7 @@
 														<string>—m</string>
 													</dict>
 													<key>keyID</key>
-													<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+													<string>—m</string>
 													<key>output</key>
 													<string>—</string>
 												</dict>
@@ -13109,7 +13109,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
@@ -13120,7 +13120,7 @@
 														<string>␠—t</string>
 													</dict>
 													<key>keyID</key>
-													<string>EC26054D-B190-4C9B-BFC0-484A02CCFEB5</string>
+													<string>␠—t</string>
 													<key>output</key>
 													<string> — </string>
 												</dict>
@@ -13131,7 +13131,7 @@
 														<string>--</string>
 													</dict>
 													<key>keyID</key>
-													<string>054459D2-08A0-4BD8-AECA-FA0A62A47FE2</string>
+													<string>--</string>
 													<key>output</key>
 													<string>--</string>
 												</dict>
@@ -13174,7 +13174,7 @@
 																	<string>—m</string>
 																</dict>
 																<key>keyID</key>
-																<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+																<string>—m</string>
 																<key>output</key>
 																<string>—</string>
 															</dict>
@@ -13207,7 +13207,7 @@
 																	<string>–n</string>
 																</dict>
 																<key>keyID</key>
-																<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+																<string>–n</string>
 																<key>output</key>
 																<string>–</string>
 															</dict>
@@ -13539,7 +13539,7 @@
 													<string>-₀</string>
 												</dict>
 												<key>keyID</key>
-												<string>FD01D6F7-8F13-4655-B278-18B6D4A158BD</string>
+												<string>-₀</string>
 												<key>output</key>
 												<string>-</string>
 											</dict>
@@ -13585,7 +13585,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
@@ -13596,7 +13596,7 @@
 														<string>␠—t</string>
 													</dict>
 													<key>keyID</key>
-													<string>EC26054D-B190-4C9B-BFC0-484A02CCFEB5</string>
+													<string>␠—t</string>
 													<key>output</key>
 													<string> — </string>
 												</dict>
@@ -13607,7 +13607,7 @@
 														<string>--</string>
 													</dict>
 													<key>keyID</key>
-													<string>054459D2-08A0-4BD8-AECA-FA0A62A47FE2</string>
+													<string>--</string>
 													<key>output</key>
 													<string>--</string>
 												</dict>
@@ -13670,7 +13670,7 @@
 																	<string>—m</string>
 																</dict>
 																<key>keyID</key>
-																<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+																<string>—m</string>
 																<key>output</key>
 																<string>—</string>
 															</dict>
@@ -13681,7 +13681,7 @@
 																	<string>–n</string>
 																</dict>
 																<key>keyID</key>
-																<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+																<string>–n</string>
 																<key>output</key>
 																<string>–</string>
 															</dict>
@@ -14013,7 +14013,7 @@
 													<string>—₀</string>
 												</dict>
 												<key>keyID</key>
-												<string>CC6426FD-B3CC-4EF7-8E70-3A9AAB5EA12C</string>
+												<string>—₀</string>
 												<key>output</key>
 												<string>—</string>
 											</dict>
@@ -15646,7 +15646,7 @@
 														<string>⦗</string>
 													</dict>
 													<key>keyID</key>
-													<string>BD63FCC6-738F-403E-A798-47D092945B97</string>
+													<string>⦗</string>
 													<key>output</key>
 													<string>⦗</string>
 												</dict>
@@ -15657,7 +15657,7 @@
 														<string>❲</string>
 													</dict>
 													<key>keyID</key>
-													<string>9A752121-CDDD-4498-9277-B3B1A313160B</string>
+													<string>❲</string>
 													<key>output</key>
 													<string>❲</string>
 												</dict>
@@ -15668,7 +15668,7 @@
 														<string>〔</string>
 													</dict>
 													<key>keyID</key>
-													<string>934F4E4E-001A-40E0-A923-BD1D0520C7C6</string>
+													<string>〔</string>
 													<key>output</key>
 													<string>〔</string>
 												</dict>
@@ -15679,7 +15679,7 @@
 														<string>⎡</string>
 													</dict>
 													<key>keyID</key>
-													<string>D3B3996F-C559-406A-87D7-4FFB2D353493</string>
+													<string>⎡</string>
 													<key>output</key>
 													<string>⎡</string>
 												</dict>
@@ -15690,7 +15690,7 @@
 														<string>⎢</string>
 													</dict>
 													<key>keyID</key>
-													<string>FD2211DE-BE91-490C-B083-F57C3078130D</string>
+													<string>⎢</string>
 													<key>output</key>
 													<string>⎢</string>
 												</dict>
@@ -15701,7 +15701,7 @@
 														<string>⎣</string>
 													</dict>
 													<key>keyID</key>
-													<string>E6D845E5-34EF-4679-831E-EB6417918805</string>
+													<string>⎣</string>
 													<key>output</key>
 													<string>⎣</string>
 												</dict>
@@ -15755,7 +15755,7 @@
 														<string>⦘</string>
 													</dict>
 													<key>keyID</key>
-													<string>7FB2454D-B79D-4E6D-B81B-92B8254FE3CC</string>
+													<string>⦘</string>
 													<key>output</key>
 													<string>⦘</string>
 												</dict>
@@ -15766,7 +15766,7 @@
 														<string>❳</string>
 													</dict>
 													<key>keyID</key>
-													<string>3A1CAA9B-9DE9-425A-B6A2-7314319498EB</string>
+													<string>❳</string>
 													<key>output</key>
 													<string>❳</string>
 												</dict>
@@ -15777,7 +15777,7 @@
 														<string>〕</string>
 													</dict>
 													<key>keyID</key>
-													<string>E1D68F4E-C98E-4348-992A-06EF9E7E9C09</string>
+													<string>〕</string>
 													<key>output</key>
 													<string>〕</string>
 												</dict>
@@ -15788,7 +15788,7 @@
 														<string>⎤</string>
 													</dict>
 													<key>keyID</key>
-													<string>ED469E46-8A63-4E89-9BCF-1CDEC44B9EDF</string>
+													<string>⎤</string>
 													<key>output</key>
 													<string>⎤</string>
 												</dict>
@@ -15799,7 +15799,7 @@
 														<string>⎥</string>
 													</dict>
 													<key>keyID</key>
-													<string>947C3D06-C1E4-4288-B8ED-7CBF96BA3FC5</string>
+													<string>⎥</string>
 													<key>output</key>
 													<string>⎥</string>
 												</dict>
@@ -15810,7 +15810,7 @@
 														<string>⎦</string>
 													</dict>
 													<key>keyID</key>
-													<string>909677C3-765B-4EF5-985E-D24B4F0E3A62</string>
+													<string>⎦</string>
 													<key>output</key>
 													<string>⎦</string>
 												</dict>
@@ -16015,7 +16015,7 @@
 														<string>¦</string>
 													</dict>
 													<key>keyID</key>
-													<string>AF0D5305-5BF5-46E7-9B1B-AB45B70E746D</string>
+													<string>¦</string>
 													<key>output</key>
 													<string>¦</string>
 												</dict>
@@ -16290,7 +16290,7 @@
 														<string>⸨</string>
 													</dict>
 													<key>keyID</key>
-													<string>FC3FA186-4677-442E-9D71-A7373CCA1187</string>
+													<string>⸨</string>
 													<key>output</key>
 													<string>⸨</string>
 												</dict>
@@ -16301,7 +16301,7 @@
 														<string>⦅</string>
 													</dict>
 													<key>keyID</key>
-													<string>46176A6F-8F3C-44F5-B07E-E2A69F232225</string>
+													<string>⦅</string>
 													<key>output</key>
 													<string>⦅</string>
 												</dict>
@@ -16312,7 +16312,7 @@
 														<string>⦇</string>
 													</dict>
 													<key>keyID</key>
-													<string>6CB351A9-6474-4487-A804-29ECDEF18EAB</string>
+													<string>⦇</string>
 													<key>output</key>
 													<string>⦇</string>
 												</dict>
@@ -16323,7 +16323,7 @@
 														<string>❨</string>
 													</dict>
 													<key>keyID</key>
-													<string>4D922555-6C3F-4027-AEA1-2E6C08A4FD39</string>
+													<string>❨</string>
 													<key>output</key>
 													<string>❨</string>
 												</dict>
@@ -16334,7 +16334,7 @@
 														<string>⎛</string>
 													</dict>
 													<key>keyID</key>
-													<string>E6378FDE-A7A6-4F62-9FBE-1F5358E14D70</string>
+													<string>⎛</string>
 													<key>output</key>
 													<string>⎛</string>
 												</dict>
@@ -16345,7 +16345,7 @@
 														<string>⎜</string>
 													</dict>
 													<key>keyID</key>
-													<string>28BF24EC-074F-4E99-A6EC-822120F1CDD2</string>
+													<string>⎜</string>
 													<key>output</key>
 													<string>⎜</string>
 												</dict>
@@ -16356,7 +16356,7 @@
 														<string>⎝</string>
 													</dict>
 													<key>keyID</key>
-													<string>A8E3DDE0-B41E-4BFE-8E7C-0C901F32D9FD</string>
+													<string>⎝</string>
 													<key>output</key>
 													<string>⎝</string>
 												</dict>
@@ -16399,7 +16399,7 @@
 														<string>⸩</string>
 													</dict>
 													<key>keyID</key>
-													<string>834A37CD-42EC-47F3-A939-12A46A086E76</string>
+													<string>⸩</string>
 													<key>output</key>
 													<string>⸩</string>
 												</dict>
@@ -16410,7 +16410,7 @@
 														<string>⦆</string>
 													</dict>
 													<key>keyID</key>
-													<string>D74BB768-C8E5-4A61-9CF0-D6EA87197F6E</string>
+													<string>⦆</string>
 													<key>output</key>
 													<string>⦆</string>
 												</dict>
@@ -16421,7 +16421,7 @@
 														<string>⦈</string>
 													</dict>
 													<key>keyID</key>
-													<string>B9DDD035-B7BE-4A04-B243-C7C4E823D764</string>
+													<string>⦈</string>
 													<key>output</key>
 													<string>⦈</string>
 												</dict>
@@ -16432,7 +16432,7 @@
 														<string>❩</string>
 													</dict>
 													<key>keyID</key>
-													<string>78F15B3B-8C54-4B31-BC32-6C9D7CC7D5AC</string>
+													<string>❩</string>
 													<key>output</key>
 													<string>❩</string>
 												</dict>
@@ -16443,7 +16443,7 @@
 														<string>⎞</string>
 													</dict>
 													<key>keyID</key>
-													<string>E126BBC6-69BB-4AF8-81CB-1D56A4F6DE0B</string>
+													<string>⎞</string>
 													<key>output</key>
 													<string>⎞</string>
 												</dict>
@@ -16454,7 +16454,7 @@
 														<string>⎟</string>
 													</dict>
 													<key>keyID</key>
-													<string>A9D8A9AB-2A12-4CDA-A953-FF1B0B4E5365</string>
+													<string>⎟</string>
 													<key>output</key>
 													<string>⎟</string>
 												</dict>
@@ -16465,7 +16465,7 @@
 														<string>⎠</string>
 													</dict>
 													<key>keyID</key>
-													<string>440E5774-FA56-4C25-AF82-D7BF242CCA18</string>
+													<string>⎠</string>
 													<key>output</key>
 													<string>⎠</string>
 												</dict>
@@ -16668,7 +16668,7 @@
 														<string>¢</string>
 													</dict>
 													<key>keyID</key>
-													<string>50E4B2D8-EE23-40BD-B243-084FBA97784E</string>
+													<string>¢</string>
 													<key>output</key>
 													<string>¢</string>
 												</dict>
@@ -16683,7 +16683,7 @@
 													<string>₽</string>
 												</dict>
 												<key>keyID</key>
-												<string>C88D35AB-5AFE-4554-8377-270EF1580F41</string>
+												<string>₽</string>
 												<key>output</key>
 												<string>₽</string>
 											</dict>
@@ -16722,7 +16722,7 @@
 														<string>⅌</string>
 													</dict>
 													<key>keyID</key>
-													<string>CFB69134-B51D-48A2-824A-542228CD4918</string>
+													<string>⅌</string>
 													<key>output</key>
 													<string>⅌</string>
 												</dict>
@@ -16859,7 +16859,7 @@
 														<string>⎧</string>
 													</dict>
 													<key>keyID</key>
-													<string>442C6B92-9326-4B82-B8D8-3FED1DBD4DF6</string>
+													<string>⎧</string>
 													<key>output</key>
 													<string>⎧</string>
 												</dict>
@@ -16870,7 +16870,7 @@
 														<string>⎨</string>
 													</dict>
 													<key>keyID</key>
-													<string>C1078C60-3B23-4E75-B531-87B2B2C70F2E</string>
+													<string>⎨</string>
 													<key>output</key>
 													<string>⎨</string>
 												</dict>
@@ -16881,7 +16881,7 @@
 														<string>⎪</string>
 													</dict>
 													<key>keyID</key>
-													<string>BD996723-BC3D-4926-9283-32FCC3C4B4C9</string>
+													<string>⎪</string>
 													<key>output</key>
 													<string>⎪</string>
 												</dict>
@@ -16892,7 +16892,7 @@
 														<string>⎩</string>
 													</dict>
 													<key>keyID</key>
-													<string>28EC242C-0DF8-401E-BD59-E0D6F80A8B30</string>
+													<string>⎩</string>
 													<key>output</key>
 													<string>⎩</string>
 												</dict>
@@ -16924,7 +16924,7 @@
 														<string>⎫</string>
 													</dict>
 													<key>keyID</key>
-													<string>88255969-E558-47E4-9375-FF660E819E2C</string>
+													<string>⎫</string>
 													<key>output</key>
 													<string>⎫</string>
 												</dict>
@@ -16935,7 +16935,7 @@
 														<string>⎬</string>
 													</dict>
 													<key>keyID</key>
-													<string>8EB9EFE5-BAC9-4EF4-AFAF-95A50C16EFED</string>
+													<string>⎬</string>
 													<key>output</key>
 													<string>⎬</string>
 												</dict>
@@ -16946,7 +16946,7 @@
 														<string>⎪</string>
 													</dict>
 													<key>keyID</key>
-													<string>BD996723-BC3D-4926-9283-32FCC3C4B4C9</string>
+													<string>⎪</string>
 													<key>output</key>
 													<string>⎪</string>
 												</dict>
@@ -16957,7 +16957,7 @@
 														<string>⎭</string>
 													</dict>
 													<key>keyID</key>
-													<string>BE15D4CF-DF04-42B6-A0D3-127E3501CBDD</string>
+													<string>⎭</string>
 													<key>output</key>
 													<string>⎭</string>
 												</dict>
@@ -17481,7 +17481,7 @@
 													<string>–n</string>
 												</dict>
 												<key>keyID</key>
-												<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+												<string>–n</string>
 												<key>output</key>
 												<string>–</string>
 											</dict>
@@ -17499,7 +17499,7 @@
 													<string>—m</string>
 												</dict>
 												<key>keyID</key>
-												<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+												<string>—m</string>
 												<key>output</key>
 												<string>—</string>
 											</dict>
@@ -17918,7 +17918,7 @@
 														<string>—m</string>
 													</dict>
 													<key>keyID</key>
-													<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+													<string>—m</string>
 													<key>output</key>
 													<string>—</string>
 												</dict>
@@ -17929,7 +17929,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
@@ -19759,7 +19759,7 @@
 													<string>‒#</string>
 												</dict>
 												<key>keyID</key>
-												<string>BB00DB10-B26C-45BB-A300-23F6FD95C3C3</string>
+												<string>‒#</string>
 												<key>output</key>
 												<string>‒</string>
 											</dict>
@@ -20017,7 +20017,7 @@
 														<string>‒#</string>
 													</dict>
 													<key>keyID</key>
-													<string>BB00DB10-B26C-45BB-A300-23F6FD95C3C3</string>
+													<string>‒#</string>
 													<key>output</key>
 													<string>‒</string>
 												</dict>
@@ -22895,7 +22895,7 @@
 														<string>—m</string>
 													</dict>
 													<key>keyID</key>
-													<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+													<string>—m</string>
 													<key>output</key>
 													<string>—</string>
 												</dict>
@@ -22917,7 +22917,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
@@ -25639,7 +25639,7 @@
 														<string>—m</string>
 													</dict>
 													<key>keyID</key>
-													<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+													<string>—m</string>
 													<key>output</key>
 													<string>—</string>
 												</dict>
@@ -25661,7 +25661,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
