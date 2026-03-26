@@ -264,6 +264,6 @@
 <key>period</key>        	<string>.</string>
 <key>periodShortcut</key>	<false/>
 <key>quotationMark</key> 	<string>“”</string>
-<key>type</key><string>Language1</string>
+<key>type</key>          	<string>Language1</string>
 </dict>
 </plist>
