@@ -3703,7 +3703,7 @@
 															<string>+з</string>
 														</dict>
 														<key>keyID</key>
-														<string>BDA15013-7A51-497D-9AAA-E88D5B50AF56</string>
+														<string>+ₚ</string>
 														<key>output</key>
 														<string>+</string>
 													</dict>
@@ -4144,7 +4144,7 @@
 															<string>+З</string>
 														</dict>
 														<key>keyID</key>
-														<string>FF6C3042-45BA-407A-A443-86C9850A84C8</string>
+														<string>+p</string>
 														<key>output</key>
 														<string>+</string>
 													</dict>
@@ -7832,7 +7832,7 @@
 															<string>*д</string>
 														</dict>
 														<key>keyID</key>
-														<string>387B2740-41BF-4284-B2C9-1D801DB78F1F</string>
+														<string>*ₗ</string>
 														<key>output</key>
 														<string>*</string>
 													</dict>
@@ -8306,7 +8306,7 @@
 															<string>*Д</string>
 														</dict>
 														<key>keyID</key>
-														<string>52E5933D-670F-4645-A97F-6032C451C766</string>
+														<string>*l</string>
 														<key>output</key>
 														<string>*</string>
 													</dict>
@@ -11643,7 +11643,7 @@
 															<string>/"</string>
 														</dict>
 														<key>keyID</key>
-														<string>16D1097A-076F-4B6C-96DF-E93360E48E83</string>
+														<string>/slash</string>
 														<key>output</key>
 														<string>/</string>
 													</dict>
@@ -12084,7 +12084,7 @@
 															<string>/'</string>
 														</dict>
 														<key>keyID</key>
-														<string>709A6423-8245-4DF0-AFE8-074BAE401A2A</string>
+														<string>/'</string>
 														<key>output</key>
 														<string>/</string>
 													</dict>
@@ -12713,7 +12713,7 @@
 														<string>—m</string>
 													</dict>
 													<key>keyID</key>
-													<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+													<string>—m</string>
 													<key>output</key>
 													<string>—</string>
 												</dict>
@@ -12746,7 +12746,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
@@ -12789,7 +12789,7 @@
 																	<string>—m</string>
 																</dict>
 																<key>keyID</key>
-																<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+																<string>—m</string>
 																<key>output</key>
 																<string>—</string>
 															</dict>
@@ -12822,7 +12822,7 @@
 																	<string>–n</string>
 																</dict>
 																<key>keyID</key>
-																<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+																<string>–n</string>
 																<key>output</key>
 																<string>–</string>
 															</dict>
@@ -13154,7 +13154,7 @@
 													<string>-₀</string>
 												</dict>
 												<key>keyID</key>
-												<string>FD01D6F7-8F13-4655-B278-18B6D4A158BD</string>
+												<string>-₀</string>
 												<key>output</key>
 												<string>-</string>
 											</dict>
@@ -13200,7 +13200,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
@@ -13252,7 +13252,7 @@
 																	<string>—m</string>
 																</dict>
 																<key>keyID</key>
-																<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+																<string>—m</string>
 																<key>output</key>
 																<string>—</string>
 															</dict>
@@ -13274,7 +13274,7 @@
 																	<string>–n</string>
 																</dict>
 																<key>keyID</key>
-																<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+																<string>–n</string>
 																<key>output</key>
 																<string>–</string>
 															</dict>
@@ -13606,7 +13606,7 @@
 													<string>—₀</string>
 												</dict>
 												<key>keyID</key>
-												<string>CC6426FD-B3CC-4EF7-8E70-3A9AAB5EA12C</string>
+												<string>—₀</string>
 												<key>output</key>
 												<string>—</string>
 											</dict>
@@ -15411,7 +15411,7 @@
 														<string>¦</string>
 													</dict>
 													<key>keyID</key>
-													<string>AF0D5305-5BF5-46E7-9B1B-AB45B70E746D</string>
+													<string>¦</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -15883,7 +15883,7 @@
 														<string>¢</string>
 													</dict>
 													<key>keyID</key>
-													<string>50E4B2D8-EE23-40BD-B243-084FBA97784E</string>
+													<string>¢</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -15896,7 +15896,7 @@
 													<string>₽</string>
 												</dict>
 												<key>keyID</key>
-												<string>C88D35AB-5AFE-4554-8377-270EF1580F41</string>
+												<string>₽</string>
 											</dict>
 										</dict>
 										<dict>
@@ -15929,7 +15929,7 @@
 														<string>⅌</string>
 													</dict>
 													<key>keyID</key>
-													<string>CFB69134-B51D-48A2-824A-542228CD4918</string>
+													<string>⅌</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -16412,7 +16412,7 @@
 													<string>–n</string>
 												</dict>
 												<key>keyID</key>
-												<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+												<string>–n</string>
 												<key>output</key>
 												<string>–</string>
 											</dict>
@@ -16430,7 +16430,7 @@
 													<string>—m</string>
 												</dict>
 												<key>keyID</key>
-												<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+												<string>—m</string>
 												<key>output</key>
 												<string>—</string>
 											</dict>
@@ -16798,7 +16798,7 @@
 														<string>—m</string>
 													</dict>
 													<key>keyID</key>
-													<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+													<string>—m</string>
 													<key>output</key>
 													<string>—</string>
 												</dict>
@@ -16809,7 +16809,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
@@ -18606,7 +18606,7 @@
 													<string>‒#</string>
 												</dict>
 												<key>keyID</key>
-												<string>BB00DB10-B26C-45BB-A300-23F6FD95C3C3</string>
+												<string>‒#</string>
 												<key>output</key>
 												<string>‒</string>
 											</dict>
@@ -18852,7 +18852,7 @@
 														<string>‒#</string>
 													</dict>
 													<key>keyID</key>
-													<string>BB00DB10-B26C-45BB-A300-23F6FD95C3C3</string>
+													<string>‒#</string>
 													<key>output</key>
 													<string>‒</string>
 												</dict>
@@ -21208,7 +21208,7 @@
 														<string>—m</string>
 													</dict>
 													<key>keyID</key>
-													<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+													<string>—m</string>
 													<key>output</key>
 													<string>—</string>
 												</dict>
@@ -21230,7 +21230,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
@@ -23353,7 +23353,7 @@
 														<string>—m</string>
 													</dict>
 													<key>keyID</key>
-													<string>EF979914-E272-4D23-8C51-7DF9638BCA0A</string>
+													<string>—m</string>
 													<key>output</key>
 													<string>—</string>
 												</dict>
@@ -23375,7 +23375,7 @@
 														<string>–n</string>
 													</dict>
 													<key>keyID</key>
-													<string>EADF617E-4617-476E-BA68-65783AB42BA5</string>
+													<string>–n</string>
 													<key>output</key>
 													<string>–</string>
 												</dict>
