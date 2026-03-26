@@ -320,6 +320,56 @@
 			<key>type</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>input1</key>
+			<string>Ь</string>
+			<key>input2</key>
+			<string>Ь</string>
+			<key>output</key>
+			<string>Ъ</string>
+			<key>type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>input1</key>
+			<string>Ъ</string>
+			<key>input2</key>
+			<string>Ь</string>
+			<key>output</key>
+			<string>Ь</string>
+			<key>type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>input1</key>
+			<string>ъ</string>
+			<key>input2</key>
+			<string>ь</string>
+			<key>output</key>
+			<string>ь</string>
+			<key>type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>input1</key>
+			<string>Ь</string>
+			<key>input2</key>
+			<string>ь</string>
+			<key>output</key>
+			<string>Ъ</string>
+			<key>type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>input1</key>
+			<string>Ъ</string>
+			<key>input2</key>
+			<string>ь</string>
+			<key>output</key>
+			<string>Ь</string>
+			<key>type</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 	<key>letters</key>
 	<array>
