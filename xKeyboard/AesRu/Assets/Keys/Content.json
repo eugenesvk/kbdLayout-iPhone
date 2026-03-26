@@ -816,18 +816,18 @@
                     }
                 },
                 {
-                    "keyID": "0391782E-B47C-44F2-AB63-8FB1FAE6CBFB",
+                    "keyID": "52E92EAB-6AE1-4B69-BADF-05E1B2170004",
                     "keyCap":
                     {
-                        "text": "П’"
+                        "text": "У["
                     },
-                    "output": "П"
+                    "output": "У"
                 },
                 {
-                    "keyID": "754C7CE6-E8B2-4818-B2C2-0BC57DEA4881",
+                    "keyID": "D05140E3-8E5E-45EA-A83B-FF52C2ED7F11",
                     "keyCap":
                     {
-                        "text": "К⁰"
+                        "text": "К]"
                     },
                     "output": "К"
                 },
@@ -918,18 +918,20 @@
                     }
                 },
                 {
-                    "keyID": "Т",
+                    "keyID": "4C6716AF-218A-4F25-9B2C-47B4BEA67488",
                     "keyCap":
                     {
-                        "text": "Т"
-                    }
+                        "text": "‹С"
+                    },
+                    "output": "С"
                 },
                 {
-                    "keyID": "Ь",
+                    "keyID": "656A40A4-32ED-46A9-A4E1-660032392287",
                     "keyCap":
                     {
-                        "text": "Ь"
-                    }
+                        "text": "М›"
+                    },
+                    "output": "М"
                 },
                 {
                     "keyID": "Н",
@@ -967,20 +969,18 @@
                     }
                 },
                 {
-                    "keyID": "91F9A484-DC57-429E-B3F4-D7957EED02EA",
+                    "keyID": "8302F8AC-4EE5-4F2B-B40A-C9527360E861",
                     "keyCap":
                     {
-                        "text": "Т₈"
-                    },
-                    "output": "Т"
+                        "text": "Х"
+                    }
                 },
                 {
-                    "keyID": "BF015E3F-49C1-4E37-8AB4-C878ADDA2540",
+                    "keyID": "A1938FD1-3590-445A-B0F4-2356C882963A",
                     "keyCap":
                     {
-                        "text": "Ь₉"
-                    },
-                    "output": "Ь"
+                        "text": "Ъ"
+                    }
                 },
                 {
                     "keyID": "Р",
@@ -1011,12 +1011,85 @@
                     }
                 },
                 {
-                    "keyID": "656A40A4-32ED-46A9-A4E1-660032392287",
+                    "keyID": "FD7081DE-864C-4F90-9F6E-5C6AFA31BC07",
                     "keyCap":
                     {
-                        "text": "М›"
+                        "text": "Ж"
+                    }
+                },
+                {
+                    "keyID": "2777F4B5-2BA9-4E83-9363-46780C76C299",
+                    "keyCap":
+                    {
+                        "text": "‛Ы"
                     },
-                    "output": "М"
+                    "output": "Ы"
+                },
+                {
+                    "keyID": "0391782E-B47C-44F2-AB63-8FB1FAE6CBFB",
+                    "keyCap":
+                    {
+                        "text": "П’"
+                    },
+                    "output": "П"
+                },
+                {
+                    "keyID": "Т",
+                    "keyCap":
+                    {
+                        "text": "Т"
+                    }
+                },
+                {
+                    "keyID": "Ь",
+                    "keyCap":
+                    {
+                        "text": "Ь"
+                    }
+                },
+                {
+                    "keyID": "517D1AF0-2D19-406C-B37C-F1CB0E8D6B29",
+                    "keyCap":
+                    {
+                        "text": "Б"
+                    }
+                },
+                {
+                    "keyID": "A51F608F-AB54-4782-A8D0-115BBC93B7AD",
+                    "keyCap":
+                    {
+                        "text": "Ю"
+                    }
+                },
+                {
+                    "keyID": "42E932CA-B42A-4952-A945-8D488F7DD1EA",
+                    "keyCap":
+                    {
+                        "text": "Э"
+                    }
+                },
+                {
+                    "keyID": "4FAD957D-EF6E-4BD3-9AB7-E76127898C3A",
+                    "keyCap":
+                    {
+                        "text": "Ё"
+                    }
+                },
+                {
+                    "keyID": "BF015E3F-49C1-4E37-8AB4-C878ADDA2540",
+                    "keyCap":
+                    {
+                        "text": "Б₉"
+                    },
+                    "output": "Б"
+                },
+                {
+                    "keyID": "E05C334F-E0E7-4E3A-B6CA-951FA5AC8E98",
+                    "keyCap":
+                    {
+                        "text": "Н₋"
+                    },
+                    "output": "Н"
                 },
                 {
                     "keyID": "382AF69E-2B33-4D54-8498-A315DCDEA765",
@@ -1027,12 +1100,52 @@
                     "output": "Г"
                 },
                 {
-                    "keyID": "2777F4B5-2BA9-4E83-9363-46780C76C299",
+                    "keyID": "8B65DA35-51EF-4CE7-99CD-72432DE0ABC0",
                     "keyCap":
                     {
-                        "text": "‛Ы"
+                        "text": "Ш₂"
                     },
-                    "output": "Ы"
+                    "output": "Ш"
+                },
+                {
+                    "keyID": "F94F808E-2DFE-47CD-B94D-CC182068CB3B",
+                    "keyCap":
+                    {
+                        "text": "Щ₃"
+                    },
+                    "output": "Щ"
+                },
+                {
+                    "keyID": "C6F42FA1-9E7B-40B4-BEB1-A8412A8576A6",
+                    "keyCap":
+                    {
+                        "text": "З₊"
+                    },
+                    "output": "З"
+                },
+                {
+                    "keyID": "6F50C35B-5F7B-4DD2-AC86-FF3BA2E5265C",
+                    "keyCap":
+                    {
+                        "text": "Т₇"
+                    },
+                    "output": "Т"
+                },
+                {
+                    "keyID": "91F9A484-DC57-429E-B3F4-D7957EED02EA",
+                    "keyCap":
+                    {
+                        "text": "Ь₈"
+                    },
+                    "output": "Ь"
+                },
+                {
+                    "keyID": "754C7CE6-E8B2-4818-B2C2-0BC57DEA4881",
+                    "keyCap":
+                    {
+                        "text": "К⁰"
+                    },
+                    "output": "К"
                 },
                 {
                     "keyID": "2C52FA0D-EF4B-4FC2-A341-A7C1BFA30478",
@@ -1059,76 +1172,12 @@
                     "output": "Л"
                 },
                 {
-                    "keyID": "8B65DA35-51EF-4CE7-99CD-72432DE0ABC0",
-                    "keyCap":
-                    {
-                        "text": "Ш₂"
-                    },
-                    "output": "Ш"
-                },
-                {
-                    "keyID": "F94F808E-2DFE-47CD-B94D-CC182068CB3B",
-                    "keyCap":
-                    {
-                        "text": "Щ₃"
-                    },
-                    "output": "Щ"
-                },
-                {
-                    "keyID": "6F50C35B-5F7B-4DD2-AC86-FF3BA2E5265C",
-                    "keyCap":
-                    {
-                        "text": "И₇"
-                    },
-                    "output": "И"
-                },
-                {
-                    "keyID": "E05C334F-E0E7-4E3A-B6CA-951FA5AC8E98",
-                    "keyCap":
-                    {
-                        "text": "Н₋"
-                    },
-                    "output": "Н"
-                },
-                {
-                    "keyID": "52E92EAB-6AE1-4B69-BADF-05E1B2170004",
-                    "keyCap":
-                    {
-                        "text": "У["
-                    },
-                    "output": "У"
-                },
-                {
-                    "keyID": "D05140E3-8E5E-45EA-A83B-FF52C2ED7F11",
-                    "keyCap":
-                    {
-                        "text": "К]"
-                    },
-                    "output": "К"
-                },
-                {
-                    "keyID": "C6F42FA1-9E7B-40B4-BEB1-A8412A8576A6",
-                    "keyCap":
-                    {
-                        "text": "З₊"
-                    },
-                    "output": "З"
-                },
-                {
                     "keyID": "18F4B34B-2E2D-459C-AA3B-9678420AE9E9",
                     "keyCap":
                     {
                         "text": "Д*"
                     },
                     "output": "Д"
-                },
-                {
-                    "keyID": "4C6716AF-218A-4F25-9B2C-47B4BEA67488",
-                    "keyCap":
-                    {
-                        "text": "‹С"
-                    },
-                    "output": "С"
                 }
             ]
         },
@@ -1172,18 +1221,18 @@
                     }
                 },
                 {
-                    "keyID": "E5ADF141-74A8-4333-97BA-A08BB9EBB244",
+                    "keyID": "17280CAA-B768-482E-B205-50B1A1EDBE68",
                     "keyCap":
                     {
-                        "text": "п’"
+                        "text": "у["
                     },
-                    "output": "п"
+                    "output": "у"
                 },
                 {
-                    "keyID": "E7D0BACC-712C-42B6-9D2D-4D0ECA247225",
+                    "keyID": "4A7AF99A-F8F0-4CD0-8524-34A7382AFFCA",
                     "keyCap":
                     {
-                        "text": "к¹"
+                        "text": "к]"
                     },
                     "output": "к"
                 },
@@ -1274,18 +1323,20 @@
                     }
                 },
                 {
-                    "keyID": "т",
+                    "keyID": "44C900AA-75A9-4AE6-BE63-CBAF62360F92",
                     "keyCap":
                     {
-                        "text": "т"
-                    }
+                        "text": "‹с"
+                    },
+                    "output": "с"
                 },
                 {
-                    "keyID": "ь",
+                    "keyID": "EB478FE3-66FB-4638-B1E1-1313980AF35B",
                     "keyCap":
                     {
-                        "text": "ь"
-                    }
+                        "text": "м›"
+                    },
+                    "output": "м"
                 },
                 {
                     "keyID": "н",
@@ -1323,20 +1374,18 @@
                     }
                 },
                 {
-                    "keyID": "3EF6FE2D-A718-4B6F-81B4-8FDA52E9E0B8",
+                    "keyID": "1B277CC6-5578-43BB-8795-9945EBCFC4EC",
                     "keyCap":
                     {
-                        "text": "т₈"
-                    },
-                    "output": "т"
+                        "text": "х"
+                    }
                 },
                 {
-                    "keyID": "33CC9103-E9F4-4E05-99E6-007B2B350924",
+                    "keyID": "C9058C04-5407-4F45-850B-F11C97F78EF2",
                     "keyCap":
                     {
-                        "text": "ь₉"
-                    },
-                    "output": "ь"
+                        "text": "ъ"
+                    }
                 },
                 {
                     "keyID": "р",
@@ -1367,12 +1416,85 @@
                     }
                 },
                 {
-                    "keyID": "EB478FE3-66FB-4638-B1E1-1313980AF35B",
+                    "keyID": "D021D594-F64A-4A26-A0AC-7B66D90AC924",
                     "keyCap":
                     {
-                        "text": "м›"
+                        "text": "ж"
+                    }
+                },
+                {
+                    "keyID": "9055C952-74C5-4113-9190-54737D5A8854",
+                    "keyCap":
+                    {
+                        "text": "‛ы"
                     },
-                    "output": "м"
+                    "output": "ы"
+                },
+                {
+                    "keyID": "E5ADF141-74A8-4333-97BA-A08BB9EBB244",
+                    "keyCap":
+                    {
+                        "text": "п’"
+                    },
+                    "output": "п"
+                },
+                {
+                    "keyID": "т",
+                    "keyCap":
+                    {
+                        "text": "т"
+                    }
+                },
+                {
+                    "keyID": "ь",
+                    "keyCap":
+                    {
+                        "text": "ь"
+                    }
+                },
+                {
+                    "keyID": "4C1B04EE-05C8-451E-9758-44EF2CF8451D",
+                    "keyCap":
+                    {
+                        "text": "б"
+                    }
+                },
+                {
+                    "keyID": "22C317F9-9B47-4B93-B98C-D997EE75CE19",
+                    "keyCap":
+                    {
+                        "text": "ю"
+                    }
+                },
+                {
+                    "keyID": "36F43413-D5DC-4D36-8C7E-CF8F7D2CB22F",
+                    "keyCap":
+                    {
+                        "text": "э"
+                    }
+                },
+                {
+                    "keyID": "26451A96-ABA2-4C93-904F-772C1028B073",
+                    "keyCap":
+                    {
+                        "text": "ё"
+                    }
+                },
+                {
+                    "keyID": "33CC9103-E9F4-4E05-99E6-007B2B350924",
+                    "keyCap":
+                    {
+                        "text": "б₉"
+                    },
+                    "output": "б"
+                },
+                {
+                    "keyID": "8EF4D4E5-00D7-4CF9-B2FD-863421E88E1F",
+                    "keyCap":
+                    {
+                        "text": "н₋"
+                    },
+                    "output": "н"
                 },
                 {
                     "keyID": "B64265E1-8280-4777-864F-F4B900A845F5",
@@ -1383,12 +1505,52 @@
                     "output": "г"
                 },
                 {
-                    "keyID": "9055C952-74C5-4113-9190-54737D5A8854",
+                    "keyID": "511389FD-C726-472D-9EFB-0A1C1318CC1B",
                     "keyCap":
                     {
-                        "text": "‛ы"
+                        "text": "ш₂"
                     },
-                    "output": "ы"
+                    "output": "ш"
+                },
+                {
+                    "keyID": "EB908A79-3FD9-49C8-B0F3-CC2F935AAF99",
+                    "keyCap":
+                    {
+                        "text": "щ₃"
+                    },
+                    "output": "щ"
+                },
+                {
+                    "keyID": "18123E08-E6D0-4A24-9597-59F148DDFBD7",
+                    "keyCap":
+                    {
+                        "text": "з₊"
+                    },
+                    "output": "з"
+                },
+                {
+                    "keyID": "C50C63B1-BD93-4EED-A149-05846DAE8B1E",
+                    "keyCap":
+                    {
+                        "text": "т₇"
+                    },
+                    "output": "т"
+                },
+                {
+                    "keyID": "3EF6FE2D-A718-4B6F-81B4-8FDA52E9E0B8",
+                    "keyCap":
+                    {
+                        "text": "ь₈"
+                    },
+                    "output": "ь"
+                },
+                {
+                    "keyID": "E7D0BACC-712C-42B6-9D2D-4D0ECA247225",
+                    "keyCap":
+                    {
+                        "text": "к¹"
+                    },
+                    "output": "к"
                 },
                 {
                     "keyID": "F12D9A24-9533-40C7-A9CB-D2E902604F92",
@@ -1415,76 +1577,12 @@
                     "output": "л"
                 },
                 {
-                    "keyID": "511389FD-C726-472D-9EFB-0A1C1318CC1B",
-                    "keyCap":
-                    {
-                        "text": "ш₂"
-                    },
-                    "output": "ш"
-                },
-                {
-                    "keyID": "EB908A79-3FD9-49C8-B0F3-CC2F935AAF99",
-                    "keyCap":
-                    {
-                        "text": "щ₃"
-                    },
-                    "output": "щ"
-                },
-                {
-                    "keyID": "C50C63B1-BD93-4EED-A149-05846DAE8B1E",
-                    "keyCap":
-                    {
-                        "text": "и₇"
-                    },
-                    "output": "и"
-                },
-                {
-                    "keyID": "8EF4D4E5-00D7-4CF9-B2FD-863421E88E1F",
-                    "keyCap":
-                    {
-                        "text": "н₋"
-                    },
-                    "output": "н"
-                },
-                {
-                    "keyID": "4A7AF99A-F8F0-4CD0-8524-34A7382AFFCA",
-                    "keyCap":
-                    {
-                        "text": "к]"
-                    },
-                    "output": "к"
-                },
-                {
-                    "keyID": "18123E08-E6D0-4A24-9597-59F148DDFBD7",
-                    "keyCap":
-                    {
-                        "text": "з₊"
-                    },
-                    "output": "з"
-                },
-                {
-                    "keyID": "17280CAA-B768-482E-B205-50B1A1EDBE68",
-                    "keyCap":
-                    {
-                        "text": "у["
-                    },
-                    "output": "у"
-                },
-                {
                     "keyID": "6464B77C-28AB-41C3-B23E-CE656272710D",
                     "keyCap":
                     {
                         "text": "д*"
                     },
                     "output": "д"
-                },
-                {
-                    "keyID": "44C900AA-75A9-4AE6-BE63-CBAF62360F92",
-                    "keyCap":
-                    {
-                        "text": "‹с"
-                    },
-                    "output": "с"
                 }
             ]
         },
@@ -2108,14 +2206,14 @@
                     }
                 },
                 {
-                    "keyID": "A730543B-F7F3-4E7B-A290-0FE89E2A8D23",
+                    "keyID": "899F0AF1-0E25-412A-8A7B-B5ECE8E36AFF",
                     "keyCap":
                     {
                         "text": ".,"
                     }
                 },
                 {
-                    "keyID": "B3AFE43E-A440-4D7F-BA6E-621B333A68A3",
+                    "keyID": "854EBDBE-8053-4B42-96CE-D89725594987",
                     "keyCap":
                     {
                         "text": ",."
@@ -2815,7 +2913,7 @@
                     "keyID": "B464AFDF-E679-40CB-868E-E543439A2140",
                     "keyCap":
                     {
-                        "text": "7и"
+                        "text": "7т"
                     },
                     "output": "7"
                 },
@@ -2823,7 +2921,7 @@
                     "keyID": "4FA82485-2DE6-47FF-98FD-41B8C206FC90",
                     "keyCap":
                     {
-                        "text": "8т"
+                        "text": "8ь"
                     },
                     "output": "8"
                 },
@@ -2831,7 +2929,7 @@
                     "keyID": "56797496-A478-4CC7-9C5D-DA5B184E5C6F",
                     "keyCap":
                     {
-                        "text": "9ь"
+                        "text": "9б"
                     },
                     "output": "9"
                 },
@@ -2978,7 +3076,7 @@
                     "keyID": "7E8BE0DF-8DE8-474E-A3E3-08AD8A2E419E",
                     "keyCap":
                     {
-                        "text": "7И"
+                        "text": "7Т"
                     },
                     "output": "7"
                 },
@@ -2986,7 +3084,7 @@
                     "keyID": "0C48C11A-0569-40A0-A155-E3620466F65D",
                     "keyCap":
                     {
-                        "text": "8Т"
+                        "text": "8Ь"
                     },
                     "output": "8"
                 },
@@ -2994,7 +3092,7 @@
                     "keyID": "8549A8BD-316C-4DFB-8AE7-79730574625F",
                     "keyCap":
                     {
-                        "text": "9Ь"
+                        "text": "9Б"
                     },
                     "output": "9"
                 }
