@@ -277,6 +277,14 @@
     <string> </string><key>output</key>
     <string> </string></dict>
   <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>ь</string><key>input2</key>
+    <string>ь</string><key>output</key>
+    <string>ъ</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>ъ</string><key>input2</key>
+    <string>ь</string><key>output</key>
+    <string>ь</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
     <string>Ь</string><key>input2</key>
     <string>Ь</string><key>output</key>
     <string>Ъ</string></dict>
@@ -284,10 +292,6 @@
     <string>Ъ</string><key>input2</key>
     <string>Ь</string><key>output</key>
     <string>Ь</string></dict>
-  <dict><key>type</key><integer>0</integer><key>input1</key>
-    <string>ъ</string><key>input2</key>
-    <string>ь</string><key>output</key>
-    <string>ь</string></dict>
   <dict><key>type</key><integer>0</integer><key>input1</key>
     <string>Ь</string><key>input2</key>
     <string>ь</string><key>output</key>
