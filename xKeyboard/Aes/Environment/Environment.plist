@@ -202,14 +202,6 @@
     <string>⋅</string></dict>
   <dict><key>type</key><integer>0</integer><key>input1</key>
     <string>,</string><key>input2</key>
-    <string>c</string><key>output</key>
-    <string>«</string></dict>
-  <dict><key>type</key><integer>0</integer><key>input1</key>
-    <string>,</string><key>input2</key>
-    <string>v</string><key>output</key>
-    <string>»</string></dict>
-  <dict><key>type</key><integer>0</integer><key>input1</key>
-    <string>,</string><key>input2</key>
     <string>d</string><key>output</key>
     <string>(</string></dict>
   <dict><key>type</key><integer>0</integer><key>input1</key>
@@ -236,6 +228,14 @@
     <string>,</string><key>input2</key>
     <string>t</string><key>output</key>
     <string>†</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>c</string><key>output</key>
+    <string>«</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>v</string><key>output</key>
+    <string>»</string></dict>
   <dict><key>type</key><integer>0</integer><key>input1</key>
     <string>,</string><key>input2</key>
     <string>s</string><key>output</key>
