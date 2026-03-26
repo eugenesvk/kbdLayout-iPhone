@@ -274,7 +274,7 @@
 														<string>ё</string>
 													</dict>
 													<key>keyID</key>
-													<string>26451A96-ABA2-4C93-904F-772C1028B073</string>
+													<string>ё</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -300,7 +300,7 @@
 														<string>Ё</string>
 													</dict>
 													<key>keyID</key>
-													<string>4FAD957D-EF6E-4BD3-9AB7-E76127898C3A</string>
+													<string>Ё</string>
 												</dict>
 											</array>
 											<key>shiftKey</key>
@@ -4461,7 +4461,7 @@
 													<string>х</string>
 												</dict>
 												<key>keyID</key>
-												<string>1B277CC6-5578-43BB-8795-9945EBCFC4EC</string>
+												<string>х</string>
 											</dict>
 											<key>shiftKey</key>
 											<dict>
@@ -4471,7 +4471,7 @@
 													<string>Х</string>
 												</dict>
 												<key>keyID</key>
-												<string>8302F8AC-4EE5-4F2B-B40A-C9527360E861</string>
+												<string>Х</string>
 											</dict>
 										</dict>
 										<dict>
@@ -4617,7 +4617,7 @@
 													<string>‛ы</string>
 												</dict>
 												<key>keyID</key>
-												<string>9055C952-74C5-4113-9190-54737D5A8854</string>
+												<string>‛ы</string>
 												<key>output</key>
 												<string>ы</string>
 											</dict>
@@ -4729,7 +4729,7 @@
 													<string>‛Ы</string>
 												</dict>
 												<key>keyID</key>
-												<string>2777F4B5-2BA9-4E83-9363-46780C76C299</string>
+												<string>‛Ы</string>
 												<key>output</key>
 												<string>Ы</string>
 											</dict>
@@ -7651,7 +7651,7 @@
 													<string>Л₆</string>
 												</dict>
 												<key>keyID</key>
-												<string>C6641283-C638-4088-81BE-222D10371940</string>
+												<string>Л₆</string>
 												<key>output</key>
 												<string>Л</string>
 											</dict>
@@ -8623,7 +8623,7 @@
 													<string>ж</string>
 												</dict>
 												<key>keyID</key>
-												<string>D021D594-F64A-4A26-A0AC-7B66D90AC924</string>
+												<string>ж</string>
 											</dict>
 											<key>shiftKey</key>
 											<dict>
@@ -8633,7 +8633,7 @@
 													<string>Ж</string>
 												</dict>
 												<key>keyID</key>
-												<string>FD7081DE-864C-4F90-9F6E-5C6AFA31BC07</string>
+												<string>Ж</string>
 											</dict>
 										</dict>
 										<dict>
@@ -9427,7 +9427,7 @@
 													<string>т₇</string>
 												</dict>
 												<key>keyID</key>
-												<string>C50C63B1-BD93-4EED-A149-05846DAE8B1E</string>
+												<string>т</string>
 												<key>output</key>
 												<string>т</string>
 											</dict>
@@ -9820,7 +9820,7 @@
 													<string>Т₇</string>
 												</dict>
 												<key>keyID</key>
-												<string>6F50C35B-5F7B-4DD2-AC86-FF3BA2E5265C</string>
+												<string>Т₇</string>
 												<key>output</key>
 												<string>Т</string>
 											</dict>
@@ -9837,7 +9837,7 @@
 														<string>ъ</string>
 													</dict>
 													<key>keyID</key>
-													<string>C9058C04-5407-4F45-850B-F11C97F78EF2</string>
+													<string>ъ</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -9907,7 +9907,7 @@
 																	<string>ъ</string>
 																</dict>
 																<key>keyID</key>
-																<string>C9058C04-5407-4F45-850B-F11C97F78EF2</string>
+																<string>ъ</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -9916,7 +9916,7 @@
 																	<string>Ъ</string>
 																</dict>
 																<key>keyID</key>
-																<string>A1938FD1-3590-445A-B0F4-2356C882963A</string>
+																<string>Ъ</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -10246,7 +10246,7 @@
 													<string>ь₈</string>
 												</dict>
 												<key>keyID</key>
-												<string>3EF6FE2D-A718-4B6F-81B4-8FDA52E9E0B8</string>
+												<string>ь</string>
 												<key>output</key>
 												<string>ь</string>
 											</dict>
@@ -10259,7 +10259,7 @@
 														<string>Ъ</string>
 													</dict>
 													<key>keyID</key>
-													<string>A1938FD1-3590-445A-B0F4-2356C882963A</string>
+													<string>Ъ</string>
 												</dict>
 												<dict>
 													<key>keyCap</key>
@@ -10327,7 +10327,7 @@
 																	<string>Ъ</string>
 																</dict>
 																<key>keyID</key>
-																<string>A1938FD1-3590-445A-B0F4-2356C882963A</string>
+																<string>Ъ</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -10336,7 +10336,7 @@
 																	<string>ъ</string>
 																</dict>
 																<key>keyID</key>
-																<string>C9058C04-5407-4F45-850B-F11C97F78EF2</string>
+																<string>ъ</string>
 															</dict>
 															<dict>
 																<key>keyCap</key>
@@ -10666,7 +10666,7 @@
 													<string>Ь₈</string>
 												</dict>
 												<key>keyID</key>
-												<string>91F9A484-DC57-429E-B3F4-D7957EED02EA</string>
+												<string>Ь₈</string>
 												<key>output</key>
 												<string>Ь</string>
 											</dict>
@@ -11065,7 +11065,7 @@
 													<string>б₉</string>
 												</dict>
 												<key>keyID</key>
-												<string>33CC9103-E9F4-4E05-99E6-007B2B350924</string>
+												<string>б</string>
 												<key>output</key>
 												<string>б</string>
 											</dict>
@@ -11469,7 +11469,7 @@
 													<string>Б₉</string>
 												</dict>
 												<key>keyID</key>
-												<string>BF015E3F-49C1-4E37-8AB4-C878ADDA2540</string>
+												<string>Б₉</string>
 												<key>output</key>
 												<string>Б</string>
 											</dict>
@@ -11487,7 +11487,7 @@
 													<string>ю</string>
 												</dict>
 												<key>keyID</key>
-												<string>22C317F9-9B47-4B93-B98C-D997EE75CE19</string>
+												<string>ю</string>
 											</dict>
 											<key>shiftKey</key>
 											<dict>
@@ -11497,7 +11497,7 @@
 													<string>Ю</string>
 												</dict>
 												<key>keyID</key>
-												<string>A51F608F-AB54-4782-A8D0-115BBC93B7AD</string>
+												<string>Ю</string>
 											</dict>
 										</dict>
 										<dict>
@@ -12437,7 +12437,7 @@
 													<string>ъ</string>
 												</dict>
 												<key>keyID</key>
-												<string>C9058C04-5407-4F45-850B-F11C97F78EF2</string>
+												<string>ъ</string>
 											</dict>
 											<key>shiftKey</key>
 											<dict>
@@ -12447,7 +12447,7 @@
 													<string>Ъ</string>
 												</dict>
 												<key>keyID</key>
-												<string>A1938FD1-3590-445A-B0F4-2356C882963A</string>
+												<string>Ъ</string>
 											</dict>
 										</dict>
 										<dict>
@@ -12479,7 +12479,7 @@
 													<string>э</string>
 												</dict>
 												<key>keyID</key>
-												<string>36F43413-D5DC-4D36-8C7E-CF8F7D2CB22F</string>
+												<string>э</string>
 											</dict>
 											<key>shiftKey</key>
 											<dict>
@@ -12489,7 +12489,7 @@
 													<string>Э</string>
 												</dict>
 												<key>keyID</key>
-												<string>42E932CA-B42A-4952-A945-8D488F7DD1EA</string>
+												<string>Э</string>
 											</dict>
 										</dict>
 										<dict>
