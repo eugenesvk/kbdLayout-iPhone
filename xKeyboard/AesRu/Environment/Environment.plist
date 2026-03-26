@@ -200,6 +200,30 @@
     <string>,</string><key>input2</key>
     <string>д</string><key>output</key>
     <string>⋅</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>в</string><key>output</key>
+    <string>(</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>а</string><key>output</key>
+    <string>)</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>у</string><key>output</key>
+    <string>[</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>к</string><key>output</key>
+    <string>]</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>я</string><key>output</key>
+    <string>{</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>ч</string><key>output</key>
+    <string>}</string></dict>
     <string>Ь</string><key>input2</key>
     <string>Ь</string><key>output</key>
     <string>Ъ</string></dict>
