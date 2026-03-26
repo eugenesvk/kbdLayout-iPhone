@@ -123,7 +123,7 @@
   {"keyID":"0850A5C4-B51A-455B-BD07-523DEF21C706","keyCap":{"text":"°"}},
   {"keyID":"F6AA57DD-690F-498B-9B67-800079E1DDC3","keyCap":{"text":"℃"}},
   {"keyID":"A7BDED73-FC78-4DF7-8BD2-4631755B9695","keyCap":{"text":"℉"}},
-  {"keyID":"C6236281-7B0F-40EE-92D3-593016B646D2","keyCap":{"text":""}},
+  {"keyID":"C6236281-7B0F-40EE-92D3-593016B646D2","keyCap":{"text":""},"output":" "},
   {"keyID":"ECDE9238-DFAE-44B1-BC36-98EE918662A5","keyCap":{"text":"‸"}},
   {"keyID":"529C8EC4-198A-4F9F-8620-7AD64501D531","keyCap":{"text":"⁁"}}
 ]},
