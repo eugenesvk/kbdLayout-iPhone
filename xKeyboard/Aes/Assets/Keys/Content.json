@@ -27,21 +27,26 @@
   {"keyID":"V","keyCap":{"text":"V"}},{"keyID":"B","keyCap":{"text":"B"}},
   {"keyID":"N","keyCap":{"text":"N"}},{"keyID":"M","keyCap":{"text":"M"}},
 
-  {"keyID":"Y","keyCap":{"text":"Y"}},{"keyID":"U","keyCap":{"text":"U"}},{"keyID":"I","keyCap":{"text":"I"}},{"keyID":"O","keyCap":{"text":"O"}},{"keyID":"P","keyCap":{"text":"P"}},
+  {"keyID":"Y","keyCap":{"text":"Y"}},{"keyID":"U","keyCap":{"text":"U"}},{"keyID":"I","keyCap":{"text":"I"}},
+  {"keyID":"O","keyCap":{"text":"O"}},{"keyID":"P","keyCap":{"text":"P"}},
   {"keyID":"N₈","keyCap":{"text":"N₈"},"output":"N"},{"keyID":"M₉","keyCap":{"text":"M₉"},"output":"M"},
 
-  {"keyID":"H","keyCap":{"text":"H"}},{"keyID":"J","keyCap":{"text":"J"}},{"keyID":"K","keyCap":{"text":"K"}},{"keyID":"L","keyCap":{"text":"L"}},
-  {"keyID":"L*","keyCap":{"text":"L*"},"output":"L"},{"keyID":"U₁","keyCap":{"text":"U₁"},"output":"U"},{"keyID":"‛S","keyCap":{"text":"‛S"},"output":"S"},
+  {"keyID":"H","keyCap":{"text":"H"}},{"keyID":"J","keyCap":{"text":"J"}},{"keyID":"K","keyCap":{"text":"K"}},
+  {"keyID":"L","keyCap":{"text":"L"}},{"keyID":"L*","keyCap":{"text":"L*"},"output":"L"},
+  {"keyID":"U₁","keyCap":{"text":"U₁"},"output":"U"},{"keyID":"‛S","keyCap":{"text":"‛S"},"output":"S"},
 
-  {"keyID":"H₄","keyCap":{"text":"H₄"},"output":"H"},{"keyID":"J₅","keyCap":{"text":"J₅"},"output":"J"},{"keyID":"K₆","keyCap":{"text":"K₆"},"output":"K"},
-  {"keyID":"O₃","keyCap":{"text":"O₃"},"output":"O"},{"keyID":"B₇","keyCap":{"text":"B₇"},"output":"B"},
+  {"keyID":"H₄","keyCap":{"text":"H₄"},"output":"H"},{"keyID":"J₅","keyCap":{"text":"J₅"},"output":"J"},
+  {"keyID":"K₆","keyCap":{"text":"K₆"},"output":"K"},{"keyID":"O₃","keyCap":{"text":"O₃"},"output":"O"},
+  {"keyID":"B₇","keyCap":{"text":"B₇"},"output":"B"},
   {"keyID":"I₂","keyCap":{"text":"I₂"},"output":"I"},{"keyID":"Y₋","keyCap":{"text":"Y₋"},"output":"Y"},
 
   {"keyID":"P₊","keyCap":{"text":"P₊"},"output":"P"},
   {"keyID":"‹C","keyCap":{"text":"‹C"},"output":"C"},{"keyID":"V›","keyCap":{"text":"V›"},"output":"V"},
-
   {"keyID":"Z{","keyCap":{"text":"Z{"},"output":"Z"},{"keyID":"X}","keyCap":{"text":"X}"},"output":"X"},
   {"keyID":"A#","keyCap":{"text":"A#"},"output":"A"}
+
+
+
 ]},
 {"title":"abc","keys":[
   {"keyID":"q","keyCap":{"text":"q"}},{"keyID":"w","keyCap":{"text":"w"}},{"keyID":"e","keyCap":{"text":"e"}},
