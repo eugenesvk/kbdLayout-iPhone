@@ -140,6 +140,66 @@
     <string>–</string><key>input2</key>
     <string>-</string><key>output</key>
     <string>-</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>г</string><key>output</key>
+    <string>1</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>ш</string><key>output</key>
+    <string>2</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>щ</string><key>output</key>
+    <string>3</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>р</string><key>output</key>
+    <string>4</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>о</string><key>output</key>
+    <string>5</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>л</string><key>output</key>
+    <string>6</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>д</string><key>output</key>
+    <string>7</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>т</string><key>output</key>
+    <string>8</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>ь</string><key>output</key>
+    <string>9</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>-</string><key>output</key>
+    <string>0</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>=</string><key>output</key>
+    <string>?</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>н</string><key>output</key>
+    <string>−</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>з</string><key>output</key>
+    <string>+</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>"</string><key>output</key>
+    <string>∕</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>д</string><key>output</key>
+    <string>⋅</string></dict>
     <string>Ь</string><key>input2</key>
     <string>Ь</string><key>output</key>
     <string>Ъ</string></dict>
