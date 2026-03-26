@@ -140,7 +140,7 @@
 													<string>у[</string>
 												</dict>
 												<key>keyID</key>
-												<string>17280CAA-B768-482E-B205-50B1A1EDFBD7</string>
+												<string>e[</string>
 												<key>output</key>
 												<string>у</string>
 											</dict>
@@ -220,7 +220,7 @@
 													<string>к]</string>
 												</dict>
 												<key>keyID</key>
-												<string>4A7AF99A-F8F0-4CD0-8524-34A7382A8E1F</string>
+												<string>r]</string>
 												<key>output</key>
 												<string>к</string>
 											</dict>
@@ -736,7 +736,7 @@
 													<string>н₋</string>
 												</dict>
 												<key>keyID</key>
-												<string>8EF4D4E5-00D7-4CF9-B2FD-863421E8CC1B</string>
+												<string>y₋</string>
 												<key>output</key>
 												<string>н</string>
 											</dict>
@@ -1558,7 +1558,7 @@
 													<string>г₁</string>
 												</dict>
 												<key>keyID</key>
-												<string>B64265E1-8280-4777-864F-F4B900A8F35B</string>
+												<string>u₁</string>
 												<key>output</key>
 												<string>г</string>
 											</dict>
@@ -2358,7 +2358,7 @@
 													<string>ш₂</string>
 												</dict>
 												<key>keyID</key>
-												<string>511389FD-C726-472D-9EFB-0A1C13188B1E</string>
+												<string>i₂</string>
 												<key>output</key>
 												<string>ш</string>
 											</dict>
@@ -3158,7 +3158,7 @@
 													<string>щ₃</string>
 												</dict>
 												<key>keyID</key>
-												<string>EB908A79-3FD9-49C8-B0F3-CC2F935A86C5</string>
+												<string>o₃</string>
 												<key>output</key>
 												<string>щ</string>
 											</dict>
@@ -4002,7 +4002,7 @@
 													<string>з₊</string>
 												</dict>
 												<key>keyID</key>
-												<string>18123E08-E6D0-4A24-9597-59F148DDFFCA</string>
+												<string>p₊</string>
 												<key>output</key>
 												<string>з</string>
 											</dict>
@@ -4805,7 +4805,7 @@
 													<string>в(</string>
 												</dict>
 												<key>keyID</key>
-												<string>5AECC379-F3F8-4DFC-A1D1-C2F135A17225</string>
+												<string>d(</string>
 												<key>output</key>
 												<string>в</string>
 											</dict>
@@ -4875,7 +4875,7 @@
 													<string>В(</string>
 												</dict>
 												<key>keyID</key>
-												<string>36FBD(</string>
+												<string>D(</string>
 												<key>output</key>
 												<string>В</string>
 											</dict>
@@ -4951,7 +4951,7 @@
 													<string>а)</string>
 												</dict>
 												<key>keyID</key>
-												<string>87371451-3F57-4273-A517-3EE6E92F3F2A</string>
+												<string>f)</string>
 												<key>output</key>
 												<string>а</string>
 											</dict>
@@ -5130,7 +5130,7 @@
 													<string>п’</string>
 												</dict>
 												<key>keyID</key>
-												<string>E5ADF141-74A8-4333-97BA-A08BB9EB7488</string>
+												<string>g’</string>
 												<key>output</key>
 												<string>п</string>
 											</dict>
@@ -5654,7 +5654,7 @@
 													<string>р₄</string>
 												</dict>
 												<key>keyID</key>
-												<string>F12D9A24-9533-40C7-A9CB-D2E902608854</string>
+												<string>h₄</string>
 												<key>output</key>
 												<string>р</string>
 											</dict>
@@ -6454,7 +6454,7 @@
 													<string>о₅</string>
 												</dict>
 												<key>keyID</key>
-												<string>152AC597-BC48-4277-8EC7-E834E4C04F92</string>
+												<string>j₅</string>
 												<key>output</key>
 												<string>о</string>
 											</dict>
@@ -7254,7 +7254,7 @@
 													<string>л₆</string>
 												</dict>
 												<key>keyID</key>
-												<string>30D35864-3A77-4040-AB69-98FAB13D1C7B</string>
+												<string>k₆</string>
 												<key>output</key>
 												<string>л</string>
 											</dict>
@@ -8131,7 +8131,7 @@
 													<string>д*</string>
 												</dict>
 												<key>keyID</key>
-												<string>6464B77C-28AB-41C3-B23E-CE656272BE68</string>
+												<string>l*</string>
 												<key>output</key>
 												<string>д</string>
 											</dict>
@@ -8745,7 +8745,7 @@
 													<string>‹c</string>
 												</dict>
 												<key>keyID</key>
-												<string>44C900AA-75A9-4AE6-BE63-CBAF6236710D</string>
+												<string>‹c</string>
 												<key>output</key>
 												<string>с</string>
 											</dict>
@@ -8847,7 +8847,7 @@
 													<string>м›</string>
 												</dict>
 												<key>keyID</key>
-												<string>EB478FE3-66FB-4638-B1E1-1313980A0924</string>
+												<string>v›</string>
 												<key>output</key>
 												<string>м</string>
 											</dict>
