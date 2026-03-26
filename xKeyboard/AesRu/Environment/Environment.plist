@@ -224,6 +224,22 @@
     <string>,</string><key>input2</key>
     <string>ч</string><key>output</key>
     <string>}</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>с</string><key>output</key>
+    <string>«</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>м</string><key>output</key>
+    <string>»</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>ы</string><key>output</key>
+    <string>‘</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>п</string><key>output</key>
+    <string>’</string></dict>
     <string>Ь</string><key>input2</key>
     <string>Ь</string><key>output</key>
     <string>Ъ</string></dict>
