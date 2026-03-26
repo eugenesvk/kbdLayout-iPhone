@@ -44,6 +44,17 @@ description continued
 
 Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard), change extension from `.zip` to `.xkeyboard`, copy to phone, and import from the app
 
+## Modify
+
+  - Sequence rules in `Environment\Environment.plist`, e.g., for `,.`→`;`
+    ```xml
+    <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>,</string><key>input2</key>
+    <string>.</string><key>output</key>
+    <string>;</string></dict>
+    ```
+
+
 ## Use
 
 ## Known issues
