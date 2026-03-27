@@ -63,9 +63,9 @@ Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard),
   - ❗ Deal-breaker: no swipe input support
   - No swipe gesture support, so no ↑swipe to Capitalize
   - No custom popup menu layout so you could have a 3⋅3 grid and
-    - hold+swipe↘ to insert `◌̀`
-    - hold+swipe↙ to insert `◌́`
-    for 2D-mnenomic entry of diacritics
+    - hold+swipe↘ to insert ◌̀
+    - hold+swipe↙ to insert ◌́
+    </br>for 2D-mnenomic entry of diacritics
   - No way to have a more ergonomic ~hex-like key positioning, only strict|- grid is allowed
   - Keys with 2 labels suffer in legibility because you can't position labels at arbitrary location with arbitrary colors
   - No convenient arbitrary symbol insert due to a lack of search, requiring adding limited symbol sets (see `🔣Chars` layout)
