@@ -26,7 +26,6 @@ iPhone keyboard layouts experimenting with improved ergonomics
     - <kbd>,</kbd><kbd>=</kbd> → `?` (or <kbd>.</kbd><kbd>-</kbd>)
     - <kbd>.</kbd><kbd>=</kbd> → `!`
     - see `Environment`→`Input Rules` for the full list
-  - Quick punctuation entry via 2 taps of nearby keys:
 
 ##### Numpad
   - Dumb `1234567890` row placement replaced with a numpad-like table
