@@ -32,9 +32,9 @@ description continued
 ##### Numpad
   - Dumb `1234567890` row placement replaced with a numpad-like table
     ```
-    yuiop
-    jkl
-    m,.
+    y₋ u₁ i₂ o₃ p₊
+       h₄ j₅ k₆ l*
+       b₇ n₈ m₉ "/
     ```
   - Quick single number entry without switching to a dedicated big layout via <kbd>,</kbd><kbd>U</kbd>… sequence
   - Quick continuous number entry: numpad "mode" remains active a long as the previous symbols is a number/numeric sign (`+-/` or figure␠ ` ` (TBD))
@@ -59,12 +59,17 @@ Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard),
 
 ## Known issues
 
+
+## xKeyboad limitations
+
   - ❗ Deal-breaker: no swipe input support
   - No swipe gesture support, so no ↑swipe to Capitalize
   - No custom popup menu layout so you could have a 3⋅3 grid and
     - hold+swipe↘ to insert `◌̀`
     - hold+swipe↙ to insert `◌́`
     for 2D-mnenomic entry of diacritics
-  - No way to have a more ergonomic ~hex-like key positioning
+  - No way to have a more ergonomic ~hex-like key positioning, only strict|- grid is allowed
+  - Keys with 2 labels suffer in legibility because you can't position labels at arbitrary location with arbitrary colors
+  - No convenient arbitrary symbol insert due to a lack of search, requiring adding limited symbol sets (see `🔣Chars` layout)
 
 ## Credits
