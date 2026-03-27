@@ -57,6 +57,7 @@ Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard),
 
 ## Known issues
 
+  - Per-layout word dictionaries are missing
 
 ## xKeyboad limitations
 
