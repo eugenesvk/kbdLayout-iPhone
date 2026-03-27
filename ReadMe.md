@@ -71,5 +71,6 @@ Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard),
   - Keys with 2 labels suffer in legibility because you can't position labels at arbitrary location with arbitrary colors to differentiate between main key and alt keys: <div>✗ <img src="./img/KeyCap.png" height="24"> ✓</div>
   - No convenient arbitrary symbol insert due to the lack of search, requiring adding limited symbol sets (see `🔣Chars` layout)
   - No support for custom fonts, so some symbols can't be displayed
+  - Very unergonomic dynamic rule editing with, e.g., if you have a prefix rule that depends on a 1–0 number being the prefix with either of 3 chars after it, good luck tapping those rules 30 time with multiple taps per each! As a workaround, you can copy&paste or edit it in the `.plist` layout directly if you setup a few of them. Or write your own rule-generating script.
 
 ## Credits
