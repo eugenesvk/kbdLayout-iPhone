@@ -11,9 +11,9 @@ description continued
 
 ## Introduction
 #### Disorganized list of design principles
-  - no Capitalization in on-hold popup menus: ⇧ is more convenient, so this just wastes space ![img](./img/NoCap.jpg)
+  - no Capitalization in on-hold popup menus: ⇧ is more convenient, so this just wastes space <img src="./img/NoCap.jpg" height="48">
     - ❗ but a ↑gesture would work even better (not suppoted)
-  - paired symbols at physically paired keys ![img](./img/Pairs.jpg)
+  - paired symbols at physically paired keys <img src="./img/Pairs.jpg" height="48">
   - Easy entry of similar symbols via circular entry (so that you can always return if you overtap), e.g.,
     - tap `-` key multiple times to cycle through hyphen-minus/en-dash/em-dash `-` `–` `–`: easy
     - tap `$` key multiple times to cycle through `$` `€` `₽` (hold for a longer list; change the rules to your 3 favorite currencies and replace the base key from `$` to your most frequently used, current layout uses `₽` as the base)
