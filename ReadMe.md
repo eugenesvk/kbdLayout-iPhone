@@ -1,11 +1,10 @@
 <p align="center">
-Brief description
+iPhone keyboard layouts experimenting with improved ergonomics
 <br>
-(description continued)
+(using <a href="https://apps.apple.com/us/app/xkeyboard-custom-keyboard/id1440245962">xKeyboard</a> $app)
 </p>
 
 <p align="center">  
-description continued
 </p>
 
 
