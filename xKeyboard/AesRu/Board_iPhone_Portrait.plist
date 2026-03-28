@@ -16899,12 +16899,45 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Я</string>
+														<string>⎧</string>
 													</dict>
 													<key>keyID</key>
-													<string>Я</string>
+													<string>⎧</string>
 													<key>output</key>
-													<string>Я</string>
+													<string>⎧</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎨</string>
+													</dict>
+													<key>keyID</key>
+													<string>⎨</string>
+													<key>output</key>
+													<string>⎨</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎪</string>
+													</dict>
+													<key>keyID</key>
+													<string>⎪</string>
+													<key>output</key>
+													<string>⎪</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎩</string>
+													</dict>
+													<key>keyID</key>
+													<string>⎩</string>
+													<key>output</key>
+													<string>⎩</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -16914,12 +16947,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>я</string>
+													<string>{</string>
 												</dict>
 												<key>keyID</key>
-												<string>я</string>
+												<string>{</string>
 												<key>output</key>
-												<string>я</string>
+												<string>{</string>
 											</dict>
 										</dict>
 										<dict>
@@ -16931,12 +16964,45 @@
 													<key>keyCap</key>
 													<dict>
 														<key>text</key>
-														<string>Ч</string>
+														<string>⎫</string>
 													</dict>
 													<key>keyID</key>
-													<string>Ч</string>
+													<string>⎫</string>
 													<key>output</key>
-													<string>Ч</string>
+													<string>⎫</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎬</string>
+													</dict>
+													<key>keyID</key>
+													<string>⎬</string>
+													<key>output</key>
+													<string>⎬</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎪</string>
+													</dict>
+													<key>keyID</key>
+													<string>⎪</string>
+													<key>output</key>
+													<string>⎪</string>
+												</dict>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>⎭</string>
+													</dict>
+													<key>keyID</key>
+													<string>⎭</string>
+													<key>output</key>
+													<string>⎭</string>
 												</dict>
 											</array>
 											<key>cellID</key>
@@ -16946,12 +17012,12 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>ч</string>
+													<string>}</string>
 												</dict>
 												<key>keyID</key>
-												<string>ч</string>
+												<string>}</string>
 												<key>output</key>
-												<string>ч</string>
+												<string>}</string>
 											</dict>
 										</dict>
 										<dict>
