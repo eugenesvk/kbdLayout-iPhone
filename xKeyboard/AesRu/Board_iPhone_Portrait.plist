@@ -17125,6 +17125,22 @@
 											</dict>
 										</dict>
 										<dict>
+											<key>cellID</key>
+											<string>9B02246B-606D-405D-A03B-AD4041C85972</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>Ä</string>
+												</dict>
+												<key>keyID</key>
+												<string>diÄ</string>
+												<key>output</key>
+												<string>̈</string>
+											</dict>
+										</dict>
+										<dict>
 											<key>candidateKeys</key>
 											<array>
 												<dict>
@@ -18092,11 +18108,19 @@
 													</dict>
 													<dict>
 														<key>cellID</key>
+														<string>F7F8E4A0-DC74-45F8-B091-E850EB8F515B</string>
+														<key>floatType</key>
+														<integer>0</integer>
+														<key>weight</key>
+														<real>1</real>
+													</dict>
+													<dict>
+														<key>cellID</key>
 														<string>89BD772B-0257-4802-B87F-B693840F089A</string>
 														<key>floatType</key>
 														<integer>0</integer>
 														<key>weight</key>
-														<real>2</real>
+														<real>1</real>
 													</dict>
 													<dict>
 														<key>cellID</key>
@@ -18293,6 +18317,8 @@
 										<string>ABC01189-E19E-4400-8A42-5F48A2118FE5</string>
 										<key>F6CCF49D-4151-40B3-A77E-B3B6243E8DBA</key>
 										<string>AFC762CD-70AA-4937-9105-63927A5CA77E</string>
+										<key>F7F8E4A0-DC74-45F8-B091-E850EB8F515B</key>
+										<string>9B02246B-606D-405D-A03B-AD4041C85972</string>
 										<key>FC116776-94A9-4C90-96BC-C126D8018130</key>
 										<string>69CF1B5A-4976-46A7-956B-54CDA44D7FFE</string>
 										<key>FE60DC8B-2350-45C2-A23D-6480E449CD7E</key>
@@ -21074,8 +21100,22 @@
 											</dict>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>A21505FD-029D-40E8-9488-951E585AF266</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>A̧</string>
+												</dict>
+												<key>keyID</key>
+												<string>diA̧</string>
+												<key>output</key>
+												<string>̧</string>
+											</dict>
 										</dict>
 										<dict>
 											<key>cellID</key>
@@ -21422,8 +21462,22 @@
 											</dict>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>12C25746-640E-409E-950E-0769C0961C45</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>A͍</string>
+												</dict>
+												<key>keyID</key>
+												<string>diA͍</string>
+												<key>output</key>
+												<string>͍</string>
+											</dict>
 										</dict>
 										<dict>
 											<key>backgroundHidden</key>
@@ -21444,8 +21498,22 @@
 											</dict>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>DA0796C0-5FFD-4C1E-9522-BC3D66846D72</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>A͔</string>
+												</dict>
+												<key>keyID</key>
+												<string>diA͔</string>
+												<key>output</key>
+												<string>͔</string>
+											</dict>
 										</dict>
 										<dict>
 											<key>cellID</key>
@@ -21463,6 +21531,24 @@
 												<string>982D082D-26AB-4D8C-8BA5-797D0E2D64E6</string>
 												<key>type</key>
 												<integer>5</integer>
+											</dict>
+										</dict>
+										<dict>
+											<key>backgroundHidden</key>
+											<true/>
+											<key>cellID</key>
+											<string>915C2208-3017-4A9C-B2BF-F8247932206E</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>A̤</string>
+												</dict>
+												<key>keyID</key>
+												<string>diA̤</string>
+												<key>output</key>
+												<string>̤</string>
 											</dict>
 										</dict>
 										<dict>
@@ -22517,11 +22603,19 @@
 													</dict>
 													<dict>
 														<key>cellID</key>
+														<string>0B1E5153-8207-4681-A3F4-C8D788BE1E17</string>
+														<key>floatType</key>
+														<integer>0</integer>
+														<key>weight</key>
+														<real>1</real>
+													</dict>
+													<dict>
+														<key>cellID</key>
 														<string>BCE3CD59-640C-48C9-9188-85DB58053868</string>
 														<key>floatType</key>
 														<integer>0</integer>
 														<key>weight</key>
-														<real>2</real>
+														<real>1</real>
 													</dict>
 													<dict>
 														<key>cellID</key>
@@ -22652,6 +22746,8 @@
 									<dict>
 										<key>0466FB40-4635-4E93-866B-2B4630596C62</key>
 										<string>35D9D441-3081-494C-98C8-FF6A620F11B4</string>
+										<key>0B1E5153-8207-4681-A3F4-C8D788BE1E17</key>
+										<string>915C2208-3017-4A9C-B2BF-F8247932206E</string>
 										<key>0B8ABE84-5A31-43E9-8B1A-0B242F40D32E</key>
 										<string>0A605B22-FE9E-426E-8979-6B589B54BC39</string>
 										<key>0D6B82C7-57E9-4DDC-A51B-7E3F3CB0C9A2</key>
@@ -22774,16 +22870,44 @@
 											<string>6CB70C52-9044-46FD-9E77-C30849406637</string>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>D3A31962-FB84-4A85-9195-E5C0B8A983A3</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>U̴̸</string>
+												</dict>
+												<key>keyID</key>
+												<string>diU̴̸</string>
+												<key>output</key>
+												<string>̴</string>
+											</dict>
 										</dict>
 										<dict>
 											<key>cellID</key>
 											<string>89852E7B-EE19-4DFB-A5E2-AEDB0D1AA3DA</string>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>6DCED221-FC55-4573-87F0-F122226E63A7</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>A͘</string>
+												</dict>
+												<key>keyID</key>
+												<string>diA͘</string>
+												<key>output</key>
+												<string>͘</string>
+											</dict>
 										</dict>
 										<dict>
 											<key>cellID</key>
@@ -23163,8 +23287,22 @@
 											<string>5CF52657-D1A2-4DC8-84BF-BCB034566FD8</string>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>2A82E843-7BC7-4C17-A590-4C1AB70953DF</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>A̋</string>
+												</dict>
+												<key>keyID</key>
+												<string>diA̋</string>
+												<key>output</key>
+												<string>̋</string>
+											</dict>
 										</dict>
 										<dict>
 											<key>backgroundHidden</key>
@@ -23231,8 +23369,22 @@
 											</dict>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>D4BC1639-F543-4BF5-BB9E-7FE1ACB08B16</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>Ä́σ</string>
+												</dict>
+												<key>keyID</key>
+												<string>diÄ́σ</string>
+												<key>output</key>
+												<string>̈́</string>
+											</dict>
 										</dict>
 										<dict>
 											<key>backgroundHidden</key>
@@ -23581,16 +23733,58 @@
 											</dict>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>5106FEE8-C8C2-4AED-AF07-A454D9C28ACF</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>Aͣ</string>
+												</dict>
+												<key>keyID</key>
+												<string>diAͣ</string>
+												<key>output</key>
+												<string>ͣ</string>
+											</dict>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>684775A1-6A8F-4DDE-9737-B5C76D60C124</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>Aͯ</string>
+												</dict>
+												<key>keyID</key>
+												<string>diAͯ</string>
+												<key>output</key>
+												<string>ͯ</string>
+											</dict>
 										</dict>
 										<dict>
+											<key>backgroundHidden</key>
+											<true/>
 											<key>cellID</key>
 											<string>0F612DEC-BC82-41C2-834D-D2AAC2B99FF7</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>A͐</string>
+												</dict>
+												<key>keyID</key>
+												<string>diA͐</string>
+												<key>output</key>
+												<string>͐</string>
+											</dict>
 										</dict>
 										<dict>
 											<key>cellID</key>
@@ -23608,6 +23802,24 @@
 												<string>CD5EB43F-30AA-4E43-8250-773F6BA2676B</string>
 												<key>type</key>
 												<integer>5</integer>
+											</dict>
+										</dict>
+										<dict>
+											<key>backgroundHidden</key>
+											<true/>
+											<key>cellID</key>
+											<string>B3F54FE6-A681-4159-A6F0-C7E7D1243402</string>
+											<key>key</key>
+											<dict>
+												<key>keyCap</key>
+												<dict>
+													<key>text</key>
+													<string>À́</string>
+												</dict>
+												<key>keyID</key>
+												<string>diÀ́</string>
+												<key>output</key>
+												<string>́</string>
 											</dict>
 										</dict>
 										<dict>
@@ -24662,11 +24874,19 @@
 													</dict>
 													<dict>
 														<key>cellID</key>
+														<string>D1393BF0-A55C-4E3B-BF20-6B45BAC42D24</string>
+														<key>floatType</key>
+														<integer>0</integer>
+														<key>weight</key>
+														<real>1</real>
+													</dict>
+													<dict>
+														<key>cellID</key>
 														<string>21C8CA48-C7B4-42C5-9938-4951EAB00BE6</string>
 														<key>floatType</key>
 														<integer>0</integer>
 														<key>weight</key>
-														<real>2</real>
+														<real>1</real>
 													</dict>
 													<dict>
 														<key>cellID</key>
@@ -24855,6 +25075,8 @@
 										<string>5D307EB5-C2CF-4AAF-939B-8B81CF26CC95</string>
 										<key>CF327AE5-717B-43B2-9F81-6E69B3D38746</key>
 										<string>2F2132A3-6DB7-462B-8E08-D1E4DCEC7802</string>
+										<key>D1393BF0-A55C-4E3B-BF20-6B45BAC42D24</key>
+										<string>B3F54FE6-A681-4159-A6F0-C7E7D1243402</string>
 										<key>DB1EB7C4-1CE4-46C5-8F32-E29A1293DAF6</key>
 										<string>89852E7B-EE19-4DFB-A5E2-AEDB0D1AA3DA</string>
 										<key>E03BB459-9F60-4F88-A600-4B57103419D2</key>
