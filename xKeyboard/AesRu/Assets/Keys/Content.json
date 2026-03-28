@@ -46,7 +46,8 @@
   {"keyID":"Ф#","keyCap":{"text":"Ф#"},"output":"Ф"},{"keyID":"Д*","keyCap":{"text":"Д*"},"output":"Д"},
 
   {"keyID":"Х","keyCap":{"text":"Х"}},{"keyID":"Ъ","keyCap":{"text":"Ъ"}},{"keyID":"Э","keyCap":{"text":"Э"}},
-  {"keyID":"Б","keyCap":{"text":"Б"}},{"keyID":"Ю","keyCap":{"text":"Ю"}}
+  {"keyID":"Б","keyCap":{"text":"Б"}},{"keyID":"Ю","keyCap":{"text":"Ю"}},
+  {"keyID":"ЖЭ","keyCap":{"text":"ЖЭ"},"output":"Ж"}
 ]},
 {"title":"йцу","keys":[
   {"keyID":"й","keyCap":{"text":"й"}},{"keyID":"ц","keyCap":{"text":"ц"}},{"keyID":"у","keyCap":{"text":"у"}},
@@ -85,7 +86,8 @@
   {"keyID":"ф#","keyCap":{"text":"ф#"},"output":"ф"},{"keyID":"д*","keyCap":{"text":"д*"},"output":"д"},
 
   {"keyID":"х","keyCap":{"text":"х"}},{"keyID":"ъ","keyCap":{"text":"ъ"}},{"keyID":"э","keyCap":{"text":"э"}},
-  {"keyID":"б","keyCap":{"text":"б"}},{"keyID":"ю","keyCap":{"text":"ю"}}
+  {"keyID":"б","keyCap":{"text":"б"}},{"keyID":"ю","keyCap":{"text":"ю"}},
+  {"keyID":"жэ","keyCap":{"text":"жэ"},"output":"ж"}
 ]},
 
 {"title":"?<+","keys":[
