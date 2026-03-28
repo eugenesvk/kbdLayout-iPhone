@@ -9033,6 +9033,18 @@
 										<dict>
 											<key>backgroundHidden</key>
 											<true/>
+											<key>candidateKeys</key>
+											<array>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>э</string>
+													</dict>
+													<key>keyID</key>
+													<string>э</string>
+												</dict>
+											</array>
 											<key>cellID</key>
 											<string>3BEE3F04-1960-48BD-A358-201D3346728A</string>
 											<key>key</key>
@@ -9040,19 +9052,35 @@
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>ж</string>
+													<string>жэ</string>
 												</dict>
 												<key>keyID</key>
+												<string>жэ</string>
+												<key>output</key>
 												<string>ж</string>
 											</dict>
+											<key>shiftCandidateKeys</key>
+											<array>
+												<dict>
+													<key>keyCap</key>
+													<dict>
+														<key>text</key>
+														<string>Э</string>
+													</dict>
+													<key>keyID</key>
+													<string>Э</string>
+												</dict>
+											</array>
 											<key>shiftKey</key>
 											<dict>
 												<key>keyCap</key>
 												<dict>
 													<key>text</key>
-													<string>Ж</string>
+													<string>Жэ</string>
 												</dict>
 												<key>keyID</key>
+												<string>ЖЭ</string>
+												<key>output</key>
 												<string>Ж</string>
 											</dict>
 										</dict>
