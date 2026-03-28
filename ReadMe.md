@@ -73,5 +73,6 @@ Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard),
   - No convenient arbitrary symbol insert due to the lack of search, requiring adding limited symbol sets (see `🔣Chars` layout)
   - No support for custom fonts, so some symbols can't be displayed
   - Very unergonomic dynamic rule editing with, e.g., if you have a prefix rule that depends on a 1–0 number being the prefix with either of 3 chars after it, good luck tapping those rules 30 time with multiple taps per each! As a workaround, you can copy&paste or edit it in the `.plist` layout directly if you setup a few of them. Or write your own rule-generating script.
+  - No undo/redo/diff (list of edits and their effect), so making a mistake is costly (workaround: use a proper computer with version control to edit xKeyboard files as much as possible).
 
 ## Credits
