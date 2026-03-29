@@ -247,7 +247,7 @@
   <dict><key>type</key><integer>0</integer><key>input1</key>
     <string>,</string><key>input2</key>
     <string>е</string><key>output</key>
-    <string>†</string></dict>
+    <string>ё</string></dict>
   <dict><key>type</key><integer>0</integer><key>input1</key>
     <string>,</string><key>input2</key>
     <string>с</string><key>output</key>
