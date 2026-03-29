@@ -74,7 +74,7 @@ Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard),
   - No way to have a more ergonomic ~hex-like key positioning, only strict|- grid is allowed
   - No convenient arbitrary symbol insert due to the lack of search, requiring adding limited symbol sets (see `🔣Chars` layout)
   - Dynamic rules and input rules
-    - No way to delete the previous dynamic key
+    - No way to delete the previous dynamic key, so while you can have an input rule converting <kbd>q</kbd><kbd>q</kbd> into inserting 😼, after pressing the first <kbd>q</kbd> your layout won't change to indicate that the next <kbd>q</kbd> will insert a different symbol.
     - No way to move the caret so you could, with a single tap, insert `(⎀)` parenthesis and move text caret inside (or `‘⎀’`)
     - No way for dynamic keys/input rules to switch layers, e.g., <kbd>q</kbd><kbd>q</kbd> should be able to enable Emoji layer
     - No support for better text editing options: move/select/delete by word
