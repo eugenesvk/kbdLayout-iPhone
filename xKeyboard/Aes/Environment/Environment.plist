@@ -73,6 +73,10 @@
     <string>†</string><key>output</key>
     <string>‡</string></dict>
   <dict><key>type</key><integer>0</integer><key>input1</key>
+    <string>‡</string><key>input2</key>
+    <string>†</string><key>output</key>
+    <string>†</string></dict>
+  <dict><key>type</key><integer>0</integer><key>input1</key>
     <string>†</string><key>input2</key>
     <string>*</string><key>output</key>
     <string>⁑</string></dict>
