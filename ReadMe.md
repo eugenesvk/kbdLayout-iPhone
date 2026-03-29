@@ -93,5 +93,13 @@ Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard),
     - No undo/redo/diff (list of edits and their effect), so making a mistake is costly (workaround: use a proper computer with version control to edit xKeyboard files as much as possible)
     - No quick way to enter `Keys` sets, currently need to enter layout edit, press a button, select key...
     - No multilingual support, requiring duplicating the whole keyboard instead of being able to set only some properties of a key (like the main key/label while leaving candidate symbols the same) and then have a dedicated "switch language" option
+    - Awfully verbose XML: instead of a simple `+ t=0 , . ;` dynamic rule you need this (and this is already hand-optimized for readability, the default format is even worse)
+      ```xml
+      <dict><key>type</key><integer>0</integer><key>input1</key>
+      <string>,</string><key>input2</key>
+      <string>.</string><key>output</key>
+      <string>;</string></dict>
+      ```
+
 
 ## Credits
