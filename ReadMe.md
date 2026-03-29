@@ -64,15 +64,34 @@ Zip contents of a subfolder (not the subfolder) inside [xKeyboard](./xKeyboard),
 
   - ❗ Deal-breaker: no swipe input support
   - No swipe gesture support, so no ↑swipe to Capitalize
+  - Text sliding via the top panel is too fast, users should be able to control speed and acceleration curve and type
   - No custom popup menu layout so you could have a 3⋅3 grid and
     - hold+swipe↘ to insert ◌̀
     - hold+swipe↙ to insert ◌́
     </br>for 2D-mnenomic entry of diacritics
+    - Ideally the menu should be circlular with arbitray areas, also helps in precision: the farther you move the finger from the center, the bigger the activation area
+    - This should also allow raising the limit of 10 keys
   - No way to have a more ergonomic ~hex-like key positioning, only strict|- grid is allowed
-  - Keys with 2 labels suffer in legibility because you can't position labels at arbitrary location with arbitrary colors to differentiate between main key and alt keys: <div>✗ <img src="./img/KeyCap.png" height="24"> ✓</div>
   - No convenient arbitrary symbol insert due to the lack of search, requiring adding limited symbol sets (see `🔣Chars` layout)
-  - No support for custom fonts, so some symbols can't be displayed
-  - Very unergonomic dynamic rule editing with, e.g., if you have a prefix rule that depends on a 1–0 number being the prefix with either of 3 chars after it, good luck tapping those rules 30 time with multiple taps per each! As a workaround, you can copy&paste or edit it in the `.plist` layout directly if you setup a few of them. Or write your own rule-generating script.
-  - No undo/redo/diff (list of edits and their effect), so making a mistake is costly (workaround: use a proper computer with version control to edit xKeyboard files as much as possible).
+  - Dynamic rules and input rules
+    - No way to delete the previous dynamic key
+    - No way to move the caret so you could, with a single tap, insert `(⎀)` parenthesis and move text caret inside (or `‘⎀’`)
+    - No way for dynamic keys/input rules to switch layers, e.g., <kbd>q</kbd><kbd>q</kbd> should be able to enable Emoji layer
+    - No support for better text editing options: move/select/delete by word
+    - Some functions are limited to the toolbar, e.g., copy/paste
+  - Visual design
+    - Superfluous key label in the key hold menu: if you needed the original key, you'd just tap it! You do the less ergonomic "hold" to insert other symbols
+    - Keys with 2 labels suffer in legibility because you can't position labels at arbitrary location with arbitrary colors to differentiate between main key and alt keys: <div>✗ <img src="./img/KeyCap.png" height="24"> ✓</div>
+    - Similarly, no custom button background prevents signalling that <kbd>,</kbd> is a special modifier-like key
+    - Some symbols can't be displayed due to a lack of custom font support
+    - No way to rename custom groups `1`,`2`,`3` of Keyboards at the top toolbar to indicate the actual layout that would change if you press them
+  - Configuration is rather unergonomic:
+    - Dynamic rule creation/editing: if you have a prefix rule that depends on 
+      - 1–0 number being the prefix with
+      - either of 3 chars after it
+      </br> …good luck tapping those rules 30 time with multiple taps per each! As a workaround, you can copy&paste or edit it in the `.plist` layout directly if you setup a few of them. Or write your own rule-generating script.
+    - No undo/redo/diff (list of edits and their effect), so making a mistake is costly (workaround: use a proper computer with version control to edit xKeyboard files as much as possible)
+    - No quick way to enter `Keys` sets, currently need to enter layout edit, press a button, select key...
+    - No multilingual support, requiring duplicating the whole keyboard instead of being able to set only some properties of a key (like the main key/label while leaving candidate symbols the same) and then have a dedicated "switch language" option
 
 ## Credits
